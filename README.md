@@ -7,12 +7,6 @@
     ✅ ['hɪdn]
 
     ❌ ['haidn]
- 
-1. mobile
-
-   ✅ [ˈmobəl; ˈmoˌbaɪl; ˈmoˌbil]
- 
-   ❌ [ˈməʊbaɪl]
    
 1. cache
 
