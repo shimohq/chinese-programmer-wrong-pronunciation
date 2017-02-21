@@ -1,32 +1,31 @@
 # chinese-programmer-wrong-pronunciation
 中国程序员容易发音错误的单词 (以美式发音为准, 非音标为字母发音)
 
-
-1. hidden  [🔊](https://www.merriam-webster.com/dictionary/hidden?pronunciation)
+1. hidden  [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2)
 
    ✅ ['hɪdn]
 
    ❌ ['haidn]
    
-1. cache  [🔊](https://www.merriam-webster.com/dictionary/cache?pronunciation)
+1. cache  [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2)
 
    ✅ [kæʃ]
  
    ❌ [kætʃ]
 
-1. null  [🔊](https://www.merriam-webster.com/dictionary/null?pronunciation)
+1. null  [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2)
 
    ✅ [nʌl]
  
    ❌ [naʊ]
 
-1. jpg  [🔊](https://www.merriam-webster.com/dictionary/JPEG?pronunciation)
+1. jpg  [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2)
 
    ✅ [ˈdʒeɪpɛɡ]
  
    ❌ jpg
 
-1. integer  [🔊](https://www.merriam-webster.com/dictionary/integer?pronunciation)
+1. integer  [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2)
 
    ✅ [ˈɪntɪdʒə]
  
@@ -50,13 +49,13 @@
  
    ❌ ngx
 
-1. Apache  [🔊](https://www.merriam-webster.com/dictionary/Apache?pronunciation)
+1. Apache  [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2)
 
    ✅ [əˈpætʃiː]
  
    ❌ [ʌpʌtʃ]
 
-1. avatar  [🔊](https://www.merriam-webster.com/dictionary/avatar?pronunciation)
+1. avatar  [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2)
 
    ✅ [ˌævə'tɑr]
  
@@ -68,37 +67,37 @@
  
    ❌ OS X
 
-1. array  [🔊](https://www.merriam-webster.com/dictionary/array?pronunciation)
+1. array  [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2)
 
     ✅ [ə'rei]
  
     ❌ [æ'rei]
 
-1. retina  [🔊](https://www.merriam-webster.com/dictionary/retina?pronunciation)
+1. retina  [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2)
 
     ✅ ['retnə]
  
     ❌ [ritina]
 
-1. issue  [🔊](https://www.merriam-webster.com/dictionary/issue?pronunciation)
+1. issue  [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2)
 
     ✅ [ˈɪʃu]
  
     ❌ [ˈaɪʃu]
 
-1. git  [🔊](https://www.merriam-webster.com/dictionary/git?pronunciation)
+1. git  [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2)
 
     ✅ [ɡɪt]
  
     ❌ [dʒɪt; jɪt]
 
-1. main  [🔊](https://www.merriam-webster.com/dictionary/main?pronunciation)
+1. main  [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2)
 
     ✅ [meɪn]
  
     ❌ [mɪn]
 
-1. safari  [🔊](https://www.merriam-webster.com/dictionary/safari?pronunciation)
+1. safari  [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2)
 
     ✅ [səˈfɑːrɪ]
 
@@ -108,23 +107,24 @@
 
     ✅ ['su:du:]
 
-1. margin  [🔊](https://www.merriam-webster.com/dictionary/margin?pronunciation)
+1. margin  [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2)
 
     ✅ ['mɑrdʒən]
 
     ❌ ['mʌgin]
 
-1. archive  [🔊](https://www.merriam-webster.com/dictionary/archive?pronunciation)
+1. archive  [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2)
 
     ✅ ['ɑrkaɪv]
 
     ❌ ['ətʃɪv]
 
-1. ajax  [🔊](https://www.merriam-webster.com/dictionary/ajax?pronunciation)
+1. ajax  [🔊](http://dict.youdao.com/dictvoice?audio=ajax&type=2)
 
     ✅ ['eidʒæks]
 
     ❌ [ə'dʒʌks]
+
 
 > 参考资料
 >
@@ -133,3 +133,4 @@
 > 3. https://www.v2ex.com/t/309350
 > 4. https://www.v2ex.com/t/63781
 > 5. https://www.v2ex.com/t/246033
+> 6. https://www.v2ex.com/t/342087
