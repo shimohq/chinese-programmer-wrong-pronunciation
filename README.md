@@ -2,9 +2,9 @@
 中国程序员容易发音错误的单词 (以美式发音为准, 非音标为字母发音)
 
 
-1. hidden  <a href="https://www.merriam-webster.com/dictionary/hidden?pronunciation&lang=en_us&dir=h&file=hide0003" target="_blank">🔊</a>
+1. hidden  <a href="https://www.merriam-webster.com/dictionary/hidden?pronunciation" target="_blank">🔊</a>
 
-  ✅ ['hɪdn]
+    ✅ ['hɪdn]
 
     ❌ ['haidn]
    
