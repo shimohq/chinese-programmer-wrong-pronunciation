@@ -98,6 +98,13 @@
  
     ❌ [mɪn]
 
+1. safari
+
+    ✅ [səˈfɑːrɪ]
+
+    ❌ [sæfərɪ]
+
+
 > 参考资料
 >
 > 1. https://www.zhihu.com/question/19739907
