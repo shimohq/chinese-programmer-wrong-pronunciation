@@ -114,6 +114,18 @@
 
     ❌ ['mʌgin]
 
+1. archive  [🔊](https://www.merriam-webster.com/dictionary/archive?pronunciation)
+
+    ✅ ['ɑrkaɪv]
+
+    ❌ ['ətʃɪv]
+
+1. ajax  [🔊](https://www.merriam-webster.com/dictionary/ajax?pronunciation)
+
+    ✅ ['eidʒæks]
+
+    ❌ [ə'dʒʌks]
+
 > 参考资料
 >
 > 1. https://www.zhihu.com/question/19739907
