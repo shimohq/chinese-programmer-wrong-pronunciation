@@ -106,7 +106,7 @@
 
 1. sudo
 
-    ✅ [su:'du:]
+    ✅ ['su:du:]
 
 1. margin
 
