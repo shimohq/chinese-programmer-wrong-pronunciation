@@ -4,7 +4,7 @@
 
 1. hidden
 
-    ✅ [['hɪdn]](https://www.merriam-webster.com/dictionary/hidden?pronunciation&lang=en_us&dir=h&file=hide0003)
+    ✅ ['hɪdn]  [📢](https://www.merriam-webster.com/dictionary/hidden?pronunciation&lang=en_us&dir=h&file=hide0003)
 
     ❌ ['haidn]
    
