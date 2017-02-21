@@ -2,33 +2,33 @@
 中国程序员容易发音错误的单词 (以美式发音为准, 非音标为字母发音)
 
 
-1. hidden[🔊](https://www.merriam-webster.com/dictionary/hidden?pronunciation)
+1. hidden  [🔊](https://www.merriam-webster.com/dictionary/hidden?pronunciation)
 
-    ✅ ['hɪdn]
+   ✅ ['hɪdn]
 
-    ❌ ['haidn]
+   ❌ ['haidn]
    
-1. cache
+1. cache  [🔊](https://www.merriam-webster.com/dictionary/cache?pronunciation)
 
-   ✅ [[kæʃ]](https://www.merriam-webster.com/dictionary/cache?pronunciation&lang=en_us&dir=c&file=cache001)
+   ✅ [kæʃ]
  
    ❌ [kætʃ]
 
-1. null
+1. null  [🔊](https://www.merriam-webster.com/dictionary/null?pronunciation)
 
-   ✅ [[nʌl]](https://www.merriam-webster.com/dictionary/null?pronunciation&lang=en_us&dir=n&file=null0001)
+   ✅ [nʌl]
  
    ❌ [naʊ]
 
-1. jpg
+1. jpg  [🔊](https://www.merriam-webster.com/dictionary/JPEG?pronunciation)
 
-   ✅ [[ˈdʒeɪpɛɡ]](https://www.merriam-webster.com/dictionary/JPEG?pronunciation&lang=en_us&dir=j&file=jpeg001v)
+   ✅ [ˈdʒeɪpɛɡ]
  
    ❌ jpg
 
-1. integer
+1. integer  [🔊](https://www.merriam-webster.com/dictionary/integer?pronunciation)
 
-   ✅ [[ˈɪntɪdʒə]](https://www.merriam-webster.com/dictionary/integer?pronunciation&lang=en_us&dir=i&file=intege01)
+   ✅ [ˈɪntɪdʒə]
  
    ❌ [ˈɪntaɪgə]
 
@@ -50,15 +50,15 @@
  
    ❌ ngx
 
-1. Apache
+1. Apache  [🔊](https://www.merriam-webster.com/dictionary/Apache?pronunciation)
 
-   ✅ [[əˈpætʃiː]](https://www.merriam-webster.com/dictionary/Apache?pronunciation&lang=en_us&dir=a&file=apache01)
+   ✅ [əˈpætʃiː]
  
    ❌ [ʌpʌtʃ]
 
-1. avatar
+1. avatar  [🔊](https://www.merriam-webster.com/dictionary/avatar?pronunciation)
 
-   ✅ [[ˌævə'tɑr]](https://www.merriam-webster.com/dictionary/avatar?pronunciation&lang=en_us&dir=a&file=avatar01)
+   ✅ [ˌævə'tɑr]
  
    ❌ [ə'vʌtɑ]
 
@@ -68,39 +68,39 @@
  
    ❌ OS X
 
-1. array
+1. array  [🔊](https://www.merriam-webster.com/dictionary/array?pronunciation)
 
-    ✅ [[ə'rei]](https://www.merriam-webster.com/dictionary/array?pronunciation&lang=en_us&dir=a&file=array001)
+    ✅ [ə'rei]
  
     ❌ [æ'rei]
 
-1. retina
+1. retina  [🔊](https://www.merriam-webster.com/dictionary/retina?pronunciation)
 
-    ✅ [['retnə]](https://www.merriam-webster.com/dictionary/retina?pronunciation&lang=en_us&dir=r&file=retina01)
+    ✅ ['retnə]
  
     ❌ [ritina]
 
-1. issue
+1. issue  [🔊](https://www.merriam-webster.com/dictionary/issue?pronunciation)
 
-    ✅ [[ˈɪʃu]](https://www.merriam-webster.com/dictionary/issue?pronunciation&lang=en_us&dir=i&file=issue001)
+    ✅ [ˈɪʃu]
  
     ❌ [ˈaɪʃu]
 
-1. git
+1. git  [🔊](https://www.merriam-webster.com/dictionary/git?pronunciation)
 
-    ✅ [[ɡɪt]](https://www.merriam-webster.com/dictionary/git?pronunciation&lang=en_us&dir=g&file=git00001)
+    ✅ [ɡɪt]
  
     ❌ [dʒɪt; jɪt]
 
-1. main
+1. main  [🔊](https://www.merriam-webster.com/dictionary/main?pronunciation)
 
-    ✅ [[meɪn]](https://www.merriam-webster.com/dictionary/main?pronunciation&lang=en_us&dir=m&file=main0001)
+    ✅ [meɪn]
  
     ❌ [mɪn]
 
-1. safari
+1. safari  [🔊](https://www.merriam-webster.com/dictionary/safari?pronunciation)
 
-    ✅ [[səˈfɑːrɪ]](https://www.merriam-webster.com/dictionary/safari?pronunciation&lang=en_us&dir=s&file=safari01)
+    ✅ [səˈfɑːrɪ]
 
     ❌ [sæfərɪ]
 
@@ -108,9 +108,9 @@
 
     ✅ ['su:du:]
 
-1. margin
+1. margin  [🔊](https://www.merriam-webster.com/dictionary/margin?pronunciation)
 
-    ✅ [['mɑrdʒən]](https://www.merriam-webster.com/dictionary/margin?pronunciation&lang=en_us&dir=m&file=margin01)
+    ✅ ['mɑrdʒən]
 
     ❌ ['mʌgin]
 
