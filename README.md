@@ -92,6 +92,18 @@
  
     ❌ [ˈaɪʃu]
 
+1. git
+
+    ✅ [ɡɪt]
+ 
+    ❌ [dʒɪt; jɪt]
+
+1. main
+
+    ✅ [meɪn]
+ 
+    ❌ [mɪn]
+
 > 参考资料
 >
 > 1. https://www.zhihu.com/question/19739907
