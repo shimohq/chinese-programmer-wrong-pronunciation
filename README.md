@@ -4,31 +4,31 @@
 
 1. hidden
 
-    ✅ ['hɪdn]
+    ✅ [['hɪdn]](https://www.merriam-webster.com/dictionary/hidden?pronunciation&lang=en_us&dir=h&file=hide0003)
 
     ❌ ['haidn]
    
 1. cache
 
-   ✅ [kæʃ]
+   ✅ [[kæʃ]](https://www.merriam-webster.com/dictionary/cache?pronunciation&lang=en_us&dir=c&file=cache001)
  
    ❌ [kætʃ]
 
 1. null
 
-   ✅ [nʌl]
+   ✅ [[nʌl]](https://www.merriam-webster.com/dictionary/null?pronunciation&lang=en_us&dir=n&file=null0001)
  
    ❌ [naʊ]
 
 1. jpg
 
-   ✅ [ˈdʒeɪpɛɡ]
+   ✅ [[ˈdʒeɪpɛɡ]](https://www.merriam-webster.com/dictionary/JPEG?pronunciation&lang=en_us&dir=j&file=jpeg001v)
  
    ❌ jpg
 
 1. integer
 
-   ✅ [ˈɪntɪdʒə]
+   ✅ [[ˈɪntɪdʒə]](https://www.merriam-webster.com/dictionary/integer?pronunciation&lang=en_us&dir=i&file=intege01)
  
    ❌ [ˈɪntaɪgə]
 
@@ -52,13 +52,13 @@
 
 1. Apache
 
-   ✅ [əˈpætʃiː]
+   ✅ [[əˈpætʃiː]](https://www.merriam-webster.com/dictionary/Apache?pronunciation&lang=en_us&dir=a&file=apache01)
  
    ❌ [ʌpʌtʃ]
 
 1. avatar
 
-   ✅ [ˌævə'tɑr]
+   ✅ [[ˌævə'tɑr]](https://www.merriam-webster.com/dictionary/avatar?pronunciation&lang=en_us&dir=a&file=avatar01)
  
    ❌ [ə'vʌtɑ]
 
@@ -70,37 +70,37 @@
 
 1. array
 
-    ✅ [ə'rei]
+    ✅ [[ə'rei]](https://www.merriam-webster.com/dictionary/array?pronunciation&lang=en_us&dir=a&file=array001)
  
     ❌ [æ'rei]
 
 1. retina
 
-    ✅ ['retnə]
+    ✅ [['retnə]](https://www.merriam-webster.com/dictionary/retina?pronunciation&lang=en_us&dir=r&file=retina01)
  
     ❌ [ritina]
 
 1. issue
 
-    ✅ [ˈɪʃu]
+    ✅ [[ˈɪʃu]](https://www.merriam-webster.com/dictionary/issue?pronunciation&lang=en_us&dir=i&file=issue001)
  
     ❌ [ˈaɪʃu]
 
 1. git
 
-    ✅ [ɡɪt]
+    ✅ [[ɡɪt]](https://www.merriam-webster.com/dictionary/git?pronunciation&lang=en_us&dir=g&file=git00001)
  
     ❌ [dʒɪt; jɪt]
 
 1. main
 
-    ✅ [meɪn]
+    ✅ [[meɪn]](https://www.merriam-webster.com/dictionary/main?pronunciation&lang=en_us&dir=m&file=main0001)
  
     ❌ [mɪn]
 
 1. safari
 
-    ✅ [səˈfɑːrɪ]
+    ✅ [[səˈfɑːrɪ]](https://www.merriam-webster.com/dictionary/safari?pronunciation&lang=en_us&dir=s&file=safari01)
 
     ❌ [sæfərɪ]
 
@@ -110,7 +110,7 @@
 
 1. margin
 
-    ✅ ['mɑrdʒən]
+    ✅ [['mɑrdʒən]](https://www.merriam-webster.com/dictionary/margin?pronunciation&lang=en_us&dir=m&file=margin01)
 
     ❌ ['mʌgin]
 
