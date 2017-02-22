@@ -124,6 +124,12 @@
     ✅ ['eidʒæks]
 
     ❌ [ə'dʒʌks]
+    
+1. module  [🔊](https://ssl.gstatic.com/dictionary/static/sounds/de/0/module.mp3)
+
+    ✅ [ˈmäjo͞ol]
+
+    ❌ [ˈmōdl]
 
 
 > 参考资料
