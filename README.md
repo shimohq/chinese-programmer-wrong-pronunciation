@@ -160,7 +160,23 @@
     ✅ ['æksɛs]
 
     ❌ [ək'sɛs]
-    
+
+1. resolved  [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=2)
+
+    ✅ [rɪ'zɑlvd]
+
+    ❌ [rɪ'solvd]
+
+1. Java  [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2)
+
+    ✅ ['dʒɑːvə]
+
+    ❌ "夹瓦"
+
+1. async  [🔊](http://dict.youdao.com/dictvoice?audio=async&type=2)
+
+    ✅ [æˈsɪŋk]
+
 > 参考资料
 >
 > 1. https://www.zhihu.com/question/19739907
