@@ -136,6 +136,30 @@
     ✅ ['meɪvən]
 
     ❌ ['ma:vən]
+
+1. app  [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2)
+
+    ✅ [æp]
+
+    ❌ app
+
+1. digest  [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2)
+
+    ✅ [daɪ'dʒɛst]
+
+    ❌ ['digɛst]
+
+1. typical  [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2)
+
+    ✅ ['tɪpɪkl]
+
+    ❌ ['taɪpɪkəl]
+
+1. access  [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2)
+
+    ✅ ['æksɛs]
+
+    ❌ [ək'sɛs]
     
 > 参考资料
 >
