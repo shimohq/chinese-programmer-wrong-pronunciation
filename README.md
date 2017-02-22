@@ -131,7 +131,12 @@
 
     ❌ ['modl]
 
+1. maven  [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2)
 
+    ✅ ['meɪvən]
+
+    ❌ ['ma:vən]
+    
 > 参考资料
 >
 > 1. https://www.zhihu.com/question/19739907
