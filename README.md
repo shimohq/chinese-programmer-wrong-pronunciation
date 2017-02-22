@@ -124,6 +124,12 @@
     ✅ ['eidʒæks]
 
     ❌ [ə'dʒʌks]
+    
+1. module  [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2)
+
+    ✅ ['mɑdʒul]
+
+    ❌ ['modl]
 
 
 > 参考资料
