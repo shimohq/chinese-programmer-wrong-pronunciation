@@ -1,43 +1,41 @@
 # chinese-programmer-wrong-pronunciation
 中国程序员容易发音错误的单词 (以美式发音为准, 非音标为字母发音)
 
-| 单词  | 正确发音 | 错误发音 |
-| ---- | ------- | ------- |
-| access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['æksɛs] | ❌ [ək'sɛs] |
-| AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
-| Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [əˈpætʃiː] | ❌ [ʌpʌtʃ] |
-| app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | ❌ app |
-| archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑrkaɪv] | ❌ ['ətʃɪv] |
-| array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
-| avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑr] | ❌ [ə'vʌtɑ] |
-| Babel [🔊](http://dict.youdao.com/dictvoice?audio=Babel&type=2) | ✅ ['bebl] | ❌ ['beɪbl] |
-| cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
-| content [🔊](http://dict.youdao.com/dictvoice?audio=content&type=2) | ✅ [ˈkɑ:ntent] | ❌ [kənˈtent] |
-| digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ [daɪ'dʒɛst] | ❌ ['digɛst] |
-| doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɔk]| ❌ [daʊk] |
-| Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
-| GNU | ✅ [gnu:] | |
-| GUI | ✅ [ˈɡui] | |
-| hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haidn] |
-| image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meidʒ] |
-| integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ [ˈɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
-| issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ [ˈɪʃu] | ❌ [ˈaɪʃu] |
-| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ [ˈdʒeɪpɛɡ] | |
-| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ [ˈlɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnju:ks] |
-| main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | ✅ [meɪn] | ❌ [mɪn] |
-| margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | ✅ ['mɑrdʒən] | ❌ ['mʌgin] |
-| maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | ✅ ['meɪvən] | ❌ ['ma:vən] |
-| module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2) | ✅ ['mɑdʒul] | ❌ ['modl] |
-| nginx | ✅ Engine X | ❌ ngx |
-| null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | ✅ [nʌl] | ❌ [naʊ] |
-| OS X | ✅ OS ten | ❌ OS X |
-| retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə; ˈretənə; 'retnə] | ❌ [ritina] |
-| safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [səˈfɑːrɪ] | ❌ [sæfərɪ] |
-| sudo | ✅ ['su:du:] | |
-| suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
-| typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
-| YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['ju: 'tju:b] | ❌ ['ju:'tubɪ] |
-
+| 单词  | ✅ 正确发音 | ❌ 错误发音 |
+| :---: | :---: | :---: |
+| access | [['æksɛs]](http://dict.youdao.com/dictvoice?audio=access&type=2) | [ək'sɛs] |
+| AJAX | [['eidʒæks]](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | [ə'dʒʌks] |
+| Apache | [[əˈpætʃiː]](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | [ʌpʌtʃ] |
+| app | [[æp]](http://dict.youdao.com/dictvoice?audio=app&type=2) | app |
+| archive | [['ɑrkaɪv]](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ['ətʃɪv] |
+| array | [[ə'rei]](http://dict.youdao.com/dictvoice?audio=array&type=2) | [æ'rei] |
+| avatar | [['ævətɑr]](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | [ə'vʌtɑ] |
+| Babel | [['bebl]](http://dict.youdao.com/dictvoice?audio=Babel&type=2) | ['beɪbl] |
+| cache | [[kæʃ]](http://dict.youdao.com/dictvoice?audio=cache&type=2) | [kætʃ] |
+| digest | [[daɪ'dʒɛst]](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ['digɛst] |
+| doc | [[dɔk]](http://dict.youdao.com/dictvoice?audio=doc&type=2) | [daʊk] |
+| Git | [[ɡɪt]](http://dict.youdao.com/dictvoice?audio=git&type=2) | [dʒɪt; jɪt] |
+| GNU | [gnu:] | |
+| GUI | [[ˈɡui]](http://dict.youdao.com/dictvoice?audio=GUI) | |
+| hidden | [['hɪdn]](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ['haidn] |
+| image | [['ɪmɪdʒ]](http://dict.youdao.com/dictvoice?audio=image&type=2) | [ɪ'meidʒ] |
+| integer | [[ˈɪntɪdʒə]](http://dict.youdao.com/dictvoice?audio=integer&type=2) | [ˈɪntaɪgə] |
+| issue | [[ˈɪʃu]](http://dict.youdao.com/dictvoice?audio=issue&type=2) | [ˈaɪʃu] |
+| JPG (JPEG) | [[ˈdʒeɪpɛɡ]](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | |
+| Linux | [[ˈlɪnəks]](http://dict.youdao.com/dictvoice?audio=Linux&type=2) | [ˈlɪnʌks; ˈlɪnju:ks] |
+| main | [[meɪn]](http://dict.youdao.com/dictvoice?audio=main&type=2) | [mɪn] |
+| margin | [['mɑrdʒən]](http://dict.youdao.com/dictvoice?audio=margin&type=2) | ['mʌgin] |
+| Maven | [['meɪvən]](http://dict.youdao.com/dictvoice?audio=maven&type=2) | ['ma:vən] |
+| module | [['mɑdʒul]](http://dict.youdao.com/dictvoice?audio=module&type=2) | ['modl] |
+| nginx | Engine X | ngx |
+| null | [[nʌl]](http://dict.youdao.com/dictvoice?audio=null&type=2) | [naʊ] |
+| OS X | OS ten | OS X |
+| Retina | [['retɪnə; ˈretənə; 'retnə]](http://dict.youdao.com/dictvoice?audio=retina&type=2) | [ritina] |
+| Safari | [[səˈfɑːrɪ]](http://dict.youdao.com/dictvoice?audio=safari&type=2) | [sæfərɪ] |
+| sudo | ['su:du:] | |
+| suite | [[sut; swit]](http://dict.youdao.com/dictvoice?audio=suite&type=2) | [sjuːt] |
+| typical | [['tɪpɪkl]](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ['taɪpɪkəl] |
+| YouTube | [['ju: 'tju:b]](http://dict.youdao.com/dictvoice?audio=YouTube) | ['ju:'tubɪ] |
 
 
 > 参考资料
