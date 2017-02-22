@@ -18,7 +18,6 @@
 | GNU | ✅ [gnu:] | |
 | GUI | ✅ [ˈɡui] | |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haidn] |
-| IEEE | ✅ I triple E | ❌ ieee |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ [ˈɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ [ˈɪʃu] | ❌ [ˈaɪʃu] |
 | jpg [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ [ˈdʒeɪpɛɡ] | ❌ jpg |
