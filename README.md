@@ -119,7 +119,7 @@
 
     ❌ ['ətʃɪv]
 
-1. ajax  [🔊](http://dict.youdao.com/dictvoice?audio=ajax&type=2)
+1. AJAX  [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2)
 
     ✅ ['eidʒæks]
 
