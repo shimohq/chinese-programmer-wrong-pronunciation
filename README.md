@@ -9,6 +9,7 @@
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | ❌ app |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑrkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
+| async [🔊](http://dict.youdao.com/dictvoice?audio=async&type=2) | ✅ [æˈsɪŋk]| |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ [ˌævə'tɑr] | ❌ [ə'vʌtɑ] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ [daɪ'dʒɛst] | ❌ ['digɛst] |
@@ -18,6 +19,7 @@
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haidn] |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ [ˈɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ [ˈɪʃu] | ❌ [ˈaɪʃu] |
+| Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | ✅ ['dʒɑːvə] | ❌ "夹瓦" |
 | jpg [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ [ˈdʒeɪpɛɡ] | ❌ jpg |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | ✅ ['mɑrdʒən] | ❌ ['mʌgin] |
@@ -26,14 +28,12 @@
 | nginx | ✅ Engine X | ❌ ngx |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | ❌ OS X |
+| resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=2) | ✅ [rɪ'zɑlvd] | ❌ [rɪ'solvd] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retnə] | ❌ [ritina] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [səˈfɑːrɪ] | ❌ [sæfərɪ] |
 | sudo | ✅ ['su:du:] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
-| resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=2) | ✅ [rɪ'zɑlvd] | ❌ [rɪ'solvd] |
-| Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | ✅ ['dʒɑːvə] | ❌ "夹瓦" |
-| async [🔊](http://dict.youdao.com/dictvoice?audio=async&type=2) | ✅ [æˈsɪŋk]|  |
 
 > 参考资料
 >
