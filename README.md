@@ -12,6 +12,7 @@
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑr] | ❌ [ə'vʌtɑ] |
 | Babel [🔊](http://dict.youdao.com/dictvoice?audio=Babel&type=2) | ✅ ['bebl] | ❌ ['beɪbl] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
+| content [🔊](http://dict.youdao.com/dictvoice?audio=content&type=2) | ✅ [ˈkɑ:ntent] | ❌ [kənˈtent] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ [daɪ'dʒɛst] | ❌ ['digɛst] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɔk]| ❌ [daʊk] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
