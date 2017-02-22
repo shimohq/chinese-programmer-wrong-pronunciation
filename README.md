@@ -14,7 +14,7 @@
 | cache | [[kæʃ]](http://dict.youdao.com/dictvoice?audio=cache&type=2) | [kætʃ] |
 | digest | [[daɪ'dʒɛst]](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ['digɛst] |
 | doc | [[dɔk]](http://dict.youdao.com/dictvoice?audio=doc&type=2) | [daʊk] |
-| git | [[ɡɪt]](http://dict.youdao.com/dictvoice?audio=git&type=2) | [dʒɪt; jɪt] |
+| Git | [[ɡɪt]](http://dict.youdao.com/dictvoice?audio=git&type=2) | [dʒɪt; jɪt] |
 | GNU | [gnu:] | |
 | GUI | [[ˈɡui]](http://dict.youdao.com/dictvoice?audio=GUI) | |
 | hidden | [['hɪdn]](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ['haidn] |
@@ -36,7 +36,6 @@
 | suite | [[sut; swit]](http://dict.youdao.com/dictvoice?audio=suite&type=2) | [sjuːt] |
 | typical | [['tɪpɪkl]](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ['taɪpɪkəl] |
 | YouTube | [['ju: 'tju:b]](http://dict.youdao.com/dictvoice?audio=YouTube) | ['ju:'tubɪ] |
-
 
 
 > 参考资料
