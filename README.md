@@ -22,12 +22,14 @@
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | ✅ ['mɑrdʒən] | ❌ ['mʌgin] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | ✅ ['meɪvən] | ❌ ['ma:vən] |
+| MySQL | ✅ My S-Q-L | ❌ My sekul |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2) | ✅ ['mɑdʒul] | ❌ ['modl] |
 | nginx | ✅ Engine X | ❌ ngx |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | ❌ OS X |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retnə] | ❌ [ritina] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [səˈfɑːrɪ] | ❌ [sæfərɪ] |
+| SQL | ✅ S-Q-L | ❌ sekul |
 | sudo | ✅ ['su:du:] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
@@ -40,3 +42,4 @@
 > 4. https://www.v2ex.com/t/63781
 > 5. https://www.v2ex.com/t/246033
 > 6. https://www.v2ex.com/t/342087
+> 7. https://en.wikipedia.org/wiki/MySQL
