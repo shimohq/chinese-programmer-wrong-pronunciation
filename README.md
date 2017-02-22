@@ -13,6 +13,7 @@
 | Babel [🔊](http://dict.youdao.com/dictvoice?audio=Babel&type=2) | ✅ ['bebl] | ❌ ['beɪbl] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
 | content [🔊](http://dict.youdao.com/dictvoice?audio=content&type=2) | ✅ [ˈkɑ:ntent] | ❌ [kənˈtent] |
+| deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | ✅ [dɛk] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ [daɪ'dʒɛst] | ❌ ['digɛst] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɔk]| ❌ [daʊk] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
@@ -31,6 +32,7 @@
 | nginx | ✅ Engine X | ❌ ngx |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | ❌ OS X |
+| query [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2) | ✅ ['kwɪri] | ❌ ['kwaɪri] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə; ˈretənə; 'retnə] | ❌ [ritina] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [səˈfɑːrɪ] | ❌ [sæfərɪ] |
 | sudo | ✅ ['su:du:] | |
