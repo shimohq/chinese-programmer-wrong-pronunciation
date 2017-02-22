@@ -12,7 +12,7 @@
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑrkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
 | async [🔊](http://dict.youdao.com/dictvoice?audio=async&type=2) | ✅ [æˈsɪŋk]| |
-| avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ [ˌævə'tɑr] | ❌ [ə'vʌtɑ] |
+| avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑr] | ❌ [ə'vʌtɑ] |
 | Azure | ✅ [ˈæʒər] | ❌ [ˈæzure] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | ✅ [dɛk] | ❌ [di'kju] |
