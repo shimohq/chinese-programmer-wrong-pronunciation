@@ -125,11 +125,11 @@
 
     ❌ [ə'dʒʌks]
     
-1. module  [🔊](https://ssl.gstatic.com/dictionary/static/sounds/de/0/module.mp3)
+1. module  [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2)
 
-    ✅ [ˈmäjo͞ol]
+    ✅ ['mɑdʒul]
 
-    ❌ [ˈmōdl]
+    ❌ ['modl]
 
 
 > 参考资料
