@@ -26,7 +26,7 @@
 | nginx | ✅ Engine X | ❌ ngx |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | ❌ OS X |
-| retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retnə] | ❌ [ritina] |
+| retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ [ritina] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [səˈfɑːrɪ] | ❌ [sæfərɪ] |
 | sudo | ✅ ['su:du:] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
