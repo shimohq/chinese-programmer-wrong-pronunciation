@@ -13,7 +13,7 @@
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ [ˌævə'tɑr] | ❌ [ə'vʌtɑ] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ [daɪ'dʒɛst] | ❌ ['digɛst] |
-| Django | ✅ [ˈdʒæŋɡoʊ] | [diˈdʒæŋɡoʊ] |
+| Django | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | GNU | ✅ [gnu:] | |
 | GUI | ✅ [ˈɡui] | |
