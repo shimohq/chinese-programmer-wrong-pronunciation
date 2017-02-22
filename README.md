@@ -35,7 +35,6 @@
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | ✅ ['dʒɑːvə] | ❌ "夹瓦" |
 | async [🔊](http://dict.youdao.com/dictvoice?audio=async&type=2) | ✅ [æˈsɪŋk]|  |
 
-=======
 > 参考资料
 >
 > 1. https://www.zhihu.com/question/19739907
