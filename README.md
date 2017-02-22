@@ -13,8 +13,8 @@
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ [daɪ'dʒɛst] | ❌ ['digɛst] |
 | git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
-| GNU | ✅ [gnu:] | |
-| GUI | ✅ [ˈɡui] | |
+| GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) | ✅ [gnu:] | |
+| GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | ✅ [ˈɡui] | |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haidn] |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ [ˈɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ [ˈɪʃu] | ❌ [ˈaɪʃu] |
@@ -28,7 +28,7 @@
 | OS X | ✅ OS ten | ❌ OS X |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə; ˈretənə; 'retnə] | ❌ [ritina] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [səˈfɑːrɪ] | ❌ [sæfərɪ] |
-| sudo | ✅ ['su:du:] | |
+| sudo [🔊](http://dict.youdao.com/dictvoice?audio=sudo&type=2) | ✅ ['su:du:] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 
