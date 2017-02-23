@@ -25,7 +25,7 @@
 | image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meidʒ] |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ [ˈɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ [ˈɪʃu] | ❌ [ˈaɪʃu] |
-| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ [ˈdʒeɪpɛɡ] | |
+| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ [ˈdʒeɪpɛɡ] | [ˈdʒeɪˈpi:ˈdʒiː] |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ [ˈlɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnju:ks] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | ✅ ['mɑrdʒən] | ❌ ['mʌgin] |
