@@ -36,7 +36,7 @@
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
-| retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ ['ritina] |
+| retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ [ri'tina] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=2) | ✅ [skiːm] | ❌ [s'kæmə] |
 | sudo | ✅ ['suːduː] | |
