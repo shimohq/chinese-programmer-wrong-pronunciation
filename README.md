@@ -5,7 +5,6 @@
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['ækses] | ❌ [ək'ses] |
-| Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | |
@@ -43,6 +42,7 @@
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [swiːt] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
+| widget [🔊](http://dict.youdao.com/dictvoice?audio=widget&type=2) | ✅ ['wɪdʒɪt] | ❌ ['wɪdgaɪt] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 
@@ -64,3 +64,4 @@
 
 #### 读对了所有的单词？
 我们正在招聘优秀的程序员，欢迎[加入石墨文档](https://shimo.im/doc/G3ckHEVF3f4qANHk)
+en
