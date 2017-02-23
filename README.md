@@ -5,7 +5,7 @@
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['æksɛs] | ❌ [ək'sɛs] |
-| Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [əˈdəʊbi] | ❌ [əˈdəʊb] |
+| Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [əˈdəʊbi] | ❌ [əˈdəʊbi; ædəʊbi] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [əˈpætʃiː] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | ❌ app |
@@ -41,6 +41,7 @@
 | sudo | ✅ ['su:du:] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
+| Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | ✅ [ʊ'bʊntʊ] | ❌ [ju:'buntu] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['ju: 'tju:b] | ❌ ['ju:'tubɪ] |
 
