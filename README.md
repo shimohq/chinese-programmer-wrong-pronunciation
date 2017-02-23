@@ -16,7 +16,7 @@
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | ✅ [dɛk] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ [daɪ'dʒɛst] | ❌ ['digɛst] |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
-| doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɔk]| ❌ [daʊk] |
+| doc [🔊](http://dictionary.cambridge.org/zhs/media/english/us_pron/d/doc/doc__/doc.mp3) | ✅ [dɑːk]| ❌ [daʊk] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | GNU | ✅ [gnu:] | |
 | GUI | ✅ [ˈɡui] | |
