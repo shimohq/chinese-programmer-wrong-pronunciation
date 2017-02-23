@@ -10,8 +10,8 @@
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
-| Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
+| Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
