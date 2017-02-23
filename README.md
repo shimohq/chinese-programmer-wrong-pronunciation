@@ -40,6 +40,7 @@
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=2) | ✅ [skim] | ❌ [s'kæmə] |
 | sudo | ✅ ['su:du:] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
+| theme [🔊](http://dict.youdao.com/dictvoice?audio=theme&type=2) | ✅ [θim] | ❌ [taɪm] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | ✅ [ʊ'bʊntʊ] | ❌ [ju:'buntu] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | ✅ [wɪdθ] | ❌ [waɪdθ] |
