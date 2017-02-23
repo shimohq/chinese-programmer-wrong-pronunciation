@@ -43,6 +43,7 @@
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [swiːt] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
+| vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) | ✅ [v'ju:] | ❌ [v'ju:i] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 
