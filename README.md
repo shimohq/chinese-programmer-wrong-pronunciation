@@ -6,6 +6,7 @@
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['æksɛs] | ❌ [ək'sɛs] |
 | Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [əˈdəʊbi] | ❌ [əˈdəʊbi; ædəʊbi] |
+| Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | ✅ ['æŋɡjəlɚ] | ❌ ['æŋɡəlɚ; 'æŋdʒʌlɚ] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [əˈpætʃiː] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | ❌ app |
