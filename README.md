@@ -29,9 +29,9 @@
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | ✅ ['meɪvn] | ❌ ['maːvn] |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2) | ✅ ['mɒdjuːl] | ❌ ['məʊdl] |
-| nginx | ✅ Engine X | ❌ ngx |
+| nginx | ✅ Engine X | |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | ✅ [nʌl] | ❌ [naʊ] |
-| OS X | ✅ OS ten | ❌ OS X |
+| OS X | ✅ OS ten | |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ ['ritina] |
