@@ -19,12 +19,13 @@
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | GNU | ✅ [gnu:] | |
 | GUI | ✅ [ˈɡui] | |
-| hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haɪdn] |
-| image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
-| integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ ['ɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
-| issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ ['ɪʃuː] | ❌ [ˈaɪʃuː] |
-| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ ['dʒeɪpeɡ] | |
-| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
+| hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haidn] |
+| image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meidʒ] |
+| integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ [ˈɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
+| issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ [ˈɪʃu] | ❌ [ˈaɪʃu] |
+| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ [ˈdʒeɪpɛɡ] | |
+| Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | ✅ ˈjavə,ˈjävə] | ❌[Zhǎwā] |
+| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ [ˈlɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnju:ks] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=2) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2) | ✅ ['meɪvn] | ❌ ['maːvn] |
