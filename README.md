@@ -42,7 +42,7 @@
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | ✅ [ʊ'bʊntʊ] | ❌ [ju:'buntu] |
-| vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) | ✅ ['vju:] | ❌ ['vju:i] |
+| Vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) | ✅ ['vju:] | ❌ ['vju:i] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['ju: 'tju:b] | ❌ ['ju:'tubɪ] |
 
