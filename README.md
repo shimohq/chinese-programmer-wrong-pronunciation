@@ -5,6 +5,7 @@
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['ækses] | ❌ [ək'ses] |
+| Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | |
@@ -18,8 +19,8 @@
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɒk]| ❌ [daʊk] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
-| GNU | ✅ [gnu:] | |
-| GUI | ✅ [ˈɡui] | |
+| GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) | ✅ [gnu:] | |
+| GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | ✅ [ˈɡui] | |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haɪdn] |
 | image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ ['ɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
@@ -38,13 +39,14 @@
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=2) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
-| retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ ['ritina] |
+| retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ [ri'tina] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=2) | ✅ [skiːm] | ❌ [s'kæmə] |
 | sudo | ✅ ['suːduː] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [swiːt] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
+| vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) | ✅ [v'ju:] | ❌ [v'ju:i] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 
