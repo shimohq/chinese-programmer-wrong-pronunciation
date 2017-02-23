@@ -20,6 +20,7 @@
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) | ✅ [gnu:] | |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | ✅ [ˈɡui] | |
+| height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=2) | ✅ [haɪt] | ❌ [heɪt] |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haɪdn] |
 | image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ ['ɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
