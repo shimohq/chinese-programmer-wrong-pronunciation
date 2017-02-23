@@ -6,7 +6,7 @@
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['ækses] | ❌ [ək'ses] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
-| Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [ə'pætʃi] | ❌ [ʌpʌtʃ] |
+| Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
@@ -40,7 +40,7 @@
 | sudo | ✅ ['suːduː] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [swiːt] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
-| Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | ✅ [ʊ'bʊntʊ] | ❌ [ju:'bʊntʊ] |
+| Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 
