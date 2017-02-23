@@ -17,8 +17,8 @@
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɒk]| ❌ [daʊk] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
-| GNU | ✅ [gnu:] | |
-| GUI | ✅ [ˈɡui] | |
+| GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) | ✅ [gnu:] | |
+| GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | ✅ [ˈɡui] | |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) | ✅ ['hɪdn] | ❌ ['haɪdn] |
 | image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ ['ɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
