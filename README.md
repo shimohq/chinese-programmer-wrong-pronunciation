@@ -12,6 +12,7 @@
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
+| Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
@@ -24,6 +25,7 @@
 | image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ ['ɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ ['ɪʃuː] | ❌ [ˈaɪʃuː] |
+| Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | ✅ ['dʒɑːvə] | ❌ ['dʒɑːvɑː] |
 | jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ ['dʒeɪpeɡ] | |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | ✅ [meɪn] | ❌ [mɪn] |
@@ -36,6 +38,7 @@
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
+| resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=2) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ [ri'tina] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=2) | ✅ [skiːm] | ❌ [s'kæmə] |
