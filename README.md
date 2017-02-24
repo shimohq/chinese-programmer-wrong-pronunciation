@@ -18,6 +18,7 @@
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɒk]| ❌ [daʊk] |
+| facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2) | ✅ [fə'sɑːd]]| ❌ ['feikeid] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) | ✅ [gnu:] | |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | ✅ [ˈɡui] | |
@@ -41,6 +42,7 @@
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=2) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ [ri'tina] |
+| san jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=2) | ✅ [sænhəu'zei] | ❌ [sæn'ju:s] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=2) | ✅ [skiːm] | ❌ [s'kæmə] |
 | sudo | ✅ ['suːduː] | |
