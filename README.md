@@ -7,7 +7,7 @@
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['ækses] | ❌ [ək'ses] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
-| alt [🔊]() | ✅ ['ɔːltə(r)] | ❌ ['ælt] [aʊt]|
+| alt [🔊]() | ✅ ['ɔːltə(r)] | ❌ ['ælt; aʊt]|
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
@@ -17,12 +17,12 @@
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | bash [🔊](http://dict.youdao.com/dictvoice?audio=bash&type=2)| ✅ [bæʃ] |  |
-| C♯ [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [sentɒs] |  |
-| CentOS [🔊]() | ✅ [si ʃɑːp] | ❌ [siː dʒɪŋ] |
+| CentOS [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [sentɒs] |  |
+| C♯  [🔊]() | ✅ [si ʃɑːp] | ❌ [siː dʒɪŋ] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
 | char [🔊](http://dict.youdao.com/dictvoice?audio=char&type=2) | ✅ [tʃɑː] |  |
 | ctrl [🔊]() | ✅ [kən'trəʊl] | ❌ [kən'trə]|
-| daemon [🔊](http://dict.youdao.com/dictvoice?audio=daemon&type=2) | ✅ [ˈdiːmən] [ˈdeɪmən] |  |
+| daemon [🔊](http://dict.youdao.com/dictvoice?audio=daemon&type=2) | ✅ [ˈdiːmən; ˈdeɪmən] |  |
 | Debian [🔊](http://dict.youdao.com/dictvoice?audio=debian&type=2) | ✅ [ˈdɛbiən] |  |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
@@ -32,7 +32,7 @@
 | Fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=2) | ✅ [fɪ'dɔːrə]| ❌ [fe'dɔːrə] |
 | gif [🔊](https://upload.wikimedia.org/wikipedia/commons/2/2b/En-us-gif-1.ogg) | ✅ [ɡɪf] | |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
-| Gnome[](http://dict.youdao.com/dictvoice?audio=gnome&type=2)|✅ [ɡˈnoʊm] [ˈnoʊm]|  | ❌ [ɡˈnɔːm]
+| Gnome[](http://dict.youdao.com/dictvoice?audio=gnome&type=2)|✅ [ɡˈnoʊm] [ˈnoʊm]|   ❌ [ɡˈnɔːm]
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) | ✅ [gnu:] | |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | ✅ [ˈɡui] | |
 | hash [🔊](http://dict.youdao.com/dictvoice?audio=hash&type=2) | ✅ [hæʃ]	 | ❌ [heɪʃ] |
@@ -45,7 +45,7 @@
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) | ✅ ['ɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) | ✅ ['ɪʃuː] | ❌ [ˈaɪʃuː] |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) | ✅ ['dʒɑːvə] | ❌ ['dʒɑːvɑː] |
-| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ ['dʒeɪpeɡ] | [ˈdʒeɪˈpi:ˈdʒiː] |
+| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2) | ✅ ['dʒeɪpeɡ] | ❌ [ˈdʒeɪˈpi:ˈdʒiː] |
 | JSON [🔊]() | ✅ [ˈdʒeɪsən] | ❌ J-S-O-N |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=2) | ✅ [meɪn] | ❌ [mɪn] |
@@ -57,7 +57,7 @@
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
-| PostgreSQL [🔊](http://www.postgresql.org/files/postgresql.mp3) | ✅ [pəʊst ɡres kjuː el] |   |
+| PostgreSQL [🔊](http://www.postgresql.org/files/postgresql.mp3) | ✅ [pəʊst 'ɡres kjuː el] |   |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | Python [🔊](http://dict.youdao.com/dictvoice?audio=python&type=2) | ✅ [ˈpaɪθən] |   |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
