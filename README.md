@@ -10,16 +10,22 @@
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
+| Arch [🔊](http://dict.youdao.com/dictvoice?audio=arch&type=2) | ✅ [ɑːtʃ]	 | ❌ [eɪtʃ] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
+| ASCII [🔊](http://dict.youdao.com/dictvoice?audio=ascii&type=2) | ✅ [ˈæski] | ❌ [ɑːsk] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
+| bash [🔊](http://dict.youdao.com/dictvoice?audio=bash&type=2)| ✅ [bæʃ] |  |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
+| Debian [🔊](http://dict.youdao.com/dictvoice?audio=debian&type=2) | ✅ [ˈdɛbiən] |  |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɒk]| ❌ [daʊk] |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2) | ✅ [fə'sɑːd]]| ❌ ['feikeid] |
+| Fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=2) | ✅ [fɪ'dɔːrə]| ❌ [fe'dɔːrə] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
+| Gnome[](http://dict.youdao.com/dictvoice?audio=gnome&type=2)|[ɡˈnoʊm] [ˈnoʊm]|  |[ɡˈnɔːm]
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2) | ✅ [gnu:] | |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2) | ✅ [ˈɡui] | |
 | height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=2) | ✅ [haɪt] | ❌ [heɪt] |
