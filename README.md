@@ -40,6 +40,7 @@
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
+| Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=2) | ✅ [kjuːt] | |
 | resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=2) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2) | ✅ ['retɪnə] | ❌ [ri'tina] |
 | san jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=2) | ✅ [sænhəu'zei] | ❌ [sæn'ju:s] |
