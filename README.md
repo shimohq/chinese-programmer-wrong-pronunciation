@@ -7,11 +7,10 @@
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['ækses] | ❌ [ək'ses] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
-| alt [🔊]() | ✅ ['ɔːltə(r)] | ❌ ['ælt; aʊt]|
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
-| Arch [🔊](http://dict.youdao.com/dictvoice?audio=arch&type=2) | ✅ [ɑːtʃ]	 | ❌ [eɪtʃ] |
+| Arch [🔊](http://dict.youdao.com/dictvoice?audio=arch&type=2) | ✅ [ɑːtʃ]	 | ❌ [ɑːk] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
 | ASCII [🔊](http://dict.youdao.com/dictvoice?audio=ascii&type=2) | ✅ [ˈæski] | ❌ [ɑːsk] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
@@ -30,6 +29,7 @@
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2) | ✅ [dɒk]| ❌ [daʊk] |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2) | ✅ [fə'sɑːd]]| ❌ ['feikeid] |
 | Fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=2) | ✅ [fɪ'dɔːrə]| ❌ [fe'dɔːrə] |
+| fcitx [🔊]() | ✅ [ˈfaɪtɪks]]|  |
 | gif [🔊](https://upload.wikimedia.org/wikipedia/commons/2/2b/En-us-gif-1.ogg) | ✅ [ɡɪf] | |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | Gnome[](http://dict.youdao.com/dictvoice?audio=gnome&type=2)|✅ [ɡˈnoʊm] [ˈnoʊm]|   ❌ [ɡˈnɔːm]
