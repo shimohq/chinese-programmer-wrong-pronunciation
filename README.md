@@ -52,9 +52,10 @@
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 
 
+
 > 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性.
 > 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
-
+> 可将文档中的 发音_Github.xml 文件[导入有道词典](http://jingyan.baidu.com/article/76a7e409a2bb0afc3b6e1516.html)，便于大家练习发音.
 
 
 > 参考资料
