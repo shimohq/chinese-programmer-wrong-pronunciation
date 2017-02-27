@@ -73,6 +73,7 @@
 | variable [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=2) | ✅ ['veəriəbl] | ❌ [və'riəbl] |
 | vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) | ✅ [v'ju:] | ❌ [v'ju:i] |
 | vim [🔊](https://upload.wikimedia.org/wikipedia/commons/6/68/En-us-vim.ogg) | ✅ [vɪm] | ❌ [viː aɪ em] |
+| visio [🔊]() | ✅ [ˈvɪzi.oʊ] | ❌ [ˈvɪ. soʊ] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | Xen [🔊](http://dict.youdao.com/dictvoice?audio=xen&type=2) | ✅ [zen] | |
 | xerox [🔊](http://dict.youdao.com/dictvoice?audio=xerox&type=2) | ✅ ['zɪərɒks] |  |
