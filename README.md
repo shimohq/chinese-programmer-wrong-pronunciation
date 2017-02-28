@@ -6,7 +6,7 @@
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1)       | ✅ [ˈæŋgjʊlə]     | ❌ [ˈæŋɡələ; ˈæŋdʒʌlə]    |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1)             | ✅ [ˈeidʒæks]     | ❌ [əˈdʒʌks]              |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=1)         | ✅ [əˈpætʃɪ]      | ❌ [ʌpʌtʃ]                |
-| app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1)               | ✅ [æp]           |                           |
+| app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1)               | ✅ [æp]           | ❌ [ˈeiˈpiːˈpiː]          |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1)       | ✅ [ˈɑːkaɪv]      | ❌ [ˈətʃɪv]               |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1)           | ✅ [əˈrei]        | ❌ [æˈrei]                |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=1)         | ✅ [ˈævətɑː]      | ❌ [əˈvʌtɑ]               |
@@ -26,13 +26,13 @@
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=1)       | ✅ [ˈɪntɪdʒə]     | ❌ [ˈɪntaɪgə]             |
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=1)           | ✅ [ˈɪʃuː]        | ❌ [ˈaɪʃuː]               |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1)             | ✅ [ˈdʒɑːvə]      | ❌ [ˈdʒɑːvɑː]             |
-| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1)        | ✅ [ˈdʒeɪpeɡ]     | [ˈdʒeɪˈpiːˈdʒiː]          |
+| jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1)        | ✅ [ˈdʒeɪpeɡ]     | ❌ [ˈdʒeɪˈpiːˈdʒiː]       |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=1)           | ✅ [ˈlɪnəks]      | ❌ [ˈlɪnʌks; ˈlɪnjuːks]   |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1)             | ✅ [meɪn]         | ❌ [mɪn]                  |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1)         | ✅ [ˈmɑːdʒɪn]     | ❌ [ˈmʌgɪn]               |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1)           | ✅ [ˈmeɪvn]       | ❌ [ˈmaːvn]               |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1)         | ✅ [ˈmɒdjuːl]     | ❌ [ˈməʊdl]               |
-| nginx                                                                     | ✅ Engine X       |                           |
+| nginx                                                                     | ✅ Engine X       | ❌ [ˈndʒɪks]              |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1)             | ✅ [nʌl]          | ❌ [naʊ]                  |
 | OS X                                                                      | ✅ OS ten         |                           |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1)   | ✅ [pəˈræmɪtə]    | ❌ [ˈpærəmɪtə]            |
