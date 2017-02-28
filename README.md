@@ -8,7 +8,7 @@
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=1) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
-| app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1) | ✅ [æp] | |
+| app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1) | ✅ [æp] | ❌ [eipi'pi]|
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1) | ✅ [ə'rei] | ❌ [æ'rei] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=1) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
