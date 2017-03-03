@@ -38,6 +38,7 @@
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
+| python [🔊](http://dict.youdao.com/dictvoice?audio=python&type=1) | ✅ ['paɪθɑːn] | ❌ ['paɪθən] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ [kjuːt] | |
