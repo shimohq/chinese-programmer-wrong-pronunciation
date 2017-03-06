@@ -5,7 +5,6 @@
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) | ✅ ['æksɛs] | ❌ [ək'sɛs] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
-| alias [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2) | ✅ [əˈpætʃiː] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2) | ✅ [æp] | ❌ app |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2) | ✅ ['ɑrkaɪv] | ❌ ['ətʃɪv] |
@@ -36,6 +35,7 @@
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2) | ✅ [sut; swit] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | youtube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) | ✅ ['ju: 'tju:b] | ❌ ['ju:'tubɪ] |
+| alias [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
 
 
 
