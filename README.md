@@ -21,6 +21,7 @@
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ [dɒk]| ❌ [daʊk] |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1) | ✅ [fə'sɑːd]]| ❌ ['feikeid] |
+| fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=1) | ✅ [gnu:] | |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=1) | ✅ [ˈɡui] | |
