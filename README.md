@@ -13,6 +13,7 @@
 | aspect [🔊](http://dict.youdao.com/dictvoice?audio=aspect&type=1) | ✅ ['æspekt] | ❌ [ə'spekt] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=1) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
+| bind [🔊](http://dict.youdao.com/dictvoice?audio=bind&type=1) | ✅ [baɪnd] | ❌ [bɪnd] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
