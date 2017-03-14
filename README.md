@@ -4,6 +4,7 @@
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
+| agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
 | analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
@@ -16,6 +17,7 @@
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | bind [🔊](http://dict.youdao.com/dictvoice?audio=bind&type=1) | ✅ [baɪnd] | ❌ [bɪnd] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
+| Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
