@@ -36,6 +36,7 @@
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=1) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
+| matrix [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1) | ✅ [ˈmeɪtrɪks] | ❌ [ˈmɑ:trɪks] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1) | ✅ ['meɪvn] | ❌ ['maːvn] |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1) | ✅ ['mɒdjuːl] | ❌ ['məʊdl] |
 | nginx | ✅ Engine X | |
