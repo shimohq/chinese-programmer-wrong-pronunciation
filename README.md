@@ -55,6 +55,7 @@
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=1) | ✅ ['retɪnə] | ❌ [ri'tina] |
 | san jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=1) | ✅ [sænhəu'zei] | ❌ [sæn'ju:s] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=1) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
+| scene [🔊](http://dict.youdao.com/dictvoice?audio=scene&type=1) | ✅ [si:n] | |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=1) | ✅ [skiːm] | ❌ [s'kæmə] |
 | sudo | ✅ ['suːduː] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=1) | ✅ [swiːt] | ❌ [sjuːt] |
