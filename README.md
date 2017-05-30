@@ -4,6 +4,7 @@
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
+| amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ ['æməzən] | ❌ ['əmeizən] |
 | analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
@@ -38,6 +39,7 @@
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
 | matrix [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1) | ✅ [ˈmeɪtrɪks] | ❌ [ˈmɑ:trɪks] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1) | ✅ ['meɪvn] | ❌ ['maːvn] |
+| Microsoft [🔊](http://dict.youdao.com/dictvoice?audio=Microsoft&type=1) | ✅ ['maikrəusɔft] | ❌ ['mikrəusɔft] |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1) | ✅ ['mɒdjuːl] | ❌ ['məʊdl] |
 | nginx | ✅ Engine X | |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ [nʌl] | ❌ [naʊ] |
