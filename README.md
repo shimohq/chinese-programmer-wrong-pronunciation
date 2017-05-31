@@ -5,6 +5,7 @@
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
 | agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
+| amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ ['æməzən] | ❌ ['əmeizən] |
 | analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
@@ -25,8 +26,9 @@
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1) | ✅ [fə'sɑːd]]| ❌ ['feikeid] |
 | fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
-| GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=1) | ✅ [gnu:] | |
+| GNU [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg) | ✅ [gnu:] | |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=1) | ✅ [ˈɡui] | |
+| Haskell [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=1) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
 | height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=1) | ✅ [haɪt] | ❌ [heɪt] |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=1) | ✅ ['hɪdn] | ❌ ['haɪdn] |
 | image [🔊](http://dict.youdao.com/dictvoice?audio=image&type=1) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
@@ -38,7 +40,9 @@
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=1) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
+| matrix [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1) | ✅ [ˈmeɪtrɪks] | ❌ [ˈmɑ:trɪks] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1) | ✅ ['meɪvn] | ❌ ['maːvn] |
+| Microsoft [🔊](http://dict.youdao.com/dictvoice?audio=Microsoft&type=1) | ✅ ['maikrəusɔft] | ❌ ['mikrəusɔft] |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1) | ✅ ['mɒdjuːl] | ❌ ['məʊdl] |
 | nginx | ✅ Engine X | |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ [nʌl] | ❌ [naʊ] |
