@@ -9,6 +9,7 @@
 | analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
+| alias [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=1) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1) | ✅ [æp] | ❌ [eipi'pi]|
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
