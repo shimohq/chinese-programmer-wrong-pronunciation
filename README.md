@@ -29,7 +29,7 @@
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=1) | ✅ ['ɪʃuː] | ❌ [ˈaɪʃuː] |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1) | ✅ ['dʒɑːvə] | ❌ ['dʒɑːvɑː] |
 | jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1) | ✅ ['dʒeɪpeɡ] | [ˈdʒeɪˈpi:ˈdʒiː] |
-| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=1) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
+| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1) | ✅ ['meɪvn] | ❌ ['maːvn] |
@@ -46,6 +46,7 @@
 | san jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=1) | ✅ [sænhəu'zei] | ❌ [sæn'ju:s] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=1) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=1) | ✅ [skiːm] | ❌ [s'kæmə] |
+| SQL | ✅ [ˈsiːkwəl] | |
 | sudo | ✅ ['suːduː] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=1) | ✅ [swiːt] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=1) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
