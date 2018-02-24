@@ -21,7 +21,7 @@
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
-| digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
+| digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ [dɒk]| ❌ [daʊk] |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
