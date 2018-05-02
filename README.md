@@ -18,6 +18,7 @@
 | aspect [🔊](http://dict.youdao.com/dictvoice?audio=aspect&type=1) | ✅ ['æspekt] | ❌ [ə'spekt] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=1) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
+| byte [🔊](http://dict.youdao.com/dictvoice?audio=byte&type=1) | ✅ [baɪt] | ❌ [bɪt] |
 | bind [🔊](http://dict.youdao.com/dictvoice?audio=bind&type=1) | ✅ [baɪnd] | ❌ [bɪnd] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
