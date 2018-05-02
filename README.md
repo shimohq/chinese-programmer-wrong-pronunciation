@@ -41,6 +41,7 @@
 | lambda [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1) | ✅ [ˈlæmdə] | ❌ [ˈlɒŋmdɑ] |
 | linear [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1) | ✅ ['lɪnɪə] | ❌ ['laɪə] |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
+| locale [🔊](http://dict.youdao.com/dictvoice?audio=locale&type=2) | ✅ [ləʊ'kɑːl] | ❌ [ˈloʊk(ə)l] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
 | matrix [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1) | ✅ [ˈmeɪtrɪks] | ❌ [ˈmɑ:trɪks] |
