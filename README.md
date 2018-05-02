@@ -29,7 +29,7 @@
 | fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | GNU [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg) | ✅ [gnu:] | |
-| GUI [🔊](https://n1audio.hjfile.cn/newylk/2017/08/30/ac56985ceeaf0f56fe15d53cda080d01.mp3) | ✅ [ˈɡu:i] | |
+| GUI [🔊](http://dict.youdao.com/dictvoice?audio={GUI}&type=1) | ✅ [ˈɡu:i] | |
 | Haskell [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=1) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
 | height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=1) | ✅ [haɪt] | ❌ [heɪt] |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=1) | ✅ ['hɪdn] | ❌ ['haɪdn] |
