@@ -40,6 +40,7 @@
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1) | ✅ ['dʒɑːvə] | ❌ ['dʒɑːvɑː] |
 | jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1) | ✅ ['dʒeɪpeɡ] | ❌ [ˈdʒeɪˈpi:ˈdʒiː] |
 | lambda [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1) | ✅ [ˈlæmdə] | ❌ [ˈlɒŋmdɑ] |
+| level [🔊](http://dict.youdao.com/dictvoice?audio=level&type=1) | ✅ [ˈlev(ə)l] | ❌ [ˈlev(ə)r] |
 | linear [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1) | ✅ ['lɪnɪə] | ❌ ['laɪə] |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
 | locale [🔊](http://dict.youdao.com/dictvoice?audio=locale&type=2) | ✅ [ləʊ'kɑːl] | ❌ [ˈloʊk(ə)l] |
