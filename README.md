@@ -14,7 +14,7 @@
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1) | ✅ [æp] | ❌ [eipi'pi]|
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=1) | ✅ [ə'rei] | ❌ [æ'rei] |
-| ASCII [🔊](http://dict.youdao.com/dictvoice?audio=ascii&type=1) | ✅ ['æski] |
+| ASCII [🔊](http://dict.youdao.com/dictvoice?audio=ascii&type=1) | ✅ ['æski] | ❌ [ɑːsk] |
 | aspect [🔊](http://dict.youdao.com/dictvoice?audio=aspect&type=1) | ✅ ['æspekt] | ❌ [ə'spekt] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=1) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
