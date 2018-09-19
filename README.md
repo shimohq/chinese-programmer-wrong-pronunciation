@@ -13,6 +13,7 @@
 | array [🔊](http://dict.youdao.com/dictvoice?audio=array&type=2) | ✅ [ə'rei] | ❌ [æ'rei] |
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2) | ✅ [kæʃ] | ❌ [kætʃ] |
+| clang [🔊](http://dict.youdao.com/dictvoice?audio=clang&type=2) | ✅ [klæŋ] | ❌ [sɪlæŋ] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2) | ✅ ['dɑɪdʒɛst] | ❌ ['dɪgɛst] |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
