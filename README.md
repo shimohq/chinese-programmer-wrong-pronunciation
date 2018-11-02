@@ -20,12 +20,14 @@
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | bind [🔊](http://dict.youdao.com/dictvoice?audio=bind&type=1) | ✅ [baɪnd] | ❌ [bɪnd] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
+| Closure [🔊](http://dict.youdao.com/dictvoice?audio=Closure&type=1) | ✅ ['kloʊʒər]  | |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ [dɒk]| ❌ [daʊk] |
+| druid [🔊](http://dict.youdao.com/dictvoice?audio=druid&type=1) | ✅ ['druːɪd]| |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1) | ✅ [ɡɪt] | ❌ [dʒɪt] |
@@ -47,6 +49,7 @@
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
 | matrix [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1) | ✅ [ˈmeɪtrɪks] | ❌ [ˈmɑ:trɪks] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1) | ✅ ['meɪvn] | ❌ ['maːvn] |
+| micro [🔊](http://dict.youdao.com/dictvoice?audio=micro&type=1) | ✅ ['maɪkroʊ] | |
 | Microsoft [🔊](http://dict.youdao.com/dictvoice?audio=Microsoft&type=1) | ✅ ['maikrəusɔft] | ❌ ['mikrəusɔft] |
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1) | ✅ ['mɒdjuːl] | ❌ ['məʊdl] |
 | nginx | ✅ Engine X | |
