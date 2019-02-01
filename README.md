@@ -4,7 +4,7 @@
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
-| Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=1) | ✅ [əˈdəʊbi:;əˈdobi]| ❌ [əˈdub] |
+| Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
 | agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
 | amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ ['æməzən] | ❌ ['əmeizən; ə'meizən] |
 | analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
