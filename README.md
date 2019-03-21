@@ -66,6 +66,7 @@
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ [kjuːt] | |
 | Realm [🔊](http://dict.youdao.com/dictvoice?audio=realm&type=1) | ✅ [relm] | ❌ [riəlm] |
+| resume [🔊](http://dict.youdao.com/dictvoice?audio=resume&type=1) | ✅  [rɪ'zju:m] | ❌  [rɪ'sju:m] |
 | resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=1) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
 | resort [🔊](http://dict.youdao.com/dictvoice?audio=resort&type=1) | ✅ [rɪˈzɔ:t] | ❌ [rɪˈsɔ:t] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=1) | ✅ ['retɪnə] | ❌ [ri'tina] |
