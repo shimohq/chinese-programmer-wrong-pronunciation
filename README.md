@@ -5,6 +5,7 @@
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
 | Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
+| admin [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) | ✅ ['ædmɪn] | ❌ [ɜ:d'mɪn] |
 | agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
 | amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ ['æməzən] | ❌ ['əmeizən; ə'meizən] |
 | analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
@@ -43,6 +44,7 @@
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=1) | ✅ ['ɪʃuː] | ❌ [ˈaɪʃuː] |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1) | ✅ ['dʒɑːvə] | ❌ ['dʒɑːvɑː] |
 | jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1) | ✅ ['dʒeɪpeɡ] | ❌ [ˈdʒeɪˈpi:ˈdʒiː] |
+| key [🔊](http://dict.youdao.com/dictvoice?audio=key&type=2) | ✅  [kiː] | ❌ [kei] |
 | lambda [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1) | ✅ [ˈlæmdə] | ❌ [ˈlɒŋmdɑ] |
 | linear [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1) | ✅ ['lɪnɪə] | ❌ ['laɪə] |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
