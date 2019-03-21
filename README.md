@@ -26,6 +26,7 @@
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
+| Dijkstra [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg) | ✅ Dutch:[ˈdɛikstra] English:[ˈdaɪkstrə] |  |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ [dɒk]| ❌ [daʊk] |
 | event [🔊](http://dict.youdao.com/dictvoice?audio=event&type=1) | ✅ [ɪ'vent]| ❌ ['ɪvənt] |
