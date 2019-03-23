@@ -78,7 +78,7 @@
 | sudo | ✅ ['suːduː] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=1) | ✅ [swiːt] | ❌ [sjuːt] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=1) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
-| Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=1) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
+| Ubuntu [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
 | variable [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=1) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
 | vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ [v'ju:] | ❌ [v'ju:i] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1) | ✅ [wɪdθ] | ❌ [waɪdθ] |
