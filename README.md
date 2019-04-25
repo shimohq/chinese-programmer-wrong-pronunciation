@@ -62,6 +62,7 @@
 | OS X | ✅ OS ten | |
 | phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ ['fæntəm] | ❌ ['pæntəm] |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
+| privilege [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=1) | ✅ ['prɪvəlɪdʒ] | ❌ ['prɪvɪlɪdʒ] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ [kjuːt] | |
