@@ -22,6 +22,7 @@
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | bind [🔊](http://dict.youdao.com/dictvoice?audio=bind&type=1) | ✅ [baɪnd] | ❌ [bɪnd] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
+| capacity [🔊](http://dict.youdao.com/dictvoice?audio=capacity&type=1) | ✅ [kə'pæsɪtɪ] | ❌ ['kæpəsɪtɪ] |
 | clang [🔊](http://dict.youdao.com/dictvoice?audio=clang&type=2) | ✅ [klæŋ] | ❌ [sɪlæŋ] |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
