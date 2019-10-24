@@ -1,8 +1,9 @@
 # chinese-programmer-wrong-pronunciation
 中国程序员容易发音错误的单词(点击喇叭可收听正确读音)
+Chinese programmers are easy to pronounce the wrong words (click on the speaker to listen to the correct pronunciation)
 
-| 单词  | 正确发音 | 错误发音 |
-| ---- | ------- | ------- |
+| 单词  |          正确发音      |       错误发音       |
+| Word  | Correct Pronunciation | Wrong Pronunciation |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
 | Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
 | admin [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) | ✅ ['ædmɪn] | ❌ [ɜ:d'mɪn] |
@@ -88,11 +89,16 @@
 | debt [🔊](http://dict.youdao.com/dictvoice?audio=debt&type=1) | ✅ [det] | ❌ [de'bit] |
 
 > 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性.
-> 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
+> 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?]
+
+In the simple principle, and in order to avoid the choice of difficult problems in the program, the 'correct phonetic' uses the British DJ phonetic symbol closest to the dictionary audio, which does not represent its uniqueness.Professional online English dictionary please refer to
+[Know the link: Which is better in the online English dictionary?]
+(https://www.zhihu.com/question/19707759)
 
 
 
 > 参考资料
+Reference material
 >
 > 1. https://www.zhihu.com/question/19739907
 > 2. https://www.v2ex.com/t/131094
@@ -102,5 +108,10 @@
 > 6. https://www.v2ex.com/t/342087
 
 
-#### 读对了所有的单词？
-我们正在招聘优秀的程序员，欢迎[加入石墨文档](https://shimo.im/doc/G3ckHEVF3f4qANHk)
+#### 读对了所有的单词？ 
+#### Read all the words?
+我们正在招聘优秀的程序员，欢迎[加入石墨文档]
+
+We are hiring good programmers, 
+Welcome [Join Graph Document]
+(https://shimo.im/doc/G3ckHEVF3f4qANHk)
