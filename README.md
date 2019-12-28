@@ -78,6 +78,7 @@
 | SQL | ✅ [ˈsiːkwəl]/[ˈesˈkjuːˈel] | |
 | sudo | ✅ ['suːduː] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=1) | ✅ [swiːt] | ❌ [sjuːt] |
+| thymeleaf [🔊](http://dict.youdao.com/dictvoice?audio=thymeleaf&type=2) | ✅ [ˈtaɪmˌlɪːf] | ❌ [θiːmɪlɪːf]] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=1) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
 | variable [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=1) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
