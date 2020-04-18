@@ -1,6 +1,8 @@
 # chinese-programmer-wrong-pronunciation
 中国程序员容易发音错误的单词(点击喇叭可收听正确读音)
 
+> ⚠ 代表不专业或不建议的发音（包括但不限于英式发音、字母发音）
+
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
@@ -23,6 +25,7 @@
 | bind [🔊](http://dict.youdao.com/dictvoice?audio=bind&type=1) | ✅ [baɪnd] | ❌ [bɪnd] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
 | clang [🔊](http://dict.youdao.com/dictvoice?audio=clang&type=2) | ✅ [klæŋ] | ❌ [sɪlæŋ] |
+| curl [🔊](http://dict.youdao.com/dictvoice?audio=curl&type=2) | ✅ [kɜːrl] | ⚠ [si:jʊr'el] |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
@@ -47,6 +50,7 @@
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1) | ✅ ['dʒɑːvə] | ❌ ['dʒɑːvɑː] |
 | jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1) | ✅ ['dʒeɪpeɡ] | ❌ [ˈdʒeɪˈpi:ˈdʒiː] |
 | key [🔊](http://dict.youdao.com/dictvoice?audio=key&type=2) | ✅  [kiː] | ❌ [kei] |
+| lib [🔊](http://dict.youdao.com/dictvoice?audio=lib&type=2) | ✅ [lɪb] | ❌ [ˈlaɪb] |
 | lambda [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1) | ✅ [ˈlæmdə] | ❌ [ˈlɒŋmdɑ] |
 | linear [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1) | ✅ ['lɪnɪə] | ❌ ['laɪə] |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
@@ -64,6 +68,7 @@
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | privilege [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=1) | ✅ ['prɪvəlɪdʒ] | ❌ ['prɪvɪlɪdʒ] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
+| python [🔊](http://dict.youdao.com/dictvoice?audio=python&type=2) | ✅ [ˈpaɪθɑːn] | ⚠ [ˈpaɪθən] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ [kjuːt] | |
 | Realm [🔊](http://dict.youdao.com/dictvoice?audio=realm&type=1) | ✅ [relm] | ❌ [riəlm] |
@@ -83,6 +88,7 @@
 | variable [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=1) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
 | vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ [v'ju:] | ❌ [v'ju:i] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1) | ✅ [wɪdθ] | ❌ [waɪdθ] |
+| widget [🔊](http://dict.youdao.com/dictvoice?audio=widget&type=2) | ✅ [ˈwɪdʒɪt] | ❌ [ˈwɪdɡet] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 | Lucene [🔊](http://dict.youdao.com/dictvoice?audio=lucene&type=1) | ✅ [lu'siːn] | ❌ ['lu:sən] |
 | debt [🔊](http://dict.youdao.com/dictvoice?audio=debt&type=1) | ✅ [det] | ❌ [de'bit] |
