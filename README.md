@@ -36,7 +36,7 @@
 | format [🔊](http://dict.youdao.com/dictvoice?audio=format&type=1) | ✅ ['fɔːmæt]| ❌ [fɔ'mæt] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1) | ✅ [ɡɪt] | ❌ [dʒɪt] |
 | GNU [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg) | ✅ [gnu:] | |
-| GUI [🔊](http://dict.youdao.com/dictvoice?audio={GUI}&type=1) | ✅ [ˈɡu:i] | |
+| GUI [🔊](https://cn.bing.com/th?id=ODT.13FECD0AB1262567C86A87BC66B34500&pid=Dictionary) | ✅ [dʒiːjuːˈʌɪ] | |
 | Haskell [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=1) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
 | height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=1) | ✅ [haɪt] | ❌ [heɪt] |
 | hidden [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=1) | ✅ ['hɪdn] | ❌ ['haɪdn] |
