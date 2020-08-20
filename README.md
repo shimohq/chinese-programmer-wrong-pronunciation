@@ -24,12 +24,14 @@
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
 | clang [🔊](http://dict.youdao.com/dictvoice?audio=clang&type=2) | ✅ [klæŋ] | ❌ [sɪlæŋ] |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
+| data [🔊](http://dict.youdao.com/dictvoice?audio=data&type=2) | ✅ [ˈdeɪtə] | ❌ [deɪt] |
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
 | Dijkstra [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg) | ✅ Dutch:[ˈdɛikstra] English:[ˈdaɪkstrə] |  |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ [dɒk]| ❌ [daʊk] |
+| echo [🔊](http://dict.youdao.com/dictvoice?audio=echo&type=2) | ✅ [ˈekoʊ] | ❌ [ˈikoʊ] |
 | event [🔊](http://dict.youdao.com/dictvoice?audio=event&type=1) | ✅ [ɪ'vent]| ❌ ['ɪvənt] |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
