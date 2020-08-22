@@ -4,14 +4,14 @@
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
-| Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
-| admin [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) | ✅ ['ædmɪn] | ❌ [ɜ:d'mɪn] |
+| Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=1) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
+| admin [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=1) | ✅ ['ædmɪn] | ❌ [ɜ:d'mɪn] |
 | agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
 | amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) | ✅ ['æməzən] | ❌ ['əmeizən; ə'meizən] |
 | analogy [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) | ✅ [əˈnælədʒi] | ❌ [ænə'lɒdʒi] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=1) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=1) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
-| alias [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=2) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
+| alias [🔊](http://dict.youdao.com/dictvoice?audio=alias&type=1) | ✅ [ˈeɪliəs]| ❌ [ə'lais] |
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=1) | ✅ [ə'pætʃɪ] | ❌ [ʌpʌtʃ] |
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=1) | ✅ [æp] | ❌ [eipi'pi]|
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=1) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
@@ -22,7 +22,7 @@
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | bind [🔊](http://dict.youdao.com/dictvoice?audio=bind&type=1) | ✅ [baɪnd] | ❌ [bɪnd] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
-| clang [🔊](http://dict.youdao.com/dictvoice?audio=clang&type=2) | ✅ [klæŋ] | ❌ [sɪlæŋ] |
+| clang [🔊](http://dict.youdao.com/dictvoice?audio=clang&type=1) | ✅ [klæŋ] | ❌ [sɪlæŋ] |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | debt [🔊](http://dict.youdao.com/dictvoice?audio=debt&type=1) | ✅ [det] | ❌ [de'bit] |
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
@@ -48,11 +48,11 @@
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=1) | ✅ ['ɪʃuː] | ❌ [ˈaɪʃuː] |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1) | ✅ ['dʒɑːvə] | ❌ ['dʒɑːvɑː] |
 | jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1) | ✅ ['dʒeɪpeɡ] | ❌ [ˈdʒeɪˈpi:ˈdʒiː] |
-| key [🔊](http://dict.youdao.com/dictvoice?audio=key&type=2) | ✅  [kiː] | ❌ [kei] |
+| key [🔊](http://dict.youdao.com/dictvoice?audio=key&type=1) | ✅  [kiː] | ❌ [kei] |
 | lambda [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1) | ✅ [ˈlæmdə] | ❌ [ˈlɒŋmdɑ] |
 | linear [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1) | ✅ ['lɪnɪə] | ❌ ['laɪə] |
-| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
-| locale [🔊](http://dict.youdao.com/dictvoice?audio=locale&type=2) | ✅ [ləʊ'kɑːl] | ❌ [ˈloʊk(ə)l] |
+| Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=1) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
+| locale [🔊](http://dict.youdao.com/dictvoice?audio=locale&type=1) | ✅ [ləʊ'kɑːl] | ❌ [ˈloʊk(ə)l] |
 | Lucene [🔊](http://dict.youdao.com/dictvoice?audio=lucene&type=1) | ✅ [lu'siːn] | ❌ ['lu:sən] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
@@ -63,7 +63,7 @@
 | nginx | ✅ Engine X | |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | ❌ [ɔs eks] |
-| phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ ['fæntəm] | ❌ ['pæntəm] |
+| phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=1) | ✅ ['fæntəm] | ❌ ['pæntəm] |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | privilege [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=1) | ✅ ['prɪvəlɪdʒ] | ❌ ['prɪvɪlɪdʒ] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
