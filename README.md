@@ -62,7 +62,7 @@
 | module [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1) | ✅ ['mɒdjuːl] | ❌ ['məʊdl] |
 | nginx | ✅ Engine X | |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ [nʌl] | ❌ [naʊ] |
-| OS X | ✅ OS ten | |
+| OS X | ✅ OS ten | ❌ [ɔs eks] |
 | phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ ['fæntəm] | ❌ ['pæntəm] |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | privilege [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=1) | ✅ ['prɪvəlɪdʒ] | ❌ ['prɪvɪlɪdʒ] |
