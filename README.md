@@ -91,8 +91,7 @@
 
 > 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
 
-> 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 （from @hailingtao)
-
+> 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 （from @hailintao)
 
 
 > 参考资料
