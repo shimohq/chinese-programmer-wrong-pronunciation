@@ -24,6 +24,7 @@
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
 | clang [🔊](http://dict.youdao.com/dictvoice?audio=clang&type=2) | ✅ [klæŋ] | ❌ [sɪlæŋ] |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
+| debt [🔊](http://dict.youdao.com/dictvoice?audio=debt&type=1) | ✅ [det] | ❌ [de'bit] |
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
@@ -52,6 +53,7 @@
 | linear [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1) | ✅ ['lɪnɪə] | ❌ ['laɪə] |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
 | locale [🔊](http://dict.youdao.com/dictvoice?audio=locale&type=2) | ✅ [ləʊ'kɑːl] | ❌ [ˈloʊk(ə)l] |
+| Lucene [🔊](http://dict.youdao.com/dictvoice?audio=lucene&type=1) | ✅ [lu'siːn] | ❌ ['lu:sən] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
 | matrix [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1) | ✅ [ˈmeɪtrɪks] | ❌ [ˈmɑ:trɪks] |
@@ -85,8 +87,6 @@
 | vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ [v'ju:] | ❌ [v'ju:i] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
-| Lucene [🔊](http://dict.youdao.com/dictvoice?audio=lucene&type=1) | ✅ [lu'siːn] | ❌ ['lu:sən] |
-| debt [🔊](http://dict.youdao.com/dictvoice?audio=debt&type=1) | ✅ [det] | ❌ [de'bit] |
 
 > 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性.
 > 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
