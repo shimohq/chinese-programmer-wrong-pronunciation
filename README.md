@@ -76,6 +76,7 @@
 | san jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=1) | ✅ [sænhəu'zei] | ❌ [sæn'ju:s] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=1) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=1) | ✅ [skiːm] | ❌ [s'kæmə] |
+| scala [🔊](http://dict.youdao.com/dictvoice?audio=scala&type=1) | ✅ [ˈskɑːlɑ] | ❌ [ˈskæːlɑ] |
 | segue [🔊](http://dict.youdao.com/dictvoice?audio=segue&type=1) | ✅ ['sɛɡwe] | ❌ [se'dʒ] |
 | SQL | ✅ [ˈsiːkwəl]/[ˈesˈkjuːˈel] | |
 | sudo | ✅ ['suːduː] | |
