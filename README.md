@@ -77,7 +77,7 @@
 | resolved [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=1) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
 | resort [🔊](http://dict.youdao.com/dictvoice?audio=resort&type=1) | ✅ [rɪˈzɔ:t] | ❌ [rɪˈsɔ:t] |
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=1) | ✅ ['retɪnə] | ❌ [ri'tina] |
-| route [🔊](http://dict.youdao.com/dictvoice?audio=router&type=1) | ✅ [ruːt] | ❌ [rəʊt] |
+| route [🔊](http://dict.youdao.com/dictvoice?audio=route&type=1) | ✅ [ruːt] | ❌ [rəʊt] |
 | San Jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=1) | ✅ [sænhəu'zei] | ❌ [sæn'ju:s] |
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=1) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | scheme [🔊](http://dict.youdao.com/dictvoice?audio=scheme&type=1) | ✅ [skiːm] | ❌ [s'kæmə] |
