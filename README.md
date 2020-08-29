@@ -4,6 +4,7 @@
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
+| adversarial [🔊](http://dict.youdao.com/dictvoice?audio=adversarial&type=1) | ✅ [ˌædvəˈseəriəl] | ❌ [ədˈvɜːrsəriəl] |
 | Adobe [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=1) | ✅ [ə'dəʊbi]| ❌ [əˈdub] |
 | admin [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=1) | ✅ ['ædmɪn] | ❌ [ɜ:d'mɪn] |
 | agile [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) | ✅ ['ædʒaɪl] | ❌ [ə'dʒaɪl] |
@@ -90,6 +91,7 @@
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=1) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
 | variable [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=1) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
+| verbose [🔊](http://dict.youdao.com/dictvoice?audio=verbose&type=1) | ✅ [vɜːˈbəʊs] | ❌ ['vɜːrboʊs] | 
 | vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ [v'ju:] | ❌ [v'ju:i] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
