@@ -67,7 +67,7 @@
 | phantom | [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=1) ✅ ['fæntəm] | [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) ✅ [ˈfæntəm] |  ❌ ['pæntəm] |
 | parameter | [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) ✅ [pə'ræmɪtə] | [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) ✅ [pəˈræmɪtər] |  ❌ ['pærəmɪtə] |
 | privilege | [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=1) ✅ ['prɪvəlɪdʒ] | [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=2) ✅ [ˈprɪvəlɪdʒ] |  ❌ ['prɪvɪlɪdʒ] |
-| prometheus | [🔊](http://dict.youdao.com/dictvoice?audio=prometheus&type=1) ✅ [prə-ˈmē-thē-əs] | [🔊](http://dict.youdao.com/dictvoice?audio=prometheus&type=2) ✅ [pro'miθɪəs] |   |
+| Prometheus | [🔊](http://dict.youdao.com/dictvoice?audio=prometheus&type=1) ✅ [prə-ˈmē-thē-əs] | [🔊](http://dict.youdao.com/dictvoice?audio=prometheus&type=2) ✅ [pro'miθɪəs] |   |
 | putty | [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) ✅ [ˈpʌti] | [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2) ✅ [ˈpʌti] |  ❌ [ˈpuːti] |
 | Qt | [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) ✅ [kjuːt] | [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=2) ✅ [kjuːt] |  |
 | query | [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) ✅ ['kwɪəri] | [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2) ✅ [ˈkwɪri] |  ❌ ['kwaɪri] |
