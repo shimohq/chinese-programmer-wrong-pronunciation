@@ -7,4 +7,4 @@
 
 tools目录下有个python程序可以从有道网站创建单词信息，包括发音链接和音标，可以直接加到主文件
 
-Usage: tools/addword.py <word>
+Usage: tools/addword.py [word]
