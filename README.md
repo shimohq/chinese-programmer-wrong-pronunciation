@@ -98,19 +98,15 @@
 | YouTube | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1)  ['juː'tjuːb] | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2)  ['juː'tjuːb] |  ❌ ['juː'tʊbɪ] |
 
 ### 重要更新
-
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 （conbributed by @hailintao)
 1. 更简洁的单词列表，听正确读音不用再打开新网页 https://cpwp.netlify.app/ （contributed by @antfu7)
 1. 自动产生可以加到单词表里的单词描述的程序 [addword.py](https://github.com/shimohq/chinese-programmer-wrong-pronunciation/blob/master/tools/addword.py) (contributed by @yuanchen8911)
 
 ### 说明
-
 1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
 1. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
  
-
 ### 参考资料
-
 1. https://www.zhihu.com/question/19739907
 2. https://www.v2ex.com/t/131094
 3. https://www.v2ex.com/t/309350
