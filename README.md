@@ -5,6 +5,7 @@
 | access | [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) ✅ ['ækses] | [🔊](http://dict.youdao.com/dictvoice?audio=access&type=2) ✅ [ˈækses] |  ❌ [ək'ses] |
 | Adobe | [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=1) ✅ [ə'dəʊbi]| [🔊](http://dict.youdao.com/dictvoice?audio=Adobe&type=2) ✅ [ə'dəʊbi] |  ❌ [əˈdub] |
 | admin | [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=1) ✅ ['ædmɪn] | [🔊](http://dict.youdao.com/dictvoice?audio=admin&type=2) ✅ [ˈædmɪn] |  ❌ [ɜ:d'mɪn] |
+| adversarial | [🔊](http://dict.youdao.com/dictvoice?audio=adversarial&type=1) ✅ [ˌædvəˈseəriəl] | [🔊](http://dict.youdao.com/dictvoice?audio=adversarial&type=2)  ✅ [ˌædvərˈseriəl] |  ❌ [ədˈvɜːrsəriəl] |
 | agile | [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=1) ✅ ['ædʒaɪl] | [🔊](http://dict.youdao.com/dictvoice?audio=agile&type=2) ✅ [ˈædʒl] |  ❌ [ə'dʒaɪl] |
 | amazon | [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1) ✅ ['æməzən] | [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=2) ✅ [ˈæməzɑːn] |  ❌ ['əmeizən; ə'meizən] |
 | analogy | [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=1) ✅ [əˈnælədʒi] | [🔊](http://dict.youdao.com/dictvoice?audio=analogy&type=2) ✅ [əˈnælədʒi] |  ❌ [ænə'lɒdʒi] |
@@ -89,6 +90,7 @@
 | typical | [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=1) ✅ ['tɪpɪkl] | [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2) ✅ [ˈtɪpɪkl] |  ❌ ['taɪpɪkəl] |
 | Ubuntu | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga) ✅ [ʊ'bʊntʊ] | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga) ✅ [ʊ'bʊntʊ] |  ❌ [juː'bʊntʊ] |
 | variable | [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=1) ✅ ['veəriəbl] | [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=2) ✅ [ˈveriəbl,ˈværiəbl] | ❌ [və'raiəbl] |
+| verbose | [🔊](http://dict.youdao.com/dictvoice?audio=verbose&type=1) ✅ [vɜːˈbəʊs] | [🔊](http://dict.youdao.com/dictvoice?audio=verbose&type=2) ✅ [vɜːrˈboʊs] |  ❌ ['vɜːrboʊs]
 | vue | [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) ✅ [v'ju:] | [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2) ✅ [v'ju:] |  ❌ [v'ju:i] |
 | width | [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1) ✅ [wɪdθ] | [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2) ✅ [wɪdθ,wɪtθ] |  ❌ [waɪdθ] |
 | YouTube | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) ✅ ['juː'tjuːb] | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2) ✅ ['juː'tjuːb] |  ❌ ['juː'tʊbɪ] |
