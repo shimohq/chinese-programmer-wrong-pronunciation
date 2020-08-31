@@ -44,7 +44,7 @@
 | height | [🔊](http://dict.youdao.com/dictvoice?audio=height&type=1) ✅ [haɪt] | [🔊](http://dict.youdao.com/dictvoice?audio=height&type=2) ✅ [haɪt] |  ❌ [heɪt] |
 | hidden | [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=1) ✅ ['hɪdn] | [🔊](http://dict.youdao.com/dictvoice?audio=hidden&type=2) ✅ [ˈhɪdn] |  ❌ ['haɪdn] |
 | image | [🔊](http://dict.youdao.com/dictvoice?audio=image&type=1) ✅ ['ɪmɪdʒ] | [🔊](http://dict.youdao.com/dictvoice?audio=image&type=2) ✅ [ˈɪmɪdʒ] |  ❌ [ɪ'meɪdʒ] |
-| implement | [🔊](http://dict.youdao.com/dictvoice?audio=implement&type=1) ✅ ['ɪmplɪm(ə)nt] | [🔊](http://dict.youdao.com/dictvoice?audio=implement&type=2) ✅ [ˈɪmplɪmənt; ˈɪmpləˌment] |  ❌ [ɪm'plem(ə)nt] |
+| implement | [🔊](http://dict.youdao.com/dictvoice?audio=implement&type=1) ✅ ['ɪmplɪm(ə)nt] | [🔊](http://dict.youdao.com/dictvoice?audio=implement&type=2) ✅ [ˈɪmplɪmənt; ˈɪmpləˌment]|  ❌ [ɪm'plem(ə)nt] |
 | integer | [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=1) ✅ ['ɪntɪdʒə] | [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2) ✅ [ˈɪntɪdʒər] |  ❌ [ˈɪntaɪgə] |
 | issue | [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=1) ✅ ['ɪʃuː] | [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=2) ✅ [ˈɪʃuː] |  ❌ [ˈaɪʃuː] |
 | Java | [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1) ✅ ['dʒɑːvə] | [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2) ✅ [ˈdʒɑːvə] |  ❌ ['dʒɑːvɑː] |
