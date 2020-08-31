@@ -1,7 +1,7 @@
 ### 中国程序员容易发音错误的单词(点击✅收听正确读音)
 
 | 单词 | 正确发音（英音）| 正确发音（美音）| 错误发音 |
-| ---- | ------------ | ---------- | ----------- | 
+| --- | ----------- | ---------- | ---------- | 
 | access | [✅](http://dict.youdao.com/dictvoice?audio=access&type=1)  ['ækses] | [✅](http://dict.youdao.com/dictvoice?audio=access&type=2)  [ˈækses] |  ❌ [ək'ses] |
 | Adobe | [✅](http://dict.youdao.com/dictvoice?audio=Adobe&type=1)  [ə'dəʊbi]| [✅](http://dict.youdao.com/dictvoice?audio=Adobe&type=2)  [ə'dəʊbi] |  ❌ [əˈdub] |
 | admin | [✅](http://dict.youdao.com/dictvoice?audio=admin&type=1)  ['ædmɪn] | [✅](http://dict.youdao.com/dictvoice?audio=admin&type=2)  [ˈædmɪn] |  ❌ [ɜ:d'mɪn] |
