@@ -72,6 +72,7 @@
 | Qt | [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1)  [kjuːt] | [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=2)  [kjuːt] |  |
 | query | [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1)  ['kwɪəri] | [🔊](http://dict.youdao.com/dictvoice?audio=query&type=2)  [ˈkwɪri] |  ❌ ['kwaɪri] |
 | Realm | [🔊](http://dict.youdao.com/dictvoice?audio=realm&type=1)  [relm] | [🔊](http://dict.youdao.com/dictvoice?audio=realm&type=2)  [relm] |  ❌ [riəlm] |
+| reconcile | [🔊](http://dict.youdao.com/dictvoice?audio=reconcile&type=1) [ˈrekənsaɪl] | [🔊](http://dict.youdao.com/dictvoice?audio=reconcile&type=2)[ˈrekənsaɪl] |  |
 | Redux | [🔊](http://dict.youdao.com/dictvoice?audio=redux&type=1)  [ri'dʌks] | [🔊](http://dict.youdao.com/dictvoice?audio=redux&type=2)  [ri'dʌks] |  ❌ ['ridju:ks] |
 | resume | [🔊](http://dict.youdao.com/dictvoice?audio=resume&type=1)   [rɪ'zju:m] | [🔊](http://dict.youdao.com/dictvoice?audio=resume&type=2)  [rɪˈzuːm] |  ❌  [rɪ'sju:m] |
 | resolved | [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=1)  [rɪ'zɒlvd] | [🔊](http://dict.youdao.com/dictvoice?audio=resolved&type=2)  [rɪˈzɑːlvd] |  ❌ [rɪ'səʊvd] |
