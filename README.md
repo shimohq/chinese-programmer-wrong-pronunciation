@@ -64,6 +64,7 @@
 | nginx |      Engine X |    Engine X  |  |
 | null | [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1)  [nʌl] | [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2)  [nʌl] |  ❌ [naʊ] |
 | OS X |    OS ten |    OS ten |  ❌ [ɔs eks] |
+| paradox | [🔊](http://dict.youdao.com/dictvoice?audio=paradox&type=1) [ˈpærədɒks] | [🔊](http://dict.youdao.com/dictvoice?audio=paradox&type=2)[ˈpærədɑːks] |  |
 | phantom | [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=1)  ['fæntəm] | [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2)  [ˈfæntəm] |  ❌ ['pæntəm] |
 | parameter | [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1)  [pə'ræmɪtə] | [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2)  [pəˈræmɪtər] |  ❌ ['pærəmɪtə] |
 | privilege | [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=1)  ['prɪvəlɪdʒ] | [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=2)  [ˈprɪvəlɪdʒ] |  ❌ ['prɪvɪlɪdʒ] |
