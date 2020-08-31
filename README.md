@@ -97,11 +97,12 @@
 | width | [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1)  [wɪdθ] | [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2)  [wɪdθ,wɪtθ] |  ❌ [waɪdθ] |
 | YouTube | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1)  ['juː'tjuːb] | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2)  ['juː'tjuːb] |  ❌ ['juː'tʊbɪ] |
 
-#### 重要更新
+### 重要更新
 
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 （conbributed by @hailintao)
-1. 一个更简洁的单词列表，听正确读音不用再打开新网页 https://cpwp.netlify.app/ （contributed by @antfu7)
-1. tools下加了一个程序自动产生可以加到单词表里的单词描述 [addword.py](https://github.com/shimohq/chinese-programmer-wrong-pronunciation/blob/master/tools/addword.py) (contributed by @yuanchen8911)
+1. 更简洁的单词列表，听正确读音不用再打开新网页 https://cpwp.netlify.app/ （contributed by @antfu7)
+1. 自动产生可以加到单词表里的单词描述的程序 [addword.py](https://github.com/shimohq/chinese-programmer-wrong-pronunciation/blob/master/tools/addword.py) (contributed by @yuanchen8911)
+
 
 > 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
 
