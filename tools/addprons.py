@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8
 # -*- coding: UTF-8 -*-
 """
 Add American English pronunciations and reformat the word list
@@ -7,6 +7,9 @@ Usage: addprons.py <input_word_file> <output_word_file>
 import sys
 import os
 import re
+import urllib.request
+from bs4 import BeautifulSoup
+
 
 def main():
     if len(sys.argv) != 3:
@@ -35,22 +38,41 @@ def main():
                 line = "| ---- | --------------- | ----------------- | ----------- | "
             elif re.search(r'✅', line):
                 word = " "
-                britsh = " "
-                american = " "
+                britsh_pron = " "
+                american_pron = " "
+                print(line)
                 fields = re.split(r'\|', line)
+                print(fields[1])
                 match = re.findall(r'[\w\-\s]+', fields[1])
                 if match:
                     word = match[0]
-                pron = re.findall(r'\[🔊\]\(http.*\)', fields[1])
-                if pron:
-                    britsh = pron[0]
-                    american = britsh.replace("type=1", "type=2")
-                britsh = britsh + fields[2]
-                line = '|' + word + '| ' + britsh + '| ' + american + ' | ' +fields[3] + '|'
+                britsh = re.findall(r'\[🔊\]\(http.*\)', fields[1])
+                print(britsh)
+                if britsh:
+                    britsh_pron = britsh[0]
+                    american_pron = britsh_pron.replace("type=1", "type=2")
+                britsh_pron = britsh_pron + fields[2]
+                american_pron = american_pron + "✅ " + get_phonetics(word, 2)
+                line = '|' + word + '|' + britsh_pron + '|' + american_pron + ' | ' + fields[3] + '|'
             out_fp.write(line + '\n')
-            print(line)
+            #print(line)
     in_fp.close()
     out_fp.close()
+
+def get_phonetics(word, option): 
+    word = word.strip()
+    url = "http://dict.youdao.com/w/eng/"+word
+    try:
+        response = urllib.request.urlopen(url).read()
+    except urllib.error.URLError:
+        return ""
+    soup = BeautifulSoup(response, "html.parser")
+    spans = soup.find_all('span', {'class' : 'pronounce'})
+    lines = [span.get_text() for span in spans]
+    match = re.findall(r'\[.+\]', lines[option - 1])
+    if match:
+        return match[0]
+    return ""
 
 if __name__ == '__main__':
     main()
