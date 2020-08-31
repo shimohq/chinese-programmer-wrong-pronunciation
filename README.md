@@ -105,19 +105,18 @@
 
 ### 说明
 
-> 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
-
-> 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
+1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
+1. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
  
 
 ### 参考资料
 
-> 1. https://www.zhihu.com/question/19739907
-> 2. https://www.v2ex.com/t/131094
-> 3. https://www.v2ex.com/t/309350
-> 4. https://www.v2ex.com/t/63781
-> 5. https://www.v2ex.com/t/246033
-> 6. https://www.v2ex.com/t/342087
+1. https://www.zhihu.com/question/19739907
+2. https://www.v2ex.com/t/131094
+3. https://www.v2ex.com/t/309350
+4. https://www.v2ex.com/t/63781
+5. https://www.v2ex.com/t/246033
+6. https://www.v2ex.com/t/342087
 
-#### 读对了所有的单词？
+### 读对了所有的单词？
 我们正在招聘优秀的程序员，欢迎[加入石墨文档](https://shimo.im/doc/G3ckHEVF3f4qANHk)
