@@ -18,7 +18,7 @@ def main():
     prons = get_pronunciation_files(word)
     phones = get_phonetic_transcriptions(word)
     britsh_eng = '[🔊]('+prons[0]+')' + ' ' + phones[0]
-    american_eng = '[🔊]('+prons[1]+')' + phones[1]
+    american_eng = '[🔊]('+prons[1]+')' + ' ' + phones[1]
     line = '| ' + word + ' | ' + britsh_eng + ' | ' + american_eng + ' | ' + ' ' + '|'
     print(line)
 
