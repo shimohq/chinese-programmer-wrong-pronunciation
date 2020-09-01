@@ -100,7 +100,7 @@
 ### 更新
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
 1. 更简洁的单词列表，听正确读音不用再打开新网页 https://cpwp.netlify.app/ (by @antfu7)
-1. 音标表示/ / (by @b1f6c1c4)
+1. 国际音标严式记音（纽约音） https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
 1. 加美音和重新排版 (by @yuanchen8911)
 1. 生成单词表里的单词描述程序 [addword.py](https://github.com/shimohq/chinese-programmer-wrong-pronunciation/blob/master/tools/addword.py) (by @yuanchen8911)
 
