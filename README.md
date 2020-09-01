@@ -98,6 +98,7 @@
 | YouTube | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1)  ['juː'tjuːb] | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2)  ['juː'tjuːb] |  ❌ ['juː'tʊbɪ] |
 
 ### 重要更新
+1. 国际音标严式记音（纽约音） https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
 1. 更简洁的单词列表，听正确读音不用再打开新网页 https://cpwp.netlify.app/ (by @antfu7)
 1. 加美音和重新排版 (by @yuanchen8911)
