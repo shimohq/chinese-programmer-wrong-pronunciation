@@ -21,22 +21,6 @@ def main():
     line = '| ' + word + ' | ' + britsh_eng + ' | ' + american_eng + ' | ' + ' ' + '|'
     print(line)
 
-def get_pronunciation_files(word):
-    """Return the word's pronunciation files from youdao.com if available
-       (British English and American English) as a list"""
-    word = word.strip()
-    prons = [" ", " "]
-    url = "http://dict.youdao.com/dictvoice?audio="+word+"&type=1"
-    try:
-        urllib.request.urlopen(url)
-        prons[0] = url
-        urllib.request.urlopen(url)
-        prons[1] = url
-    except:
-        return prons
-
-    return prons
-
 def get_pronunciations(word):
     """Return the word's pronouciation URLs and phonetic transcriptions 
        from youdao.com if available"""
