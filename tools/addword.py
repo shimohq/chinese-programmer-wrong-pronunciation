@@ -18,7 +18,7 @@ def main():
     prons = get_pronunciation_files(word)
     phones = get_phonetic_transcriptions(word)
     britsh_eng = '[🔊]('+prons[0]+')' + ' ' + phones[0]
-    american_eng = '[🔊]('+prons[1]+')' + phones[1]
+    american_eng = '[🔊]('+prons[1]+')' + ' ' + phones[1]
     line = '| ' + word + ' | ' + britsh_eng + ' | ' + american_eng + ' | ' + ' ' + '|'
     print(line)
 
@@ -57,12 +57,12 @@ def get_phonetic_transcriptions(word):
     lines = [span.get_text() for span in spans]
     match = re.findall(r'\[.+\]', lines[0])
     if match:
-        phones.append(match[0])
+        phones.append(match[0].replace('[', '/').replace(']', '/'))
     else:
         phones.append(" ")
     match = re.findall(r'\[.+\]', lines[1])
     if match:
-        phones.append(match[0])
+        phones.append(match[0].replace('[', '/').replace(']', '/'))
     else:
         phones.append(" ")
     return phones
