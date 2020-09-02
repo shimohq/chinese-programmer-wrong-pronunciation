@@ -36,6 +36,7 @@
 | facade | [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1)  /fə'sɑːd/ | [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2)  /fəˈsɑːd/ |  ❌ /'feikeid/ |
 | fedora | [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1)  /fɪ'dɔːrə/ | [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=2)  /fɪˈdɔːrə/ |  ❌ /'fedərə/ |
 | format | [🔊](http://dict.youdao.com/dictvoice?audio=format&type=1)  /'fɔːmæt/ | [🔊](http://dict.youdao.com/dictvoice?audio=format&type=2)  /ˈfɔːrmæt/ |  ❌ /fɔ'mæt/ |
+| gauge | [🔊](http://dict.youdao.com/dictvoice?audio=gauge&type=1) /ɡeɪdʒ/ | [🔊](http://dict.youdao.com/dictvoice?audio=gauge&type=2) /ɡeɪdʒ/ |  ❌ /ɡɑudʒ/ |
 | Git | [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1)  /ɡɪt/ | [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2)  /ɡɪt/ |  ❌ /dʒɪt/ |
 | GNU | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnu:/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /nuː,njuː/ |  |
 | GraphQL | [🔊](http://dict.youdao.com/dictvoice?audio=GraphQL&type=1)  /græf kju ɛl/ | [🔊](http://dict.youdao.com/dictvoice?audio=GraphQL&type=2)  /græf kju ɛl/ |  ❌ /dʒɪgræf kju ɛl/ |
@@ -50,6 +51,7 @@
 | Java | [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1)  /'dʒɑːvə/ | [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2)  /ˈdʒɑːvə/ |  ❌ /'dʒɑːvɑː/ |
 | jpg| [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1)  /'dʒeɪpeɡ/ | [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2)  /'dʒeɪpeɡ/ |  ❌ /ˈdʒeɪˈpi:ˈdʒiː/ |
 | key | [🔊](http://dict.youdao.com/dictvoice?audio=key&type=1)  /kiː/ | [🔊](http://dict.youdao.com/dictvoice?audio=key&type=2)  /kiː/ |  ❌ /kei/ |
+| Kubernetes | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubɚ’nɛtɪs/ /kjubɚ’nɛtɪs/ | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubɚ’nɛtɪs/ /kjubɚ’nɛtɪs/ |   |
 | lambda | [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
 | linear | [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1)  /'lɪnɪə/ | [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=2)  /ˈlɪniər/ |  ❌ /'laɪə/ |
 | Linux | [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
