@@ -39,6 +39,7 @@
 | gauge | [🔊](http://dict.youdao.com/dictvoice?audio=gauge&type=1) /ɡeɪdʒ/ | [🔊](http://dict.youdao.com/dictvoice?audio=gauge&type=2) /ɡeɪdʒ/ |  ❌ /ɡɑudʒ/ |
 | Git | [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1)  /ɡɪt/ | [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2)  /ɡɪt/ |  ❌ /dʒɪt/ |
 | GNU | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnu:/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /nuː,njuː/ |  |
+| Grafana | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3)  /Grah-fah-nah/ | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3 )  /Grah-fah-nah/ |  |
 | GraphQL | [🔊](http://dict.youdao.com/dictvoice?audio=GraphQL&type=1)  /græf kju ɛl/ | [🔊](http://dict.youdao.com/dictvoice?audio=GraphQL&type=2)  /græf kju ɛl/ |  ❌ /dʒɪgræf kju ɛl/ |
 | GUI | [🔊](http://dict.youdao.com/dictvoice?audio={GUI}&type=1)  /ˈɡu:i/ | [🔊](http://dict.youdao.com/dictvoice?audio={GUI}&type=2)  /ˈɡu:i/ |  |
 | Haskell | [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=1)  /ˈhæskəl/ | [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=2)  /ˈhæskəl/ |  ❌ /hæˈskəl/ |
