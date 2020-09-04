@@ -53,7 +53,7 @@
 | Java | [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1)  /'dʒɑːvə/ | [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2)  /ˈdʒɑːvə/ |  ❌ /'dʒɑːvɑː/ |
 | jpg| [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1)  /'dʒeɪpeɡ/ | [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2)  /'dʒeɪpeɡ/ |  ❌ /ˈdʒeɪˈpi:ˈdʒiː/ |
 | key | [🔊](http://dict.youdao.com/dictvoice?audio=key&type=1)  /kiː/ | [🔊](http://dict.youdao.com/dictvoice?audio=key&type=2)  /kiː/ |  ❌ /kei/ |
-| Kubernetes | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubɚ’nɛtɪs/ /kjubɚ’nɛtɪs/ | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubɚ’nɛtɪs/ /kjubɚ’nɛtɪs/ |   |
+| Kubernetes | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubənetɪs/ /kjubənetɪs/ | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubənetɪs/ /kjubənetɪs/ |   |
 | lambda | [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
 | linear | [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1)  /'lɪnɪə/ | [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=2)  /ˈlɪniər/ |  ❌ /'laɪə/ |
 | Linux | [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
