@@ -96,6 +96,7 @@
 | thymeleaf | [🔊](http://dict.youdao.com/dictvoice?audio=thymeleaf&type=1)  /ˈtaɪmˌlɪːf/ | [🔊](http://dict.youdao.com/dictvoice?audio=thymeleaf&type=2)  /ˈtaɪmˌlɪːf/ |  ❌ /θiːmɪlɪːf/ |
 | typical | [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=1)  /'tɪpɪkl/ | [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2)  /ˈtɪpɪkl/ |  ❌ /'taɪpɪkəl/ |
 | Ubuntu | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ |  ❌ /juː'bʊntʊ/ |
+| Vagrant | [🔊](http://dict.youdao.com/dictvoice?audio=Vagrant&type=1) /ˈveɪɡrənt/ | [🔊](http://dict.youdao.com/dictvoice?audio=Vagrant&type=2) /ˈveɪɡrənt/ | /ˈvagɹent/ |
 | variable | [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=1)  /'veəriəbl/ | [🔊](http://dict.youdao.com/dictvoice?audio=variable&type=2)  /ˈveriəbl,ˈværiəbl/ | ❌ /və'raiəbl/ |
 | verbose | [🔊](http://dict.youdao.com/dictvoice?audio=verbose&type=1)  /vɜːˈbəʊs/ | [🔊](http://dict.youdao.com/dictvoice?audio=verbose&type=2)  /vɜːrˈboʊs/ |  ❌ /'vɜːrboʊs/ |
 | vue | [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1)  /v'ju:/ | [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2)  /v'ju:/ |  ❌ /v'ju:i/ |
