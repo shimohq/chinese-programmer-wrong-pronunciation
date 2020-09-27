@@ -33,8 +33,10 @@
 | Dijkstra | [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg)  Dutch:/ˈdɛikstra/ English:/ˈdaɪkstrə/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg)    |   |
 | Django | [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1)  /ˈdʒæŋɡoʊ/ | [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2)  /ˈdʒæŋɡoʊ/ |  ❌ /diˈdʒæŋɡoʊ/ |
 | doc | [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1)  /dɒk/ | [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=2)  /dɒk/ |  ❌ /daʊk/ |
-| event | [🔊](http://dict.youdao.com/dictvoice?audio=event&type=1)  /ɪ'vent/ | [🔊](http://dict.youdao.com/dictvoice?audio=event&type=2)  /ɪˈvent/ |  ❌ /'ɪvənt/ |
 | epoch  | [🔊](http://dict.youdao.com/dictvoice?audio=epoch&type=1)  /ˈiːpɒk/ | [🔊](http://dict.youdao.com/dictvoice?audio=epoch&type=2)  /ˈepək/ |  ❌ /'ɛpətʃ/ |
+| execute | [🔊](http://dict.youdao.com/dictvoice?audio=execute&type=1) /ˈeksɪkjuːt/ | [🔊](http://dict.youdao.com/dictvoice?audio=execute&type=2) /ˈeksɪkjuːt/ |  |
+| executor | [🔊](http://dict.youdao.com/dictvoice?audio=executor&type=1) /ɪɡˈzekjətə(r)/ | [🔊](http://dict.youdao.com/dictvoice?audio=executor&type=2) /ɪɡˈzekjətər/ |  |
+| event | [🔊](http://dict.youdao.com/dictvoice?audio=event&type=1)  /ɪ'vent/ | [🔊](http://dict.youdao.com/dictvoice?audio=event&type=2)  /ɪˈvent/ |  ❌ /'ɪvənt/ |
 | facade | [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1)  /fə'sɑːd/ | [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2)  /fəˈsɑːd/ |  ❌ /'feikeid/ |
 | fedora | [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1)  /fɪ'dɔːrə/ | [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=2)  /fɪˈdɔːrə/ |  ❌ /'fedərə/ |
 | format | [🔊](http://dict.youdao.com/dictvoice?audio=format&type=1)  /'fɔːmæt/ | [🔊](http://dict.youdao.com/dictvoice?audio=format&type=2)  /ˈfɔːrmæt/ |  ❌ /fɔ'mæt/ |
