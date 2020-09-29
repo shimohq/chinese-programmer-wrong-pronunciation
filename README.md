@@ -43,7 +43,7 @@
 | gauge | [🔊](http://dict.youdao.com/dictvoice?audio=gauge&type=1) /ɡeɪdʒ/ | [🔊](http://dict.youdao.com/dictvoice?audio=gauge&type=2) /ɡeɪdʒ/ |  ❌ /ɡɑudʒ/ |
 | Git | [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1)  /ɡɪt/ | [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2)  /ɡɪt/ |  ❌ /dʒɪt/ |
 | GNU | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnu:/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /nuː,njuː/ |  |
-| Grafana | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3)  /Grah-fah-nah/ | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3 )  /Grah-fah-nah/ |  |
+| Grafana | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3)   /grəˈfɑːnˌɑː/ | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3 )   /grəˈfɑːnˌɑː/ |  |
 | GraphQL | [🔊](http://dict.youdao.com/dictvoice?audio=GraphQL&type=1)  /græf kju ɛl/ | [🔊](http://dict.youdao.com/dictvoice?audio=GraphQL&type=2)  /græf kju ɛl/ |  ❌ /dʒɪgræf kju ɛl/ |
 | GUI | [🔊](http://dict.youdao.com/dictvoice?audio={GUI}&type=1)  /ˈɡu:i/ | [🔊](http://dict.youdao.com/dictvoice?audio={GUI}&type=2)  /ˈɡu:i/ |  |
 | Haskell | [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=1)  /ˈhæskəl/ | [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=2)  /ˈhæskəl/ |  ❌ /hæˈskəl/ |
@@ -56,7 +56,7 @@
 | Java | [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1)  /'dʒɑːvə/ | [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2)  /ˈdʒɑːvə/ |  ❌ /'dʒɑːvɑː/ |
 | jpg| [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1)  /'dʒeɪpeɡ/ | [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2)  /'dʒeɪpeɡ/ |  ❌ /ˈdʒeɪˈpi:ˈdʒiː/ |
 | key | [🔊](http://dict.youdao.com/dictvoice?audio=key&type=1)  /kiː/ | [🔊](http://dict.youdao.com/dictvoice?audio=key&type=2)  /kiː/ |  ❌ /kei/ |
-| Kubernetes | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubənetɪs/ /kjubənetɪs/ | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubənetɪs/ /kjubənetɪs/ |   |
+| Kubernetes* | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubз'netɪs/ | [🔊](http://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kuːbə˞'netiz/ |   |
 | lambda | [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
 | linear | [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1)  /'lɪnɪə/ | [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=2)  /ˈlɪniər/ |  ❌ /'laɪə/ |
 | Linux | [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
@@ -104,6 +104,9 @@
 | vue | [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1)  /v'ju:/ | [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=2)  /v'ju:/ |  ❌ /v'ju:i/ |
 | width | [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1)  /wɪdθ/ | [🔊](http://dict.youdao.com/dictvoice?audio=width&type=2)  /wɪdθ,wɪtθ/ |  ❌ /waɪdθ/ |
 | YouTube | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1)  /'juː'tjuːb/ | [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2)  /'juː'tjuːb/ |  ❌ /'juː'tʊbɪ/ |
+
+### 附注
+* 当使用简名 ‘Kube’ 称呼 ‘Kubernetes’ 时, 发音则与 ‘cube’(/kjuːb/) 一致
 
 ### 其他相关链接
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
