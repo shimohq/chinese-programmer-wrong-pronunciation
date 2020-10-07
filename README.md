@@ -97,6 +97,7 @@
 | sudo | /'suːduː/ | /'suːduː/ |  |
 | suite | [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=1)  /swiːt/ | [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2)  /swiːt/ |  ❌ /sjuːt/ |
 | thymeleaf | [🔊](http://dict.youdao.com/dictvoice?audio=thymeleaf&type=1)  /ˈtaɪmˌlɪːf/ | [🔊](http://dict.youdao.com/dictvoice?audio=thymeleaf&type=2)  /ˈtaɪmˌlɪːf/ |  ❌ /θiːmɪlɪːf/ |
+| tuple | [🔊](http://dict.youdao.com/dictvoice?audio=tuple&type=1) /tjʊpəl/ | [🔊](http://dict.youdao.com/dictvoice?audio=tuple&type=2) /tuːpəl/ |  |
 | typical | [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=1)  /'tɪpɪkl/ | [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=2)  /ˈtɪpɪkl/ |  ❌ /'taɪpɪkəl/ |
 | Ubuntu | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ |  ❌ /juː'bʊntʊ/ |
 | Vagrant | [🔊](http://dict.youdao.com/dictvoice?audio=Vagrant&type=1) /ˈveɪɡrənt/ | [🔊](http://dict.youdao.com/dictvoice?audio=Vagrant&type=2) /ˈveɪɡrənt/ | /ˈvagɹent/ |
