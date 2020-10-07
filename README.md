@@ -67,6 +67,7 @@
 | matrix | [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1)  /ˈmeɪtrɪks/ | [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=2)  /ˈmeɪtrɪks/ |  ❌ /ˈmɑ:trɪks/ |
 | maven | [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1)  /'meɪvn/ | [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=2)  /ˈmeɪvn/ |  ❌ /'maːvn/ |
 | Microsoft | [🔊](http://dict.youdao.com/dictvoice?audio=Microsoft&type=1)  /'maikrəusɔft/ | [🔊](http://dict.youdao.com/dictvoice?audio=Microsoft&type=2)  /ˈmaɪkrəsɔːft/ |  ❌ /'mikrəusɔft/ |
+| miscellaneous | [🔊](http://dict.youdao.com/dictvoice?audio=miscellaneous&type=1) /ˌmɪsəˈleɪniəs/ | [🔊](http://dict.youdao.com/dictvoice?audio=miscellaneous&type=2) /ˌmɪsəˈleɪniəs/ |  |
 | module | [🔊](http://dict.youdao.com/dictvoice?audio=module&type=1)  /'mɒdjuːl/ | [🔊](http://dict.youdao.com/dictvoice?audio=module&type=2)  /ˈmɑːdʒuːl/ |  ❌ /'məʊdl/ |
 | nginx |      Engine X |    Engine X  |  |
 | null | [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1)  /nʌl/ | [🔊](http://dict.youdao.com/dictvoice?audio=null&type=2)  /nʌl/ |  ❌ /naʊ/ |
