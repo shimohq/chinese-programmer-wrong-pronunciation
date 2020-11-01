@@ -25,8 +25,8 @@ def get_pronunciations(word):
     """Return the word's pronouciation URLs and phonetic transcriptions
        from youdao.com if available"""
     word = word.strip()
-    word_url = "http://dict.youdao.com/w/en/"+word
-    pron_url = "http://dict.youdao.com/dictvoice?audio="+word+"&"
+    word_url = "https://dict.youdao.com/w/en/"+word
+    pron_url = "https://dict.youdao.com/dictvoice?audio="+word+"&"
     britsh_en = [" ", " "]
     american_en = [" "," "]
     try:
