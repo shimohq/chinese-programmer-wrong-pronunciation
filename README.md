@@ -53,7 +53,7 @@
 | implement | [🔊](https://dict.youdao.com/dictvoice?audio=implement&type=1)  /'ɪmplɪm(ə)nt/ | [🔊](https://dict.youdao.com/dictvoice?audio=implement&type=2)  /ˈɪmplɪmənt/ /ˈɪmpləˌment/ |  ❌ /ɪm'plem(ə)nt/ |
 | integer | [🔊](https://dict.youdao.com/dictvoice?audio=integer&type=1)  /'ɪntɪdʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=integer&type=2)  /ˈɪntɪdʒər/ |  ❌ /ˈɪntaɪgə/ |
 | issue | [🔊](https://dict.youdao.com/dictvoice?audio=issue&type=1)  /'ɪʃuː/ | [🔊](https://dict.youdao.com/dictvoice?audio=issue&type=2)  /ˈɪʃuː/ |  ❌ /ˈaɪʃuː/ |
-| Java | [🔊](https://dict.youdao.com/dictvoice?audio=java&type=1)  /'dʒɑːvə/ | [🔊](https://dict.youdao.com/dictvoice?audio=java&type=2)  /ˈdʒɑːvə/ |  ❌ /'dʒɑːvɑː/ |
+| Java | [🔊](https://dict.youdao.com/dictvoice?audio=java&type=1)  /'dʒɑːvə/ | [🔊](https://dict.youdao.com/dictvoice?audio=java&type=2)  /ˈdʒɑːvə/ |  |
 | jpg| [🔊](https://dict.youdao.com/dictvoice?audio=JPEG&type=1)  /'dʒeɪpeɡ/ | [🔊](https://dict.youdao.com/dictvoice?audio=JPEG&type=2)  /'dʒeɪpeɡ/ |  ❌ /ˈdʒeɪˈpi:ˈdʒiː/ |
 | key | [🔊](https://dict.youdao.com/dictvoice?audio=key&type=1)  /kiː/ | [🔊](https://dict.youdao.com/dictvoice?audio=key&type=2)  /kiː/ |  ❌ /kei/ |
 | Kubernetes* | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubз'netɪs/ | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kuːbə˞'netiz/ |   |
