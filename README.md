@@ -106,6 +106,7 @@
 | vue | [🔊](https://dict.youdao.com/dictvoice?audio=vue&type=1)  /v'ju:/ | [🔊](https://dict.youdao.com/dictvoice?audio=vue&type=2)  /v'ju:/ |  ❌ /v'ju:i/ |
 | width | [🔊](https://dict.youdao.com/dictvoice?audio=width&type=1)  /wɪdθ/ | [🔊](https://dict.youdao.com/dictvoice?audio=width&type=2)  /wɪdθ,wɪtθ/ |  ❌ /waɪdθ/ |
 | YouTube | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=1)  /'juː'tjuːb/ | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=2)  /'juː'tjuːb/ |  ❌ /'juː'tʊbɪ/ |
+|Chrome|[🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/  | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/|    ❌ /tʃɔːm/|
 
 ### 附注
 * 当使用简名 ‘Kube’ 称呼 ‘Kubernetes’ 时, 发音则与 ‘cube’(/kjuːb/) 一致
