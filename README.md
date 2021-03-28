@@ -23,6 +23,7 @@
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
+|Chrome|[🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/  | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/|    ❌ /tʃɔːm/|
 | clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
 | daemon | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=1)  /'diːmən/ | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=2)  /ˈdiːmən/ |  ❌ /dæmən/ |
 | debt | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=1)  /det/ | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=2)  /det/ |  ❌ /de'bit/ |
@@ -106,7 +107,7 @@
 | vue | [🔊](https://dict.youdao.com/dictvoice?audio=vue&type=1)  /v'ju:/ | [🔊](https://dict.youdao.com/dictvoice?audio=vue&type=2)  /v'ju:/ |  ❌ /v'ju:i/ |
 | width | [🔊](https://dict.youdao.com/dictvoice?audio=width&type=1)  /wɪdθ/ | [🔊](https://dict.youdao.com/dictvoice?audio=width&type=2)  /wɪdθ,wɪtθ/ |  ❌ /waɪdθ/ |
 | YouTube | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=1)  /'juː'tjuːb/ | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=2)  /'juː'tjuːb/ |  ❌ /'juː'tʊbɪ/ |
-|Chrome|[🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/  | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/|    ❌ /tʃɔːm/|
+
 
 ### 附注
 * 当使用简名 ‘Kube’ 称呼 ‘Kubernetes’ 时, 发音则与 ‘cube’(/kjuːb/) 一致
