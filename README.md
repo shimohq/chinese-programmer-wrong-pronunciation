@@ -23,7 +23,7 @@
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
-|Chrome|[🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/  | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/|    ❌ /tʃɔːm/|
+| Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
 | clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
 | daemon | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=1)  /'diːmən/ | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=2)  /ˈdiːmən/ |  ❌ /dæmən/ |
 | debt | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=1)  /det/ | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=2)  /det/ |  ❌ /de'bit/ |
