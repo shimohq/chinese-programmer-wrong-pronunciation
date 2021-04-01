@@ -35,6 +35,7 @@
 | Django | [🔊](https://dict.youdao.com/dictvoice?audio=Django&type=1)  /ˈdʒæŋɡoʊ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Django&type=2)  /ˈdʒæŋɡoʊ/ |  ❌ /diˈdʒæŋɡoʊ/ |
 | doc | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=1)  /dɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=2)  /dɒk/ |  ❌ /daʊk/ |
 | dotnet | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=1)  /dɒtnet/ | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=2)  /dɑːtnet/ |  ❌ /daʊtnet/ |
+| ephemeral | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=1)  /[ɪˈfemərəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=2)  /[ɪˈfemərəl] / |  ❌ /daʊtnet/ |
 | epoch  | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=1)  /ˈiːpɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=2)  /ˈepək/ |  ❌ /'ɛpətʃ/ |
 | execute | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=1) /ˈeksɪkjuːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=2) /ˈeksɪkjuːt/ |  |
 | executor | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=1) /ɪɡˈzekjətə(r)/ | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=2) /ɪɡˈzekjətər/ |  |
