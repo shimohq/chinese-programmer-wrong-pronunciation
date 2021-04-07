@@ -19,7 +19,7 @@
 | array | [🔊](https://dict.youdao.com/dictvoice?audio=array&type=1)  /ə'rei/ | [🔊](https://dict.youdao.com/dictvoice?audio=array&type=2)  /əˈreɪ/ |  ❌ /æ'rei/ |
 | ASCII | [🔊](https://dict.youdao.com/dictvoice?audio=ascii&type=1)  /'æski/ | [🔊](https://dict.youdao.com/dictvoice?audio=ascii&type=2)  /ˈæski/ |  ❌ /ɑːsk/ |
 | aspect | [🔊](https://dict.youdao.com/dictvoice?audio=aspect&type=1)  /'æspekt/ | [🔊](https://dict.youdao.com/dictvoice?audio=aspect&type=2)  /ˈæspekt/ |  ❌ /ə'spekt/ |
-| async | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=1) /əˈsɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=2) /æˈsɪŋk/ | ❌ /e'sɪŋk/ |
+| async | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=1) /əˈsɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=2) /æˈsɪŋk/ | ❌ /'æsɪŋk/ |
 | avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)  /'ævətɑː/ | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)  /ˈævətɑːr/ |  ❌ /ə'vʌtɑ/ |
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
