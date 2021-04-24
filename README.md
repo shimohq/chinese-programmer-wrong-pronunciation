@@ -63,6 +63,7 @@
 | Kubernetes* | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubз'netɪs/ | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kuːbə˞'netiz/ |   |
 | lambda | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
 | linear | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=1)  /'lɪnɪə/ | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=2)  /ˈlɪniər/ |  ❌ /'laɪə/ |
+| LINQ | [🔊](https://dict.youdao.com/dictvoice?audio=link&type=1) /lɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=link&type=2) /lɪŋk/ |  ❌ /lɪŋkju:/ |
 | Linux | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
 | locale | [🔊](https://dict.youdao.com/dictvoice?audio=locale&type=1)  /ləʊ'kɑːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=locale&type=2)  /loʊˈkæl/ |  ❌ /ˈloʊk(ə)l/ |
 | Lucene | [🔊](https://dict.youdao.com/dictvoice?audio=lucene&type=1)  /lu'siːn/ | [🔊](https://dict.youdao.com/dictvoice?audio=lucene&type=2)  /lu'siːn/ |  ❌ /'lu:sən/ |
@@ -110,7 +111,6 @@
 | vue | [🔊](https://dict.youdao.com/dictvoice?audio=vue&type=1)  /v'ju:/ | [🔊](https://dict.youdao.com/dictvoice?audio=vue&type=2)  /v'ju:/ |  ❌ /v'ju:i/ |
 | width | [🔊](https://dict.youdao.com/dictvoice?audio=width&type=1)  /wɪdθ/ | [🔊](https://dict.youdao.com/dictvoice?audio=width&type=2)  /wɪdθ,wɪtθ/ |  ❌ /waɪdθ/ |
 | YouTube | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=1)  /'juː'tjuːb/ | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=2)  /'juː'tjuːb/ |  ❌ /'juː'tʊbɪ/ |
-
 
 ### 附注
 * 当使用简名 ‘Kube’ 称呼 ‘Kubernetes’ 时, 发音则与 ‘cube’(/kjuːb/) 一致
