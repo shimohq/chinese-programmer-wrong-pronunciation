@@ -121,6 +121,7 @@
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
 1. 简洁的单词列表，正确读音不用再打开新网页 https://cpwp.netlify.app/ (by @antfu7)
 1. 国际音标严式记音（纽约音）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
+2. 单词连读 https://corrector.justsong.cn/ (by [@songquanpeng](https://github.com/songquanpeng/pronunciation-corrector))
 
 
 ### 说明
