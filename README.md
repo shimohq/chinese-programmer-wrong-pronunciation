@@ -71,6 +71,7 @@
 | Linux | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
 | locale | [🔊](https://dict.youdao.com/dictvoice?audio=locale&type=1)  /ləʊ'kɑːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=locale&type=2)  /loʊˈkæl/ |  ❌ /ˈloʊk(ə)l/ |
 | Lucene | [🔊](https://dict.youdao.com/dictvoice?audio=lucene&type=1)  /lu'siːn/ | [🔊](https://dict.youdao.com/dictvoice?audio=lucene&type=2)  /lu'siːn/ |  ❌ /'lu:sən/ |
+| macro | [🔊](https://dict.youdao.com/dictvoice?audio=macro&type=1)  /ˈmækrəʊ/ | [🔊](https://dict.youdao.com/dictvoice?audio=macro&type=2)  /ˈmækroʊ/ | ❌ /ˈmakroʊ/                |
 | main | [🔊](https://dict.youdao.com/dictvoice?audio=main&type=1)  /meɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=main&type=2)  /meɪn/ |  ❌ /mɪn/ |
 | margin | [🔊](https://dict.youdao.com/dictvoice?audio=margin&type=1)  /'mɑːdʒɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=margin&type=2)  /ˈmɑːrdʒɪn/ |  ❌ /'mʌgɪn/ |
 | matrix | [🔊](https://dict.youdao.com/dictvoice?audio=matrix&type=1)  /ˈmeɪtrɪks/ | [🔊](https://dict.youdao.com/dictvoice?audio=matrix&type=2)  /ˈmeɪtrɪks/ |  ❌ /ˈmɑ:trɪks/ |
