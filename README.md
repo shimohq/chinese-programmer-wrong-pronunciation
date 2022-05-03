@@ -43,6 +43,7 @@
 | execute | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=1) /ˈeksɪkjuːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=2) /ˈeksɪkjuːt/ |  |
 | executor | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=1) /ɪɡˈzekjətə(r)/ | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=2) /ɪɡˈzekjətər/ |  |
 | event | [🔊](https://dict.youdao.com/dictvoice?audio=event&type=1)  /ɪ'vent/ | [🔊](https://dict.youdao.com/dictvoice?audio=event&type=2)  /ɪˈvent/ |  ❌ /'ɪvənt/ |
+| exit | [🔊](https://dict.youdao.com/dictvoice?audio=exit&type=1) /ˈeksɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=exit&type=2) /ˈeksɪt; ˈeɡzɪt/ | ❌ /ig'zit/ |
 | facade | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=1)  /fə'sɑːd/ | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=2)  /fəˈsɑːd/ |  ❌ /'feikeid/ |
 | fedora | [🔊](https://dict.youdao.com/dictvoice?audio=fedora&type=1)  /fɪ'dɔːrə/ | [🔊](https://dict.youdao.com/dictvoice?audio=fedora&type=2)  /fɪˈdɔːrə/ |  ❌ /'fedərə/ |
 | format | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=1)  /'fɔːmæt/ | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=2)  /ˈfɔːrmæt/ |  ❌ /fɔ'mæt/ |
