@@ -24,6 +24,7 @@
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
+| canal | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=1) /kəˈnæl/ | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=2) /kəˈnæl/ | ❌ /ˈkænl/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
 | clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
 | Coq | [🔊](https://upload.wikimedia.org/wikipedia/commons/4/47/Fr-coq.ogg) IPA French ['kɔkʲ] 读若拼音“goq” | | ❌ IPA English ['kʰɒk] |
@@ -71,13 +72,16 @@
 | Linux | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
 | locale | [🔊](https://dict.youdao.com/dictvoice?audio=locale&type=1)  /ləʊ'kɑːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=locale&type=2)  /loʊˈkæl/ |  ❌ /ˈloʊk(ə)l/ |
 | Lucene | [🔊](https://dict.youdao.com/dictvoice?audio=lucene&type=1)  /lu'siːn/ | [🔊](https://dict.youdao.com/dictvoice?audio=lucene&type=2)  /lu'siːn/ |  ❌ /'lu:sən/ |
+| macro | [🔊](https://dict.youdao.com/dictvoice?audio=macro&type=1)  /ˈmækrəʊ/ | [🔊](https://dict.youdao.com/dictvoice?audio=macro&type=2)  /ˈmækroʊ/ | ❌ /ˈmakroʊ/                |
 | main | [🔊](https://dict.youdao.com/dictvoice?audio=main&type=1)  /meɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=main&type=2)  /meɪn/ |  ❌ /mɪn/ |
 | margin | [🔊](https://dict.youdao.com/dictvoice?audio=margin&type=1)  /'mɑːdʒɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=margin&type=2)  /ˈmɑːrdʒɪn/ |  ❌ /'mʌgɪn/ |
 | matrix | [🔊](https://dict.youdao.com/dictvoice?audio=matrix&type=1)  /ˈmeɪtrɪks/ | [🔊](https://dict.youdao.com/dictvoice?audio=matrix&type=2)  /ˈmeɪtrɪks/ |  ❌ /ˈmɑ:trɪks/ |
 | maven | [🔊](https://dict.youdao.com/dictvoice?audio=maven&type=1)  /'meɪvn/ | [🔊](https://dict.youdao.com/dictvoice?audio=maven&type=2)  /ˈmeɪvn/ |  ❌ /'maːvn/ |
+| max | [🔊](https://dict.youdao.com/dictvoice?audio=max&type=1) /mæks/ | [🔊](https://dict.youdao.com/dictvoice?audio=max&type=2) /mæks/ |  ❌ /mɑ:ks/ |
 | Microsoft | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft&type=1)  /'maikrəusɔft/ | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft&type=2)  /ˈmaɪkrəsɔːft/ |  ❌ /'mikrəusɔft/ |
 | miscellaneous | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=1) /ˌmɪsəˈleɪniəs/ | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=2) /ˌmɪsəˈleɪniəs/ |  |
 | module | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=1)  /'mɒdjuːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=2)  /ˈmɑːdʒuːl/ |  ❌ /'məʊdl/ |
+| native | [🔊](https://dict.youdao.com/dictvoice?audio=native&type=1) /ˈneɪtɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=native&type=2) /ˈneɪtɪv/ | ❌ /ˈnætɪv/ |
 | nginx |      Engine X |    Engine X  |  |
 | null | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=1)  /nʌl/ | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=2)  /nʌl/ |  ❌ /naʊ/ |
 | obsolete | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=1) /ˈɒbsəliːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=2) /ˌɑːbsəˈliːt/ |  |
@@ -85,6 +89,7 @@
 | phantom | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=1)  /'fæntəm/ | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=2)  /ˈfæntəm/ |  ❌ /'pæntəm/ |
 | parameter | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=1)  /pə'ræmɪtə/ | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=2)  /pəˈræmɪtər/ |  ❌ /'pærəmɪtə/ |
 | privilege | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=1)  /'prɪvəlɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=2)  /ˈprɪvəlɪdʒ/ |  ❌ /'prɪvɪlɪdʒ/ |
+| probe | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=1) /prəʊb/ | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=2) /proʊb/ | ❌ /proʊbi/ |
 | Prometheus | [🔊](https://dict.youdao.com/dictvoice?audio=prometheus&type=1)  /prə-ˈmē-thē-əs/ | [🔊](https://dict.youdao.com/dictvoice?audio=prometheus&type=2)  /pro'miθɪəs/ |   |
 | putty | [🔊](https://dict.youdao.com/dictvoice?audio=putty&type=1)  /ˈpʌti/ | [🔊](https://dict.youdao.com/dictvoice?audio=putty&type=2)  /ˈpʌti/ |  ❌ /ˈpuːti/ |
 | Qt | [🔊](https://dict.youdao.com/dictvoice?audio=cute&type=1)  /kjuːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=cute&type=2)  /kjuːt/ |  |
@@ -105,6 +110,7 @@
 | SQL | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ |  |
 | sudo | /'suːduː/ | /'suːduː/ |  |
 | suite | [🔊](https://dict.youdao.com/dictvoice?audio=suite&type=1)  /swiːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=suite&type=2)  /swiːt/ |  ❌ /sjuːt/ |
+| telemetry | [🔊](https://dict.youdao.com/dictvoice?audio=telemetry&type=1) /təˈlemətri/ | [🔊](https://dict.youdao.com/dictvoice?audio=telemetry&type=2) /təˈlemətri/ | ❌ /ˈtelɪmətri/ |
 | thymeleaf | [🔊](https://dict.youdao.com/dictvoice?audio=thymeleaf&type=1)  /ˈtaɪmˌlɪːf/ | [🔊](https://dict.youdao.com/dictvoice?audio=thymeleaf&type=2)  /ˈtaɪmˌlɪːf/ |  ❌ /θiːmɪlɪːf/ |
 | tuple | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=1) /tjʊpəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=2) /tuːpəl/ |  |
 | typical | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=1)  /'tɪpɪkl/ | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=2)  /ˈtɪpɪkl/ |  ❌ /'taɪpɪkəl/ |
@@ -138,3 +144,7 @@
 4. https://www.v2ex.com/t/63781
 5. https://www.v2ex.com/t/246033
 6. https://www.v2ex.com/t/342087
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=shimohq/chinese-programmer-wrong-pronunciation&type=Date)](https://star-history.com/#shimohq/chinese-programmer-wrong-pronunciation&Date)

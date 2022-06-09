@@ -10,7 +10,6 @@
         // console.log(event)
         // console.log(event.target.nodeType)
         // console.log(event.target.nodeName);
-
         event.preventDefault();
         event.stopPropagation();
         let audio_url = null;
