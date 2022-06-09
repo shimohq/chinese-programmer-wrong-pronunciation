@@ -7,3 +7,4 @@
 > 3. 勾选 Developer Mode
 > 4. 选择 Load unpacked extension... 然后定位到刚才解压的文件夹里面的 `tools/chromium_extension` 目录，确定
 > 5. 这就安装好了，去掉 Developer Mode 勾选。
+> 6. 打开[`https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git`](https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git)点击单词，即可听正确的单词读音
