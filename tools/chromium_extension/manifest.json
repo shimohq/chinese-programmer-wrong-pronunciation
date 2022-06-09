@@ -1,5 +1,5 @@
 {
-    "name": "chinese-programmer-wrong-pronunciation-tools-02",
+    "name": "chinese-programmer-wrong-pronunciation-chromium-extension",
     "version": "0.1.0",
     "manifest_version": 3,
     "description": "README.md 页面无跳转 即可听正确读音",
@@ -28,5 +28,7 @@
                 "path": "rules/remove_content_security_policy.json"
             }
         ]
-    }
+    },
+    "author": "https://github.com/jingjingxyk",
+    "homepage_url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git"
 }
