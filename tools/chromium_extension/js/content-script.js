@@ -7,8 +7,8 @@
         let audio_player = new Audio()
         audio_player.setAttribute('autoplay', 'true')
         document.querySelector("#readme table tbody").addEventListener('click', (event) => {
-            console.log(event)
-            console.log(event.target.nodeType)
+           // console.log(event)
+           // console.log(event.target.nodeType)
             console.log(event.target.nodeName)
             event.preventDefault();
             event.stopPropagation();
