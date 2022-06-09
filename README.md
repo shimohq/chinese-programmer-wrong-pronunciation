@@ -143,3 +143,7 @@
 4. https://www.v2ex.com/t/63781
 5. https://www.v2ex.com/t/246033
 6. https://www.v2ex.com/t/342087
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=shimohq/chinese-programmer-wrong-pronunciation&type=Date)](https://star-history.com/#shimohq/chinese-programmer-wrong-pronunciation&Date)
