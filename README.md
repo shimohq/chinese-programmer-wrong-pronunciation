@@ -127,15 +127,15 @@
 
 ### 其他相关链接
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
-1. 简洁的单词列表，正确读音不用再打开新网页 https://cpwp.netlify.app/ (by @antfu7)
-1. 国际音标严式记音（纽约音）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
-2. 单词连读 https://corrector.justsong.cn/ (by [@songquanpeng](https://github.com/songquanpeng/pronunciation-corrector))
+2. 简洁的单词列表，正确读音不用再打开新网页 https://cpwp.netlify.app/ (by @antfu7)
+3. 国际音标严式记音（纽约音）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
+4. 单词连读 https://corrector.justsong.cn/ (by [@songquanpeng](https://github.com/songquanpeng/pronunciation-corrector))
 
 
 ### 说明
 1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
 2. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
-3. `README.md` 页面已经实现，无跳转听正确的读音。请手动加载chromium扩展 [ chromium extension ](tools/chromium_extension/README.md)
+3. 无页面跳转收听正确读音请安装我们的 [chromium 扩展](tools/chromium_extension/README.md)
 
 ### 参考资料
 1. https://www.zhihu.com/question/19739907
