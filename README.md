@@ -76,9 +76,11 @@
 | margin | [🔊](https://dict.youdao.com/dictvoice?audio=margin&type=1)  /'mɑːdʒɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=margin&type=2)  /ˈmɑːrdʒɪn/ |  ❌ /'mʌgɪn/ |
 | matrix | [🔊](https://dict.youdao.com/dictvoice?audio=matrix&type=1)  /ˈmeɪtrɪks/ | [🔊](https://dict.youdao.com/dictvoice?audio=matrix&type=2)  /ˈmeɪtrɪks/ |  ❌ /ˈmɑ:trɪks/ |
 | maven | [🔊](https://dict.youdao.com/dictvoice?audio=maven&type=1)  /'meɪvn/ | [🔊](https://dict.youdao.com/dictvoice?audio=maven&type=2)  /ˈmeɪvn/ |  ❌ /'maːvn/ |
+| max | [🔊](https://dict.youdao.com/dictvoice?audio=max&type=1) /mæks/ | [🔊](https://dict.youdao.com/dictvoice?audio=max&type=2) /mæks/ |  ❌ /mɑ:ks/ |
 | Microsoft | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft&type=1)  /'maikrəusɔft/ | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft&type=2)  /ˈmaɪkrəsɔːft/ |  ❌ /'mikrəusɔft/ |
 | miscellaneous | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=1) /ˌmɪsəˈleɪniəs/ | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=2) /ˌmɪsəˈleɪniəs/ |  |
 | module | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=1)  /'mɒdjuːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=2)  /ˈmɑːdʒuːl/ |  ❌ /'məʊdl/ |
+| native | [🔊](https://dict.youdao.com/dictvoice?audio=native&type=1) /ˈneɪtɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=native&type=2) /ˈneɪtɪv/ | ❌ /ˈnætɪv/ |
 | nginx |      Engine X |    Engine X  |  |
 | null | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=1)  /nʌl/ | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=2)  /nʌl/ |  ❌ /naʊ/ |
 | obsolete | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=1) /ˈɒbsəliːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=2) /ˌɑːbsəˈliːt/ |  |
@@ -86,6 +88,7 @@
 | phantom | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=1)  /'fæntəm/ | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=2)  /ˈfæntəm/ |  ❌ /'pæntəm/ |
 | parameter | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=1)  /pə'ræmɪtə/ | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=2)  /pəˈræmɪtər/ |  ❌ /'pærəmɪtə/ |
 | privilege | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=1)  /'prɪvəlɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=2)  /ˈprɪvəlɪdʒ/ |  ❌ /'prɪvɪlɪdʒ/ |
+| probe | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=1) /prəʊb/ | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=2) /proʊb/ | ❌ /proʊbi/ |
 | Prometheus | [🔊](https://dict.youdao.com/dictvoice?audio=prometheus&type=1)  /prə-ˈmē-thē-əs/ | [🔊](https://dict.youdao.com/dictvoice?audio=prometheus&type=2)  /pro'miθɪəs/ |   |
 | putty | [🔊](https://dict.youdao.com/dictvoice?audio=putty&type=1)  /ˈpʌti/ | [🔊](https://dict.youdao.com/dictvoice?audio=putty&type=2)  /ˈpʌti/ |  ❌ /ˈpuːti/ |
 | Qt | [🔊](https://dict.youdao.com/dictvoice?audio=cute&type=1)  /kjuːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=cute&type=2)  /kjuːt/ |  |
@@ -106,6 +109,7 @@
 | SQL | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ |  |
 | sudo | /'suːduː/ | /'suːduː/ |  |
 | suite | [🔊](https://dict.youdao.com/dictvoice?audio=suite&type=1)  /swiːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=suite&type=2)  /swiːt/ |  ❌ /sjuːt/ |
+| telemetry | [🔊](https://dict.youdao.com/dictvoice?audio=telemetry&type=1) /təˈlemətri/ | [🔊](https://dict.youdao.com/dictvoice?audio=telemetry&type=2) /təˈlemətri/ | ❌ /ˈtelɪmətri/ |
 | thymeleaf | [🔊](https://dict.youdao.com/dictvoice?audio=thymeleaf&type=1)  /ˈtaɪmˌlɪːf/ | [🔊](https://dict.youdao.com/dictvoice?audio=thymeleaf&type=2)  /ˈtaɪmˌlɪːf/ |  ❌ /θiːmɪlɪːf/ |
 | tuple | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=1) /tjʊpəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=2) /tuːpəl/ |  |
 | typical | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=1)  /'tɪpɪkl/ | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=2)  /ˈtɪpɪkl/ |  ❌ /'taɪpɪkəl/ |
