@@ -128,7 +128,8 @@
 
 ### 说明
 1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
-1. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
+2. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
+3. `README.md` 页面已经实现，无跳转听正确的读音。请手动加载chromium扩展 [ chromium extension ](tools/chromium_extension/README.md)
 
 ### 参考资料
 1. https://www.zhihu.com/question/19739907
