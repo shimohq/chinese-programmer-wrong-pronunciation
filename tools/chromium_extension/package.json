@@ -1,0 +1,14 @@
+{
+  "name": "chinese-programmer-wrong-pronunciation-chromium-extension",
+  "version": "1.0.0",
+  "description": "README.md 页面无跳转 即可听正确读音",
+  "main": "index.js",
+  "scripts": {
+    "format-code": "npx prettier --write . && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
