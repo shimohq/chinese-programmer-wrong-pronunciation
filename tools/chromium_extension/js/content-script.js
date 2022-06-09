@@ -12,7 +12,6 @@
         // console.log(event.target.nodeName);
         event.preventDefault();
         event.stopPropagation();
-
         let audio_url = null;
         if (event.target.nodeName === "TD") {
           let aTag = event.target.querySelector("a");
@@ -25,8 +24,15 @@
           audio_url = aTag.getAttribute("href");
         }
         if (audio_url) {
-          // console.log("audio_url:", audio_url);
-          audio_player.setAttribute("src", audio_url);
+          let desURL = new URL(audio_url);
+          console.log(desURL.protocol);
+          if (desURL.protocol === "http:") {
+            //skip http
+            location.href = audio_url;
+          } else {
+            console.log("audio_url:", audio_url);
+            audio_player.setAttribute("src", audio_url);
+          }
         }
       });
   }
