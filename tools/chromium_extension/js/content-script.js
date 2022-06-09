@@ -9,7 +9,7 @@
       .addEventListener("click", (event) => {
         // console.log(event)
         // console.log(event.target.nodeType)
-        console.log(event.target.nodeName);
+        // console.log(event.target.nodeName);
         event.preventDefault();
         event.stopPropagation();
 
@@ -25,7 +25,7 @@
           audio_url = aTag.getAttribute("href");
         }
         if (audio_url) {
-          console.log("audio_url:", audio_url);
+          // console.log("audio_url:", audio_url);
           audio_player.setAttribute("src", audio_url);
         }
       });
