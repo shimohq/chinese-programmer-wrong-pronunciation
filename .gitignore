@@ -1,0 +1,4 @@
+/tools/chromium_extension/_metadata
+/tools/chromium_extension/node_modules
+/tools/chromium_extension/package-lock.json
+/.idea

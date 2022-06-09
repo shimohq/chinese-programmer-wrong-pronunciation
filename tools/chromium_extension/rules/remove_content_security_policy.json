@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "priority": 99,
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        { "header": "content-security-policy", "operation": "remove" },
+        {
+          "header": "content-security-policy-report-only",
+          "operation": "remove"
+        },
+        { "header": "expect-ct", "operation": "remove" },
+        { "header": "report-to", "operation": "remove" },
+        { "header": "x-content-security-policy", "operation": "remove" },
+        { "header": "x-webkit-csp", "operation": "remove" },
+        { "header": "x-xss-protection", "operation": "remove" },
+        {
+          "header": "x-permitted-cross-domain-policies",
+          "operation": "remove"
+        },
+        { "header": "x-content-type-options", "operation": "remove" },
+        { "header": "x-frame-options", "operation": "remove" },
+        { "header": "permissions-policy", "operation": "remove" },
+        { "header": "timing-allow-origin", "operation": "remove" },
+        { "header": "cross-origin-embedder-policy", "operation": "remove" },
+        { "header": "cross-origin-opener-policy", "operation": "remove" },
+        {
+          "header": "cross-origin-opener-policy-report-only",
+          "operation": "remove"
+        },
+        {
+          "header": "cross-origin-embedder-policy-report-only",
+          "operation": "remove"
+        }
+      ]
+    },
+    "condition": {
+      "urlFilter": "*",
+      "requestDomains": ["github.com", "githubusercontent.com"],
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame",
+        "stylesheet",
+        "script",
+        "image",
+        "font",
+        "object",
+        "xmlhttprequest",
+        "ping",
+        "csp_report",
+        "media",
+        "websocket",
+        "webtransport",
+        "webbundle",
+        "other"
+      ]
+    }
+  }
+]
