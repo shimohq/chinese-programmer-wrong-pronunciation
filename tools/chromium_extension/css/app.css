@@ -1,0 +1,10 @@
+tr:hover {
+  border: 8px solid #ddd !important;
+  border-radius: 1rem !important;
+  box-shadow: 5px 5px 15px #daf5fe !important;
+
+  color: #fff !important;
+  background-color: #3ec487 !important;
+  font-weight: 200;
+  font-size: 1.1rem;
+}

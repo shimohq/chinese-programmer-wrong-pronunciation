@@ -2,7 +2,7 @@
   "name": "chinese-programmer-wrong-pronunciation-chromium-extension",
   "version": "0.1.0",
   "manifest_version": 3,
-  "description": "README.md 页面无跳转 即可听正确读音",
+  "description": "页面无跳转 听正确读音",
   "content_scripts": [
     {
       "matches": ["*://*/shimohq/chinese-programmer-wrong-pronunciation/*"],
@@ -14,7 +14,15 @@
     "declarativeNetRequest",
     "declarativeNetRequestWithHostAccess"
   ],
-  "host_permissions": ["*://github.com/*", "*://localhost:*/*"],
+  "host_permissions": ["*://github.com/*", "http://*/*", "https://*/*"],
+  "web_accessible_resources": [
+    {
+      "resources": ["*.js", "*.css", "*.html"],
+      "matches": ["*://*/*"],
+      "extension_ids": [],
+      "use_dynamic_url": true
+    }
+  ],
   "declarative_net_request": {
     "rule_resources": [
       {

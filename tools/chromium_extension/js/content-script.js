@@ -2,6 +2,12 @@
   let URLObj = new URL(location.href);
   console.log(URLObj);
   if (document.querySelector("#readme table tbody")) {
+    console.log(chrome.runtime.getURL("css/app.css"));
+    let css = document.createElement("link");
+    css.setAttribute("rel", "stylesheet");
+    css.setAttribute("type", "text/css");
+    css.setAttribute("href", chrome.runtime.getURL("css/app.css"));
+    document.head.appendChild(css);
     let audio_player = new Audio();
     audio_player.setAttribute("autoplay", "true");
     document
