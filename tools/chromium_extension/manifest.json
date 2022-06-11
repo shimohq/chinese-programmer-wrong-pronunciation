@@ -17,7 +17,7 @@
     "declarativeNetRequest",
     "declarativeNetRequestWithHostAccess"
   ],
-  "host_permissions": ["*://github.com/*", "http://*/*", "https://*/*"],
+  "host_permissions": ["*://github.com/*"],
   "web_accessible_resources": [
     {
       "resources": ["*.js", "*.css", "*.html"],
