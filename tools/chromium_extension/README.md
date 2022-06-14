@@ -13,3 +13,4 @@
 
 1. [content_scripts](https:////developer.chrome.com/docs/extensions/mv3/content_scripts/)
 2. [Declare permissions](https:////developer.chrome.com/docs/extensions/mv3/declare_permissions/)
+3. [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN.git)
