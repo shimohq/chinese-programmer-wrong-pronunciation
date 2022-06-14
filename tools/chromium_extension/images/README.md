@@ -1,7 +1,9 @@
 # 新增功能截图
 
 ## 嵌入搜索引擎 有道搜索
-![嵌入搜索引擎 有道搜索](https://github.com/jingjingxyk/chinese-programmer-wrong-pronunciation/tools/chromium_extension/images/截图 2022-06-14-22-11.png)
+
+![](https://github.com/jingjingxyk/chinese-programmer-wrong-pronunciation/tools/chromium_extension/images/截图 2022-06-14-22-11.png)
 
 ## 嵌入搜索引擎 谷歌搜索
-![嵌入搜索引擎 谷歌搜索](https://github.com/jingjingxyk/chinese-programmer-wrong-pronunciation/tools/chromium_extension/images/截图 2022-06-14-22-10.png)
+
+![](https://github.com/jingjingxyk/chinese-programmer-wrong-pronunciation/tools/chromium_extension/images/截图 2022-06-14-22-10.png)
