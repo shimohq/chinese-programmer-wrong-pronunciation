@@ -21,6 +21,7 @@
         },
         { "header": "x-content-type-options", "operation": "remove" },
         { "header": "x-frame-options", "operation": "remove" },
+        { "header": "X-Frame-Options", "operation": "remove" },
         { "header": "permissions-policy", "operation": "remove" },
         { "header": "timing-allow-origin", "operation": "remove" },
         { "header": "cross-origin-embedder-policy", "operation": "remove" },
@@ -37,7 +38,7 @@
     },
     "condition": {
       "urlFilter": "*",
-      "requestDomains": ["github.com", "githubusercontent.com"],
+      "requestDomains": ["github.com", "githubusercontent.com","www.google.com"],
       "resourceTypes": [
         "main_frame",
         "sub_frame",
