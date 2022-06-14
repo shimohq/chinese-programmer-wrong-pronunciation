@@ -9,8 +9,10 @@
 > 5. 这就安装好了，去掉 Developer Mode 勾选。
 > 6. 打开[`https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git`](https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git)点击单词，即可听正确的单词读音
 
+
 ## 扩展开发参考
 
 1. [content_scripts](https:////developer.chrome.com/docs/extensions/mv3/content_scripts/)
-2. [Declare permissions](https:////developer.chrome.com/docs/extensions/mv3/declare_permissions/)
-3. [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN.git)
+1. [Declare permissions](https:////developer.chrome.com/docs/extensions/mv3/declare_permissions/)
+1. [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN.git)
+
