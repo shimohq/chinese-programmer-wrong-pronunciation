@@ -38,7 +38,11 @@
     },
     "condition": {
       "urlFilter": "*",
-      "requestDomains": ["github.com", "githubusercontent.com","www.google.com"],
+      "requestDomains": [
+        "github.com",
+        "githubusercontent.com",
+        "www.google.com"
+      ],
       "resourceTypes": [
         "main_frame",
         "sub_frame",
