@@ -5,7 +5,7 @@ import * as searchEngine from "./search-engine.js";
 let goToSearchPronounce = (word) => {
   let search_engine_name = "gotToGoogleSearch";
   // search_engine_name='gotToYouDaoSearch'
-  search_engine_name = "goToBingDictSearch";
+  // search_engine_name = "goToBingDictSearch";
   search_engine_name = "gotToYouDaoSearch";
   let tab = "current_tab";
 
