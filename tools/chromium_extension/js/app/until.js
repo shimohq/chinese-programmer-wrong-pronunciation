@@ -64,7 +64,7 @@ function getParameterValue(name) {
   return "";
 }
 
-function createJsonFile(content, filename) {
+function createJSONFile(content, filename) {
   let blob = new Blob([JSON.stringify(content)], { type: "application/json" });
   let url = window.URL.createObjectURL(blob);
   let a = document.createElement("a");
@@ -100,4 +100,5 @@ export {
   getParameterValue,
   sleep,
   getMediaDevices,
+  createJsonFile,
 };
