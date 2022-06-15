@@ -9,7 +9,10 @@ let gotToYouDaoSearch = (word) => {
 };
 
 let goToBingDictSearch = (word) => {
-  return `https://cn.bing.com/dict/search?q=${word}`;
+  return `https://cn.bing.com/dict/${word}`;
+};
+let goToBingSearch = (word) => {
+  return `https://cn.bing.com/search?q=how%20to%20pronounce%20${word}`;
 };
 let goToBaiduDictSearch = (word) => {
   return ` https://dict.baidu.com/s?wd=${word}`;
@@ -31,5 +34,6 @@ export {
   gotToYouDaoSearch,
   gotToGoogleSearch,
   goToBingDictSearch,
+  goToBingSearch,
   goToBaiduDictSearch,
 };
