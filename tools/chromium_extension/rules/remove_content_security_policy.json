@@ -41,7 +41,9 @@
       "requestDomains": [
         "github.com",
         "githubusercontent.com",
-        "www.google.com"
+        "www.google.com",
+        "cn.bing.com",
+        "www.bing.com"
       ],
       "resourceTypes": [
         "main_frame",

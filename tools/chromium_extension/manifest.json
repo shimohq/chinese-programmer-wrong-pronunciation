@@ -17,7 +17,15 @@
     "declarativeNetRequest",
     "declarativeNetRequestWithHostAccess"
   ],
-  "host_permissions": ["*://github.com/*", "*://www.google.com/*"],
+  "host_permissions": [
+    "*://github.com/*",
+    "*://www.google.com/*",
+    "*://cn.bing.com/*",
+    "*://www.bing.com/*",
+    "*://dict.baidu.com/*",
+    "*://www.youdao.com/*",
+    "*://dict.youdao.com/*"
+  ],
   "web_accessible_resources": [
     {
       "resources": ["*.js", "*.css", "*.html"],

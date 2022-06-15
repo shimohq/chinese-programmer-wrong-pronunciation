@@ -14,3 +14,10 @@
 1. [content_scripts](https:////developer.chrome.com/docs/extensions/mv3/content_scripts/)
 1. [Declare permissions](https:////developer.chrome.com/docs/extensions/mv3/declare_permissions/)
 1. [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN.git)
+
+## note
+
+```text
+https://dict.youdao.com/dictvoice?audio=parameter&type=1
+
+```
