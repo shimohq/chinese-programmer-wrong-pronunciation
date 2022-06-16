@@ -100,5 +100,5 @@ export {
   getParameterValue,
   sleep,
   getMediaDevices,
-  createJsonFile,
+  createJSONFile,
 };

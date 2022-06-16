@@ -24,7 +24,8 @@
     "*://www.bing.com/*",
     "*://dict.baidu.com/*",
     "*://www.youdao.com/*",
-    "*://dict.youdao.com/*"
+    "*://dict.youdao.com/*",
+    "*://fanyi.baidu.com/*"
   ],
   "web_accessible_resources": [
     {

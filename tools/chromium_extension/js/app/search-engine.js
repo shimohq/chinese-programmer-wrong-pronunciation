@@ -15,7 +15,11 @@ let goToBingSearch = (word) => {
   return `https://cn.bing.com/search?q=how%20to%20pronounce%20${word}`;
 };
 let goToBaiduDictSearch = (word) => {
-  return ` https://dict.baidu.com/s?wd=${word}`;
+  return `https://dict.baidu.com/s?wd=${word}`;
+};
+
+let goToBaiduFanYiSearch = (word) => {
+  return `https://fanyi.baidu.com/#en/zh/${word}`;
 };
 
 let goToBaiDuHanYu = () => {
@@ -36,4 +40,5 @@ export {
   goToBingDictSearch,
   goToBingSearch,
   goToBaiduDictSearch,
+  goToBaiduFanYiSearch,
 };

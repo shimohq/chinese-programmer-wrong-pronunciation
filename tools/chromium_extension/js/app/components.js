@@ -43,6 +43,8 @@ let getIframe = () => {
       "id",
       "chinese-programmer-wrong-pronunciation-custom-iframe"
     );
+    iframe.setAttribute("security", "restricted");
+    //iframe.setAttribute('sandbox',"")
     aside.appendChild(iframe);
     custom_box.appendChild(aside);
     document.body.appendChild(custom_box);
