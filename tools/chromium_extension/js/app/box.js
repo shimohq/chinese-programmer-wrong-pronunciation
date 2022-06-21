@@ -9,7 +9,8 @@ let goToSearchPronounce = (word) => {
   // search_engine_name = "goToBingSearch";
   search_engine_name = "gotToYouDaoSearch";
   // search_engine_name = "goToBaiduFanYiSearch";
-  let tab = "current_tab";
+  //let tab = "current_tab";
+  let tab = "new_tab"; //修改默认为新标签页打开
 
   let opener = components.getSearchEngineOpener();
   if (opener && opener.expired_date) {
