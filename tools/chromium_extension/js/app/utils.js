@@ -73,7 +73,6 @@ function createJSONFile(content, filename) {
   a.download = filename;
   a.click();
   setTimeout(function () {
-    document.body.removeChild(a);
     window.URL.revokeObjectURL(url);
   }, 3000);
 }

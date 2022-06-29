@@ -1,4 +1,4 @@
-import * as until from "./until.js";
+import * as utils from "./utils.js";
 import * as components from "./components.js";
 import * as searchEngine from "./search-engine.js";
 
@@ -38,5 +38,5 @@ let goToSearchPronounce = (word) => {
   }
 };
 
-let box = { ...until, ...components, ...searchEngine, goToSearchPronounce };
+let box = { ...utils, ...components, ...searchEngine, goToSearchPronounce };
 export default box;

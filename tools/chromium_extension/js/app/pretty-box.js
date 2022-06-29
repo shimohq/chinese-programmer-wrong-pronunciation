@@ -1,4 +1,4 @@
-import { addClass, removeClass } from "./until.js";
+import { addClass, removeClass } from "./utils.js";
 
 let prettyBox = (box) => {
   // 参考 https://blog.csdn.net/weixin_41910848/article/details/82218243
