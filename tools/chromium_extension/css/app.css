@@ -6,7 +6,26 @@ tr:hover {
   color: #fff !important;
   background-color: #3ec487 !important;
   /*
-  font-weight: 200;
-  font-size: 1.1rem;
-  */
+    font-weight: 200;
+    font-size: 1.1rem;
+    */
+}
+
+#chinese-programmer-wrong-pronunciation-custom-iframe-box {
+  border: 8px solid #ddd !important;
+  border-radius: 8px !important;
+  box-shadow: 5px 5px 15px #daf5fe !important;
+  z-index: 999;
+  position: fixed !important;
+}
+.chinese-programmer-wrong-pronunciation-custom-iframe-box {
+  right: 0 !important;
+  top: 64px !important;
+}
+
+#chinese-programmer-wrong-pronunciation-custom-iframe {
+  width: 100%;
+  height: 100%;
+  min-width: 700px !important;
+  min-height: 600px !important;
 }

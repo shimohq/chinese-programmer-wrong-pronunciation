@@ -9,7 +9,7 @@
         "*://*/shimohq/chinese-programmer-wrong-pronunciation/*",
         "*://*/jingjingxyk/chinese-programmer-wrong-pronunciation/*"
       ],
-      "run_at": "document_end",
+      "run_at": "document_idle",
       "js": ["js/content-script.js"]
     }
   ],
@@ -17,7 +17,16 @@
     "declarativeNetRequest",
     "declarativeNetRequestWithHostAccess"
   ],
-  "host_permissions": ["*://github.com/*"],
+  "host_permissions": [
+    "*://github.com/*",
+    "*://www.google.com/*",
+    "*://cn.bing.com/*",
+    "*://www.bing.com/*",
+    "*://dict.baidu.com/*",
+    "*://www.youdao.com/*",
+    "*://dict.youdao.com/*",
+    "*://fanyi.baidu.com/*"
+  ],
   "web_accessible_resources": [
     {
       "resources": ["*.js", "*.css", "*.html"],
