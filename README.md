@@ -1,5 +1,5 @@
-### Words Commonly Mispronounced by Chinese Programmers
-### 中国程序员容易发音错误的单词(点击🔊收听正确读音)
+### Words Commonly Mispronounced by Chinese IT Developers, Professionals and Researchers
+### IT行业开发者，专业人士和和科研人员容易发音错误的英语单词(点击🔊收听正确读音)
 
 | 单词 | 正确发音（英音）| 正确发音（美音）| 错误发音 |
 | --- | ----------- | ----------- | ---------- |
@@ -135,7 +135,7 @@
 1. [chromium系浏览器扩展 无页面跳转，实时检索英语发音](https://github.com/jingjingxyk/chinese-programmer-wrong-pronunciation-chromium-extension.git)
 
 ### 说明
-1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
+1. 本着简单的原则, 又为了避免选择困难症, '正确音标'采用了最接近有道词典音频的英式DJ音标, 不代表其唯一性
 1. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
 1. 无页面跳转收听正确读音请安装我们的 [chromium 扩展](tools/chromium_extension/README.md)
 1. 扩展新增功能：页面嵌入搜索引擎，无页面跳转，实时检索英语发音[chromium 扩展新增功能截图](tools/chromium_extension/images/README.md)
