@@ -15,10 +15,9 @@ let goToBingSearch = (word) => {
   return `https://cn.bing.com/search?q=how%20to%20pronounce%20${word}`;
 };
 
-
 export {
   goToYouDaoSearch,
   goToGoogleSearch,
   goToBingDictSearch,
-  goToBingSearch
+  goToBingSearch,
 };
