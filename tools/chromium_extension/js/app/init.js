@@ -60,6 +60,7 @@ let init = () => {
           }
         }
       });
+
     let table = document.querySelector("#readme table");
     let parent = table.parentNode;
     let note = document.createElement("span");

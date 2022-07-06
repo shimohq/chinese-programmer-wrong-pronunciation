@@ -102,6 +102,7 @@ let getIframe = () => {
     iframe.setAttribute("security", "restricted");
     box.appendChild(iframe);
   }
+
   return iframe;
 };
 
@@ -229,6 +230,20 @@ let setupConfig = (search_engine_name, tab) => {
   }
 
   sessionStorage.setItem(opener_key, JSON.stringify(opener));
+};
+let showResetCurrentSearchEngineTab = () => {
+  let div = document.createElement("div");
+  div.setAttribute(
+    "id",
+    "#chinese-programmer-wrong-pronunciation-custom-tools-bar"
+  );
+  div.innerHTML = `
+        <span>关闭搜索页面</span>🥳🥳🥳🥳🥳🥳<span>更换搜索引擎</span>
+    `;
+
+  document
+    .querySelector("#chinese-programmer-wrong-pronunciation-custom-iframe-box")
+    .appendChild(div);
 };
 
 let cleanOpener = () => {
