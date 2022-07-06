@@ -233,7 +233,7 @@ let setupConfig = (search_engine_name, tab) => {
 
 let cleanOpener = () => {
   sessionStorage.removeItem(opener_key);
-  console.log("重置搜索结果打开方式配置---ok");
+  console.log("恢复扩展默认配置---ok");
 };
 
 export {

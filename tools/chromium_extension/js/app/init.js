@@ -63,7 +63,7 @@ let init = () => {
     let table = document.querySelector("#readme table");
     let parent = table.parentNode;
     let note = document.createElement("span");
-    note.innerText = `⚪重置扩展提供的搜索结果打开方式⚪`;
+    note.innerText = `⚪恢复扩展默认配置⚪`;
     note.setAttribute(
       "class",
       "chinese-programmer-wrong-pronunciation-custom-note-reset"
