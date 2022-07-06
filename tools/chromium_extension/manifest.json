@@ -22,10 +22,8 @@
     "*://www.google.com/*",
     "*://cn.bing.com/*",
     "*://www.bing.com/*",
-    "*://dict.baidu.com/*",
     "*://www.youdao.com/*",
-    "*://dict.youdao.com/*",
-    "*://fanyi.baidu.com/*"
+    "*://dict.youdao.com/*"
   ],
   "web_accessible_resources": [
     {

@@ -3,14 +3,13 @@ import * as components from "./components.js";
 import * as searchEngine from "./search-engine.js";
 
 let goToSearchPronounce = (word) => {
-  let search_engine_name = "gotToGoogleSearch";
-  // search_engine_name='gotToYouDaoSearch'
+  let search_engine_name = "goToGoogleSearch";
+  search_engine_name = "goToYouDaoSearch";
   // search_engine_name = "goToBingDictSearch";
   // search_engine_name = "goToBingSearch";
-  search_engine_name = "gotToYouDaoSearch";
+  //search_engine_name = "gotToYouDaoSearch";
   // search_engine_name = "goToBaiduFanYiSearch";
-  //let tab = "current_tab";
-  let tab = "new_tab"; //修改默认为新标签页打开
+  let tab = "current_tab";
 
   let opener = components.getSearchEngineOpener();
   if (opener && opener.expired_date) {
