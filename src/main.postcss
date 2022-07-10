@@ -1,0 +1,37 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/**
+ * Font Noto Serif
+ * @fixme 有些音标的字形在下载的 Noto-Serif 和谷歌字体 Noto-Serif 页面中是缺失的，
+ *        但它在谷歌字体的搜索页面中音标能正常显示，
+ *        已经在谷歌字体页面中提交了反馈，不知道会不会有回复
+ * @see https://fonts.google.com/noto/specimen/Noto+Serif
+ */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body {
+  overflow: hidden scroll;
+}
+
+html, body, #app {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Serif', serif;
+  scroll-behavior: smooth;
+  scroll-padding-top: 40px;
+}
+
+.schema-dark, .schema-dark .modal {
+  background: #222;
+}
+
+.icon-btn {
+  @apply opacity-50 transition duration-200 ease-in-out cursor-pointer inline-block select-none hover:opacity-100;
+  &.disabled {
+    @apply hover:opacity-50 cursor-not-allowed;
+  }
+}

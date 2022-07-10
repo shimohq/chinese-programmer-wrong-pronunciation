@@ -2,3 +2,7 @@
 /tools/chromium_extension/node_modules
 /tools/chromium_extension/package-lock.json
 /.idea
+node_modules
+.DS_Store
+*.local
+source

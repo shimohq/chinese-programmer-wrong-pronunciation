@@ -1,0 +1,40 @@
+{
+  "name": "chinese-programmer-wrong-pronunciation",
+  "version": "1.0.0",
+  "description": "chinese programmer wrong pronunciation",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "case-police": "npx case-police README.md scripts/data.json --fix",
+    "build": "node ./scripts/build.js",
+    "test": "http-server ./docs -c0",
+    "preversion": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git"
+  },
+  "keywords": [
+    "pronunciation",
+    "chinese",
+    "english-learning"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation/issues"
+  },
+  "homepage": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+  "devDependencies": {
+    "@purge-icons/generated": "^0.8.1",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "postcss-nesting": "^10.1.2",
+    "tailwind-percentage-property": "github:Lionad-Morotar/tailwind-percentage-property",
+    "tailwindcss": "^3.0.5",
+    "vite": "^2.7.2",
+    "vue": "^3.2.25",
+    "vue-router": "4.0.12"
+  }
+}

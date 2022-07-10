@@ -1,0 +1,674 @@
+[
+  {
+    "name": "access",
+    "phonetic_uk": "'ækses",
+    "phonetic_us": "ˈækses",
+    "phonetic_wrong": "ək'ses"
+  },
+  {
+    "name": "admin",
+    "phonetic_uk": "'ædmɪn",
+    "phonetic_us": "ˈædmɪn",
+    "phonetic_wrong": "ɜ:d'mɪn"
+  },
+  {
+    "name": "Adobe",
+    "phonetic_uk": "ə'dəʊbi",
+    "phonetic_us": "ə'dəʊbi",
+    "phonetic_wrong": "əˈdub"
+  },
+  {
+    "name": "adversarial",
+    "phonetic_uk": "ˌædvəˈseəriəl",
+    "phonetic_us": "ˌædvərˈseriəl",
+    "phonetic_wrong": "ədˈvɜːrsəriəl"
+  },
+  {
+    "name": "agile",
+    "phonetic_uk": "'ædʒaɪl",
+    "phonetic_us": "ˈædʒl",
+    "phonetic_wrong": "ə'dʒaɪl"
+  },
+  {
+    "name": "AJAX",
+    "phonetic_uk": "'eidʒæks",
+    "phonetic_us": "'eidʒæks",
+    "phonetic_wrong": "ə'dʒʌks"
+  },
+  {
+    "name": "alias",
+    "phonetic_uk": "ˈeɪliəs",
+    "phonetic_us": "ˈeɪliəs",
+    "phonetic_wrong": "ə'lais"
+  },
+  {
+    "name": "amazon",
+    "phonetic_uk": "'æməzən",
+    "phonetic_us": "ˈæməzɑːn",
+    "phonetic_wrong": "'əmeizən"
+  },
+  {
+    "name": "analogy",
+    "phonetic_uk": "əˈnælədʒi",
+    "phonetic_us": "əˈnælədʒi",
+    "phonetic_wrong": "ænə'lɒdʒi"
+  },
+  {
+    "name": "Angular",
+    "phonetic_uk": "'æŋgjʊlə",
+    "phonetic_us": "ˈæŋɡjələr",
+    "phonetic_wrong": "'æŋɡələ"
+  },
+  {
+    "name": "Apache",
+    "phonetic_uk": "ə'pætʃɪ",
+    "phonetic_us": "əˈpætʃi",
+    "phonetic_wrong": "ʌpʌtʃ"
+  },
+  {
+    "name": "app",
+    "phonetic_uk": "æp",
+    "phonetic_us": "æp",
+    "phonetic_wrong": "eipi'pi"
+  },
+  {
+    "name": "archive",
+    "phonetic_uk": "'ɑːkaɪv",
+    "phonetic_us": "'ɑːkaɪv",
+    "phonetic_wrong": "'ətʃɪv"
+  },
+  {
+    "name": "array",
+    "phonetic_uk": "ə'rei",
+    "phonetic_us": "əˈreɪ",
+    "phonetic_wrong": "æ'rei"
+  },
+  {
+    "name": "ASCII",
+    "phonetic_uk": "'æski",
+    "phonetic_us": "ˈæski",
+    "phonetic_wrong": "ɑːsk"
+  },
+  {
+    "name": "aspect",
+    "phonetic_uk": "'æspekt",
+    "phonetic_us": "ˈæspekt",
+    "phonetic_wrong": "ə'spekt"
+  },
+  {
+    "name": "async",
+    "phonetic_uk": "əˈsɪŋk",
+    "phonetic_us": "æˈsɪŋk",
+    "phonetic_wrong": "'æsɪŋk"
+  },
+  {
+    "name": "avatar",
+    "phonetic_uk": "'ævətɑː",
+    "phonetic_us": "ˈævətɑːr",
+    "phonetic_wrong": "ə'vʌtɑ"
+  },
+  {
+    "name": "Azure",
+    "phonetic_uk": "'æʒə",
+    "phonetic_us": "ˈæʒər",
+    "phonetic_wrong": "ˈæzʊʒə"
+  },
+  {
+    "name": "bind",
+    "phonetic_uk": "baɪnd",
+    "phonetic_us": "baɪnd",
+    "phonetic_wrong": "bɪnd"
+  },
+  {
+    "name": "cache",
+    "phonetic_uk": "kæʃ",
+    "phonetic_us": "kæʃ",
+    "phonetic_wrong": "kætʃ"
+  },
+  {
+    "name": "canal",
+    "phonetic_uk": "kəˈnæl",
+    "phonetic_us": "kəˈnæl",
+    "phonetic_wrong": "ˈkænl"
+  },
+  {
+    "name": "Chrome",
+    "phonetic_uk": "krəʊm",
+    "phonetic_us": "kroʊm",
+    "phonetic_wrong": "tʃɔːm"
+  },
+  {
+    "name": "clang",
+    "phonetic_uk": "klæŋ",
+    "phonetic_us": "klæŋ",
+    "phonetic_wrong": "sɪlæŋ"
+  },
+  {
+    "name": "daemon",
+    "phonetic_uk": "'diːmən",
+    "phonetic_us": "ˈdiːmən",
+    "phonetic_wrong": "dæmən"
+  },
+  {
+    "name": "debt",
+    "phonetic_uk": "det",
+    "phonetic_us": "det",
+    "phonetic_wrong": "de'bit"
+  },
+  {
+    "name": "deny",
+    "phonetic_uk": "dɪ'naɪ",
+    "phonetic_us": "dɪˈnaɪ",
+    "phonetic_wrong": "'dæni"
+  },
+  {
+    "name": "deprecate",
+    "phonetic_uk": "ˈdeprəkeɪt",
+    "phonetic_us": "ˈdeprəkeɪt",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "deque",
+    "phonetic_uk": "'dek",
+    "phonetic_us": "dɛk",
+    "phonetic_wrong": "di'kju"
+  },
+  {
+    "name": "Django",
+    "phonetic_uk": "ˈdʒæŋɡoʊ",
+    "phonetic_us": "ˈdʒæŋɡoʊ",
+    "phonetic_wrong": "diˈdʒæŋɡoʊ"
+  },
+  {
+    "name": "doc",
+    "phonetic_uk": "dɒk",
+    "phonetic_us": "dɒk",
+    "phonetic_wrong": "daʊk"
+  },
+  {
+    "name": "dotnet",
+    "phonetic_uk": "dɒtnet",
+    "phonetic_us": "dɑːtnet",
+    "phonetic_wrong": "daʊtnet"
+  },
+  {
+    "name": "edition",
+    "phonetic_uk": "ɪˈdɪʃ(ə)n",
+    "phonetic_us": "ɪˈdɪʃn",
+    "phonetic_wrong": "eˈdɪʃn"
+  },
+  {
+    "name": "ephemeral",
+    "phonetic_uk": "ɪˈfemərəl",
+    "phonetic_us": "ɪˈfemərəl",
+    "phonetic_wrong": "daʊtnet"
+  },
+  {
+    "name": "epoch",
+    "phonetic_uk": "ˈiːpɒk",
+    "phonetic_us": "ˈepək",
+    "phonetic_wrong": "'ɛpətʃ"
+  },
+  {
+    "name": "event",
+    "phonetic_uk": "ɪ'vent",
+    "phonetic_us": "ɪˈvent",
+    "phonetic_wrong": "'ɪvənt"
+  },
+  {
+    "name": "execute",
+    "phonetic_uk": "ˈeksɪkjuːt",
+    "phonetic_us": "ˈeksɪkjuːt",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "executor",
+    "phonetic_uk": "ɪɡˈzekjətə(r)",
+    "phonetic_us": "ɪɡˈzekjətər",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "exit",
+    "phonetic_uk": "ˈeksɪt",
+    "phonetic_us": "ˈeksɪt",
+    "phonetic_wrong": "ig'zit"
+  },
+  {
+    "name": "facade",
+    "phonetic_uk": "fə'sɑːd",
+    "phonetic_us": "fəˈsɑːd",
+    "phonetic_wrong": "'feikeid"
+  },
+  {
+    "name": "fedora",
+    "phonetic_uk": "fɪ'dɔːrə",
+    "phonetic_us": "fɪˈdɔːrə",
+    "phonetic_wrong": "'fedərə"
+  },
+  {
+    "name": "format",
+    "phonetic_uk": "'fɔːmæt",
+    "phonetic_us": "ˈfɔːrmæt",
+    "phonetic_wrong": "fɔ'mæt"
+  },
+  {
+    "name": "gauge",
+    "phonetic_uk": "ɡeɪdʒ",
+    "phonetic_us": "ɡeɪdʒ",
+    "phonetic_wrong": "ɡɑudʒ"
+  },
+  {
+    "name": "Git",
+    "phonetic_uk": "ɡɪt",
+    "phonetic_us": "ɡɪt",
+    "phonetic_wrong": "dʒɪt"
+  },
+  {
+    "name": "GNU",
+    "phonetic_uk": "gnu:",
+    "phonetic_us": "gnuː",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "Grafana",
+    "phonetic_uk": "grəˈfɑːnˌɑː",
+    "phonetic_us": "grəˈfɑːnˌɑː",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "GraphQL",
+    "phonetic_uk": "græf kju ɛl",
+    "phonetic_us": "græf kju ɛl",
+    "phonetic_wrong": "dʒɪgræf kju ɛl"
+  },
+  {
+    "name": "GUI",
+    "phonetic_uk": "ˈɡu:i",
+    "phonetic_us": "ˈɡu:i",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "Haskell",
+    "phonetic_uk": "ˈhæskəl",
+    "phonetic_us": "ˈhæskəl",
+    "phonetic_wrong": "hæˈskəl"
+  },
+  {
+    "name": "height",
+    "phonetic_uk": "haɪt",
+    "phonetic_us": "haɪt",
+    "phonetic_wrong": "heɪt"
+  },
+  {
+    "name": "hidden",
+    "phonetic_uk": "'hɪdn",
+    "phonetic_us": "ˈhɪdn",
+    "phonetic_wrong": "'haɪdn"
+  },
+  {
+    "name": "image",
+    "phonetic_uk": "'ɪmɪdʒ",
+    "phonetic_us": "ˈɪmɪdʒ",
+    "phonetic_wrong": "ɪ'meɪdʒ"
+  },
+  {
+    "name": "implement",
+    "phonetic_uk": "'ɪmplɪm(ə)nt",
+    "phonetic_us": "ˈɪmplɪmənt",
+    "phonetic_wrong": "ɪm'plem(ə)nt"
+  },
+  {
+    "name": "integer",
+    "phonetic_uk": "'ɪntɪdʒə",
+    "phonetic_us": "ˈɪntɪdʒər",
+    "phonetic_wrong": "ˈɪntaɪgə"
+  },
+  {
+    "name": "issue",
+    "phonetic_uk": "'ɪʃuː",
+    "phonetic_us": "ˈɪʃuː",
+    "phonetic_wrong": "ˈaɪʃuː"
+  },
+  {
+    "name": "Java",
+    "phonetic_uk": "'dʒɑːvə",
+    "phonetic_us": "ˈdʒɑːvə",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "jpg",
+    "phonetic_uk": "'dʒeɪpeɡ",
+    "phonetic_us": "'dʒeɪpeɡ",
+    "phonetic_wrong": "ˈdʒeɪˈpi:ˈdʒiː"
+  },
+  {
+    "name": "key",
+    "phonetic_uk": "kiː",
+    "phonetic_us": "kiː",
+    "phonetic_wrong": "kei"
+  },
+  {
+    "name": "Kubernetes",
+    "phonetic_uk": "kubз'netɪs",
+    "phonetic_us": "kuːbə˞'netiz",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "lambda",
+    "phonetic_uk": "ˈlæmdə",
+    "phonetic_us": "ˈlæmdə",
+    "phonetic_wrong": "ˈlɒŋmdɑ"
+  },
+  {
+    "name": "Ldap",
+    "phonetic_uk": "el'dæp",
+    "phonetic_us": "el'dæp",
+    "phonetic_wrong": "el'daːp"
+  },
+  {
+    "name": "linear",
+    "phonetic_uk": "'lɪnɪə",
+    "phonetic_us": "ˈlɪniər",
+    "phonetic_wrong": "'laɪə"
+  },
+  {
+    "name": "LINQ",
+    "phonetic_uk": "lɪŋk",
+    "phonetic_us": "lɪŋk",
+    "phonetic_wrong": "lɪŋkju:"
+  },
+  {
+    "name": "Linux",
+    "phonetic_uk": "'lɪnəks",
+    "phonetic_us": "ˈlaɪnəks",
+    "phonetic_wrong": "ˈlɪnʌks"
+  },
+  {
+    "name": "locale",
+    "phonetic_uk": "ləʊ'kɑːl",
+    "phonetic_us": "loʊˈkæl",
+    "phonetic_wrong": "ˈloʊk(ə)l"
+  },
+  {
+    "name": "Lucene",
+    "phonetic_uk": "lu'siːn",
+    "phonetic_us": "lu'siːn",
+    "phonetic_wrong": "'lu:sən"
+  },
+  {
+    "name": "macro",
+    "phonetic_uk": "ˈmækrəʊ",
+    "phonetic_us": "ˈmækroʊ",
+    "phonetic_wrong": "ˈmakroʊ"
+  },
+  {
+    "name": "main",
+    "phonetic_uk": "meɪn",
+    "phonetic_us": "meɪn",
+    "phonetic_wrong": "mɪn"
+  },
+  {
+    "name": "margin",
+    "phonetic_uk": "'mɑːdʒɪn",
+    "phonetic_us": "ˈmɑːrdʒɪn",
+    "phonetic_wrong": "'mʌgɪn"
+  },
+  {
+    "name": "matrix",
+    "phonetic_uk": "ˈmeɪtrɪks",
+    "phonetic_us": "ˈmeɪtrɪks",
+    "phonetic_wrong": "ˈmɑ:trɪks"
+  },
+  {
+    "name": "maven",
+    "phonetic_uk": "'meɪvn",
+    "phonetic_us": "ˈmeɪvn",
+    "phonetic_wrong": "'maːvn"
+  },
+  {
+    "name": "max",
+    "phonetic_uk": "mæks",
+    "phonetic_us": "mæks",
+    "phonetic_wrong": "mɑ:ks"
+  },
+  {
+    "name": "Microsoft",
+    "phonetic_uk": "'maikrəusɔft",
+    "phonetic_us": "ˈmaɪkrəsɔːft",
+    "phonetic_wrong": "'mikrəusɔft"
+  },
+  {
+    "name": "miscellaneous",
+    "phonetic_uk": "ˌmɪsəˈleɪniəs",
+    "phonetic_us": "ˌmɪsəˈleɪniəs",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "module",
+    "phonetic_uk": "'mɒdjuːl",
+    "phonetic_us": "ˈmɑːdʒuːl",
+    "phonetic_wrong": "'məʊdl"
+  },
+  {
+    "name": "native",
+    "phonetic_uk": "ˈneɪtɪv",
+    "phonetic_us": "ˈneɪtɪv",
+    "phonetic_wrong": "ˈnætɪv"
+  },
+  {
+    "name": "null",
+    "phonetic_uk": "nʌl",
+    "phonetic_us": "nʌl",
+    "phonetic_wrong": "naʊ"
+  },
+  {
+    "name": "obsolete",
+    "phonetic_uk": "ˈɒbsəliːt",
+    "phonetic_us": "ˌɑːbsəˈliːt",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "parameter",
+    "phonetic_uk": "pə'ræmɪtə",
+    "phonetic_us": "pəˈræmɪtər",
+    "phonetic_wrong": "'pærəmɪtə"
+  },
+  {
+    "name": "phantom",
+    "phonetic_uk": "'fæntəm",
+    "phonetic_us": "ˈfæntəm",
+    "phonetic_wrong": "'pæntəm"
+  },
+  {
+    "name": "privilege",
+    "phonetic_uk": "'prɪvəlɪdʒ",
+    "phonetic_us": "ˈprɪvəlɪdʒ",
+    "phonetic_wrong": "'prɪvɪlɪdʒ"
+  },
+  {
+    "name": "probe",
+    "phonetic_uk": "prəʊb",
+    "phonetic_us": "proʊb",
+    "phonetic_wrong": "proʊbi"
+  },
+  {
+    "name": "Prometheus",
+    "phonetic_uk": "prə-ˈmē-thē-əs",
+    "phonetic_us": "pro'miθɪəs",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "putty",
+    "phonetic_uk": "ˈpʌti",
+    "phonetic_us": "ˈpʌti",
+    "phonetic_wrong": "ˈpuːti"
+  },
+  {
+    "name": "Qt",
+    "phonetic_uk": "kjuːt",
+    "phonetic_us": "kjuːt",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "query",
+    "phonetic_uk": "'kwɪəri",
+    "phonetic_us": "ˈkwɪri",
+    "phonetic_wrong": "'kwaɪri"
+  },
+  {
+    "name": "Realm",
+    "phonetic_uk": "relm",
+    "phonetic_us": "relm",
+    "phonetic_wrong": "riəlm"
+  },
+  {
+    "name": "reconcile",
+    "phonetic_uk": "ˈrekənsaɪl",
+    "phonetic_us": "ˈrekənsaɪl",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "Redux",
+    "phonetic_uk": "ri'dʌks",
+    "phonetic_us": "ri'dʌks",
+    "phonetic_wrong": "'ridju:ks"
+  },
+  {
+    "name": "resolved",
+    "phonetic_uk": "rɪ'zɒlvd",
+    "phonetic_us": "rɪˈzɑːlvd",
+    "phonetic_wrong": "rɪ'səʊvd"
+  },
+  {
+    "name": "resort",
+    "phonetic_uk": "rɪˈzɔ:t",
+    "phonetic_us": "rɪˈzɔːrt",
+    "phonetic_wrong": "rɪˈsɔ:t"
+  },
+  {
+    "name": "resume",
+    "phonetic_uk": "rɪ'zju:m",
+    "phonetic_us": "rɪˈzuːm",
+    "phonetic_wrong": "rɪ'sju:m"
+  },
+  {
+    "name": "retina",
+    "phonetic_uk": "'retɪnə",
+    "phonetic_us": "ˈretɪnə",
+    "phonetic_wrong": "ri'tina"
+  },
+  {
+    "name": "route",
+    "phonetic_uk": "ruːt",
+    "phonetic_us": "ruːt",
+    "phonetic_wrong": "rəʊt"
+  },
+  {
+    "name": "safari",
+    "phonetic_uk": "sə'fɑːrɪ",
+    "phonetic_us": "səˈfɑːri",
+    "phonetic_wrong": "sæfərɪ"
+  },
+  {
+    "name": "San Jose",
+    "phonetic_uk": "sænhəu'zei",
+    "phonetic_us": "sænhəu'zei",
+    "phonetic_wrong": "sæn'ju:s"
+  },
+  {
+    "name": "scala",
+    "phonetic_uk": "ˈskɑːlɑ",
+    "phonetic_us": "ˈskɑːlɑ",
+    "phonetic_wrong": "ˈskæːlɑ"
+  },
+  {
+    "name": "scheme",
+    "phonetic_uk": "skiːm",
+    "phonetic_us": "skiːm",
+    "phonetic_wrong": "s'kæmə"
+  },
+  {
+    "name": "segue",
+    "phonetic_uk": "'sɛɡwe",
+    "phonetic_us": "ˈseɡweɪ",
+    "phonetic_wrong": "se'dʒ"
+  },
+  {
+    "name": "suite",
+    "phonetic_uk": "swiːt",
+    "phonetic_us": "swiːt",
+    "phonetic_wrong": "sjuːt"
+  },
+  {
+    "name": "telemetry",
+    "phonetic_uk": "təˈlemətri",
+    "phonetic_us": "təˈlemətri",
+    "phonetic_wrong": "ˈtelɪmətri"
+  },
+  {
+    "name": "thymeleaf",
+    "phonetic_uk": "ˈtaɪmˌlɪːf",
+    "phonetic_us": "ˈtaɪmˌlɪːf",
+    "phonetic_wrong": "θiːmɪlɪːf"
+  },
+  {
+    "name": "tuple",
+    "phonetic_uk": "tjʊpəl",
+    "phonetic_us": "tuːpəl",
+    "phonetic_wrong": ""
+  },
+  {
+    "name": "typical",
+    "phonetic_uk": "'tɪpɪkl",
+    "phonetic_us": "ˈtɪpɪkl",
+    "phonetic_wrong": "'taɪpɪkəl"
+  },
+  {
+    "name": "Ubuntu",
+    "phonetic_uk": "ʊ'bʊntʊ",
+    "phonetic_us": "ʊ'bʊntʊ",
+    "phonetic_wrong": "juː'bʊntʊ"
+  },
+  {
+    "name": "Vagrant",
+    "phonetic_uk": "ˈveɪɡrənt",
+    "phonetic_us": "ˈveɪɡrənt",
+    "phonetic_wrong": "ˈvagɹent"
+  },
+  {
+    "name": "variable",
+    "phonetic_uk": "'veəriəbl",
+    "phonetic_us": "ˈveriəbl",
+    "phonetic_wrong": "və'raiəbl"
+  },
+  {
+    "name": "verbose",
+    "phonetic_uk": "vɜːˈbəʊs",
+    "phonetic_us": "vɜːrˈboʊs",
+    "phonetic_wrong": "'vɜːrboʊs"
+  },
+  {
+    "name": "Vite",
+    "phonetic_uk": "vit",
+    "phonetic_us": "vit",
+    "phonetic_wrong": "vaɪt"
+  },
+  {
+    "name": "vue",
+    "phonetic_uk": "v'ju:",
+    "phonetic_us": "v'ju:",
+    "phonetic_wrong": "v'ju:i"
+  },
+  {
+    "name": "width",
+    "phonetic_uk": "wɪdθ",
+    "phonetic_us": "wɪdθ",
+    "phonetic_wrong": "waɪdθ"
+  },
+  {
+    "name": "YouTube",
+    "phonetic_uk": "'juː'tjuːb",
+    "phonetic_us": "'juː'tjuːb",
+    "phonetic_wrong": "'juː'tʊbɪ"
+  }
+]
