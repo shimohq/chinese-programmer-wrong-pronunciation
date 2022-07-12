@@ -45,10 +45,8 @@
         "cn.bing.com",
         "www.bing.com",
         "fanyi.baidu.com",
-        "dict.baidu.com",
         "www.youdao.com",
-        "dict.youdao.com",
-        "fanyi.baidu.com"
+        "dict.youdao.com"
       ],
       "resourceTypes": [
         "main_frame",

@@ -4,7 +4,9 @@ let init = () => {
   let URLObj = new URL(location.href);
   console.log(URLObj);
   if (document.querySelector("#readme table tbody")) {
+    //载入自定义组件样式
     box.styleConfig();
+    //载入自定义组件
     box.customElement();
 
     let audio_player = new Audio();
@@ -58,6 +60,23 @@ let init = () => {
           }
         }
       });
+
+    let table = document.querySelector("#readme table");
+    let parent = table.parentNode;
+    let note = document.createElement("span");
+    note.innerText = `⚪恢复扩展默认配置⚪`;
+    note.setAttribute(
+      "class",
+      "chinese-programmer-wrong-pronunciation-custom-note-reset"
+    );
+
+    note.addEventListener("click", (event) => {
+      //重置配置
+      event.preventDefault();
+      event.stopPropagation();
+      box.cleanOpener();
+    });
+    parent.insertBefore(note, table);
   } else {
     console.log("no found README.md table");
   }

@@ -29,7 +29,7 @@ function getCookie(name) {
 
 // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie
 
-function setCookie(name, value, second, domain) {
+function setCookie(name, value, second, path, domain) {
   var exp = new Date();
   exp.setTime(exp.getTime() + second * 1000);
   document.cookie =
@@ -38,7 +38,9 @@ function setCookie(name, value, second, domain) {
     encodeURIComponent(value) +
     ";expires=" +
     exp.toGMTString() +
-    ";path=/;domain=" +
+    ";path=" +
+    path +
+    ";domain=" +
     domain +
     ";SameSite=None;Secure";
 }

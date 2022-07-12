@@ -23,9 +23,34 @@ tr:hover {
   top: 64px !important;
 }
 
+.chinese-programmer-wrong-pronunciation-custom-iframe-box-hidden {
+  display: none;
+}
+
 #chinese-programmer-wrong-pronunciation-custom-iframe {
   width: 100%;
   height: 100%;
   min-width: 700px !important;
   min-height: 600px !important;
+}
+
+.chinese-programmer-wrong-pronunciation-custom-tool-bar {
+  position: absolute;
+  right: -5px;
+  top: -32px;
+  font-size: 16px;
+}
+
+.chinese-programmer-wrong-pronunciation-custom-window-close-icon {
+  margin-right: 4px;
+  margin-left: 10px;
+}
+.chinese-programmer-wrong-pronunciation-custom-tool-bar-setup {
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.chinese-programmer-wrong-pronunciation-custom-note-reset {
+  font-size: 16px;
+  color: #c5955d;
 }
