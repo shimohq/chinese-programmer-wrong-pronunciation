@@ -22,6 +22,7 @@
 | Angular | [🔊](https://dict.youdao.com/dictvoice?audio=Angular&type=1)  /'æŋgjʊlə/ | [🔊](https://dict.youdao.com/dictvoice?audio=Angular&type=2)  /ˈæŋɡjələr/ |  ❌ /'æŋɡələ/ /'æŋdʒʌlə/ |
 | AJAX | [🔊](https://dict.youdao.com/dictvoice?audio=AJAX&type=1)  /'eidʒæks/ | [🔊](https://dict.youdao.com/dictvoice?audio=AJAX&type=2)  /'eidʒæks/ |  ❌ /ə'dʒʌks/ |
 | alias | [🔊](https://dict.youdao.com/dictvoice?audio=alias&type=1)  /ˈeɪliəs/ | [🔊](https://dict.youdao.com/dictvoice?audio=alias&type=2)  /ˈeɪliəs/ |  ❌ /ə'lais/ |
+| align | [🔊](https://dict.youdao.com/dictvoice?audio=align&type=1)  /əˈlaɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=align&type=2)  /əˈlaɪn/ |  ❌ /ə'lidʒen/ |
 | Apache | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=1)  /ə'pætʃɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=2)  /əˈpætʃi/ |  ❌ /ʌpʌtʃ/ |
 | app | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=1)  /æp/ | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=2)  /æp/ |  ❌ /eipi'pi/ |
 | archive | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=1)  /'ɑːkaɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=2)  /'ɑːkaɪv/ |  ❌ /'ətʃɪv/ |
