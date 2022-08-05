@@ -33,12 +33,14 @@
 | avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)  /'ævətɑː/ | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)  /ˈævətɑːr/ |  ❌ /ə'vʌtɑ/ |
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
+| C# |    /si ʃɑːp/ |  /siʃɑːrp/ |  ❌  /si jing/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
 | canal | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=1) /kəˈnæl/ | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=2) /kəˈnæl/ | ❌ /ˈkænl/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
 | clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
 | Coq | [🔊](https://upload.wikimedia.org/wikipedia/commons/4/47/Fr-coq.ogg) IPA French ['kɔkʲ] 读若拼音“goq” | | ❌ IPA English ['kʰɒk] |
 | daemon | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=1)  /'diːmən/ | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=2)  /ˈdiːmən/ |  ❌ /dæmən/ |
+| Debian | /ˈdɛbiən/ | /ˈdɛbiən/ |  ❌ /ˈdiːbiən/ |
 | debt | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=1)  /det/ | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=2)  /det/ |  ❌ /de'bit/ |
 | deny | [🔊](https://dict.youdao.com/dictvoice?audio=deny&type=1)  /dɪ'naɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=deny&type=2)  /dɪˈnaɪ/ |  ❌ /'dæni/ |
 | deprecate | [🔊](https://dict.youdao.com/dictvoice?audio=deprecate&type=1) /ˈdeprəkeɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=deprecate&type=2) /ˈdeprəkeɪt/ |  |
@@ -76,6 +78,7 @@
 | key | [🔊](https://dict.youdao.com/dictvoice?audio=key&type=1)  /kiː/ | [🔊](https://dict.youdao.com/dictvoice?audio=key&type=2)  /kiː/ |  ❌ /kei/ |
 | Kubernetes* | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubз'netɪs/ | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kuːbə˞'netiz/ |   |
 | lambda | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
+| LaTeX | /ˈleɪtɛk/ | /ˈlɑːtɛk/ |  ❌ /ˈlɑːtɛk/ /ˈleɪteks/ |
 | Ldap | [🔊](https://dict.youdao.com/dictvoice?audio=ldap&type=1)  /el'dæp/ | [🔊](https://dict.youdao.com/dictvoice?audio=ldap&type=2)  /el'dæp/ |  ❌ /el'daːp/ |
 | linear | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=1)  /'lɪnɪə/ | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=2)  /ˈlɪniər/ |  ❌ /'laɪə/ |
 | LINQ | [🔊](https://dict.youdao.com/dictvoice?audio=link&type=1) /lɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=link&type=2) /lɪŋk/ |  ❌ /lɪŋkju:/ |
@@ -96,8 +99,9 @@
 | null | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=1)  /nʌl/ | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=2)  /nʌl/ |  ❌ /naʊ/ |
 | obsolete | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=1) /ˈɒbsəliːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=2) /ˌɑːbsəˈliːt/ |  |
 | OS X |    OS ten |    OS ten |  ❌ /ɔs eks/ |
-| phantom | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=1)  /'fæntəm/ | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=2)  /ˈfæntəm/ |  ❌ /'pæntəm/ |
 | parameter | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=1)  /pə'ræmɪtə/ | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=2)  /pəˈræmɪtər/ |  ❌ /'pærəmɪtə/ |
+| PayPal | [🔊](https://dictionary.cambridge.org/zhs/media/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/uk_pron/u/uka/uka31/uka31358.mp3)  /ˈpeɪ.pæl/ | [🔊](https://dictionary.cambridge.org/zhs/media/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/us_pron/u/usa/usa31/usa31358.mp3)  /ˈpeɪ.pæl/ |  ❌ /'pebo/ |
+| phantom | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=1)  /'fæntəm/ | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=2)  /ˈfæntəm/ |  ❌ /'pæntəm/ |
 | privilege | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=1)  /'prɪvəlɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=2)  /ˈprɪvəlɪdʒ/ |  ❌ /'prɪvɪlɪdʒ/ |
 | probe | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=1) /prəʊb/ | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=2) /proʊb/ | ❌ /proʊbi/ |
 | Prometheus | [🔊](https://dict.youdao.com/dictvoice?audio=prometheus&type=1)  /prə-ˈmē-thē-əs/ | [🔊](https://dict.youdao.com/dictvoice?audio=prometheus&type=2)  /pro'miθɪəs/ |   |
