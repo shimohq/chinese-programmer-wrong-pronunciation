@@ -33,6 +33,7 @@
 | avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)  /'ævətɑː/ | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)  /ˈævətɑːr/ |  ❌ /ə'vʌtɑ/ |
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
+| BIOS | [🔊](https://dict.youdao.com/dictvoice?audio=bios&type=1)  /ˈbaɪɒs/ | /'baɪɑs/ |  ❌ /ˈbɪɒs/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
 | canal | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=1) /kəˈnæl/ | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=2) /kəˈnæl/ | ❌ /ˈkænl/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
@@ -125,6 +126,7 @@
 | tuple | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=1) /tjʊpəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=2) /tuːpəl/ |  |
 | typical | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=1)  /'tɪpɪkl/ | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=2)  /ˈtɪpɪkl/ |  ❌ /'taɪpɪkəl/ |
 | Ubuntu | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ |  ❌ /juː'bʊntʊ/ |
+| UEFI | U-E-F-I | U-E-F-I  | ❌ /jufi/ /ɔːfi/ |
 | Vagrant | [🔊](https://dict.youdao.com/dictvoice?audio=Vagrant&type=1) /ˈveɪɡrənt/ | [🔊](https://dict.youdao.com/dictvoice?audio=Vagrant&type=2) /ˈveɪɡrənt/ | /ˈvagɹent/ |
 | variable | [🔊](https://dict.youdao.com/dictvoice?audio=variable&type=1)  /'veəriəbl/ | [🔊](https://dict.youdao.com/dictvoice?audio=variable&type=2)  /ˈveriəbl,ˈværiəbl/ | ❌ /və'raiəbl/ |
 | verbose | [🔊](https://dict.youdao.com/dictvoice?audio=verbose&type=1)  /vɜːˈbəʊs/ | [🔊](https://dict.youdao.com/dictvoice?audio=verbose&type=2)  /vɜːrˈboʊs/ |  ❌ /'vɜːrboʊs/ |
