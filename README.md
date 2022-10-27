@@ -79,6 +79,7 @@
 | Kubernetes* | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubз'netɪs/ | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kuːbə˞'netiz/ |   |
 | lambda | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
 | Ldap | [🔊](https://dict.youdao.com/dictvoice?audio=ldap&type=1)  /el'dæp/ | [🔊](https://dict.youdao.com/dictvoice?audio=ldap&type=2)  /el'dæp/ |  ❌ /el'daːp/ |
+| legacy | [🔊](https://dict.youdao.com/dictvoice?audio=legacy&type=1)  /'leɡəsi/ | [🔊](https://dict.youdao.com/dictvoice?audio=legacy&type=2)  /'leɡəsi/ |  ❌ /'li:gasi/ |
 | linear | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=1)  /'lɪnɪə/ | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=2)  /ˈlɪniər/ |  ❌ /'laɪə/ |
 | LINQ | [🔊](https://dict.youdao.com/dictvoice?audio=link&type=1) /lɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=link&type=2) /lɪŋk/ |  ❌ /lɪŋkju:/ |
 | Linux | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
