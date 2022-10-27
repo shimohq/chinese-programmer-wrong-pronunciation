@@ -38,6 +38,7 @@
 | canal | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=1) /kəˈnæl/ | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=2) /kəˈnæl/ | ❌ /ˈkænl/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
 | clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
+| context | [🔊](https://dict.youdao.com/dictvoice?audio=context&type=1)  /ˈkɒntekst/ | [🔊](https://dict.youdao.com/dictvoice?audio=context&type=2)  / ˈkɑːntekst/ |  ❌ /kənˈtekst/ |
 | Coq | [🔊](https://upload.wikimedia.org/wikipedia/commons/4/47/Fr-coq.ogg) IPA French ['kɔkʲ] 读若拼音“goq” | | ❌ IPA English ['kʰɒk] |
 | daemon | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=1)  /'diːmən/ | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=2)  /ˈdiːmən/ |  ❌ /dæmən/ |
 | debt | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=1)  /det/ | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=2)  /det/ |  ❌ /de'bit/ |
