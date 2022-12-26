@@ -37,6 +37,10 @@ let init = () => {
           let aTag = event.target.parentNode.parentNode;
           audio_url = aTag.getAttribute("href");
         }
+        if (event.target.nodeName === "G-EMOJI") {
+          let aTag = event.target.parentNode;
+          audio_url = aTag.getAttribute("href");
+        }
         if (audio_url) {
           let desURL = new URL(audio_url);
           //console.log(desURL.protocol);
