@@ -22,6 +22,7 @@
 | Angular | [🔊](https://dict.youdao.com/dictvoice?audio=Angular&type=1)  /'æŋgjʊlə/ | [🔊](https://dict.youdao.com/dictvoice?audio=Angular&type=2)  /ˈæŋɡjələr/ |  ❌ /'æŋɡələ/ /'æŋdʒʌlə/ |
 | AJAX | [🔊](https://dict.youdao.com/dictvoice?audio=AJAX&type=1)  /'eidʒæks/ | [🔊](https://dict.youdao.com/dictvoice?audio=AJAX&type=2)  /'eidʒæks/ |  ❌ /ə'dʒʌks/ |
 | alias | [🔊](https://dict.youdao.com/dictvoice?audio=alias&type=1)  /ˈeɪliəs/ | [🔊](https://dict.youdao.com/dictvoice?audio=alias&type=2)  /ˈeɪliəs/ |  ❌ /ə'lais/ |
+| align | [🔊](https://dict.youdao.com/dictvoice?audio=align&type=1)  /əˈlaɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=align&type=2)  /əˈlaɪn/ |  ❌ /ə'lidʒen/ |
 | Apache | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=1)  /ə'pætʃɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=2)  /əˈpætʃi/ |  ❌ /ʌpʌtʃ/ |
 | app | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=1)  /æp/ | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=2)  /æp/ |  ❌ /eipi'pi/ |
 | archive | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=1)  /'ɑːkaɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=2)  /'ɑːkaɪv/ |  ❌ /'ətʃɪv/ |
@@ -32,6 +33,7 @@
 | avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)  /'ævətɑː/ | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)  /ˈævətɑːr/ |  ❌ /ə'vʌtɑ/ |
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
+| BIOS | [🔊](https://dict.youdao.com/dictvoice?audio=bios&type=1)  /ˈbaɪɒs/ | /'baɪɑs/ |  ❌ /ˈbɪɒs/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
 | canal | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=1) /kəˈnæl/ | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=2) /kəˈnæl/ | ❌ /ˈkænl/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
@@ -124,6 +126,7 @@
 | tuple | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=1) /tjʊpəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=2) /tuːpəl/ |  |
 | typical | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=1)  /'tɪpɪkl/ | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=2)  /ˈtɪpɪkl/ |  ❌ /'taɪpɪkəl/ |
 | Ubuntu | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ |  ❌ /juː'bʊntʊ/ |
+| UEFI | U-E-F-I | U-E-F-I  | ❌ /jufi/ /ɔːfi/ |
 | Vagrant | [🔊](https://dict.youdao.com/dictvoice?audio=Vagrant&type=1) /ˈveɪɡrənt/ | [🔊](https://dict.youdao.com/dictvoice?audio=Vagrant&type=2) /ˈveɪɡrənt/ | /ˈvagɹent/ |
 | variable | [🔊](https://dict.youdao.com/dictvoice?audio=variable&type=1)  /'veəriəbl/ | [🔊](https://dict.youdao.com/dictvoice?audio=variable&type=2)  /ˈveriəbl,ˈværiəbl/ | ❌ /və'raiəbl/ |
 | verbose | [🔊](https://dict.youdao.com/dictvoice?audio=verbose&type=1)  /vɜːˈbəʊs/ | [🔊](https://dict.youdao.com/dictvoice?audio=verbose&type=2)  /vɜːrˈboʊs/ |  ❌ /'vɜːrboʊs/ |
@@ -133,20 +136,20 @@
 | Vite | [🔊](https://dict.youdao.com/dictvoice?audio=vite&type=1)  /vit/ | [🔊](https://dict.youdao.com/dictvoice?audio=vite&type=2)  /vit/ |  ❌ /vaɪt/ |
 
 ### 附注
-*  无页面跳转，页面嵌入搜索引擎和实时检索英语发音，请安装 [chromium 扩展](tools/chromium_extension/README.md)
+*  无页面跳转，页面嵌入搜索引擎和实时检索英语发音，请安装[chromium 扩展](tools/chromium_extension/README.md)
     * [chromium 扩展新增功能截图](tools/chromium_extension/images/README.md)
 * 当使用简名 ‘Kube’ 称呼 ‘Kubernetes’ 时, 发音则与 ‘cube’(/kjuːb/) 一致
 
 ### 相关链接
-* 真人发音： https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
-* 简洁的单词列表，正确读音不用再打开新网页： https://cpwp.netlify.app/ (by @antfu7)
+* 真人发音：https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
+* 简洁的单词列表，正确读音不用再打开新网页：https://cpwp.netlify.app/ (by @antfu7)
 * 国际音标严式记音（纽约音）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
 * 单词连读：https://corrector.justsong.cn/ (by [@songquanpeng](https://github.com/songquanpeng/pronunciation-corrector))
 * [iOS app](https://apps.apple.com/cn/app/%E7%8C%BF%E5%8D%95%E8%AF%8D-%E4%B8%AD%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%B9%E6%98%93%E5%8F%91%E9%9F%B3%E9%94%99%E8%AF%AF%E7%9A%84%E5%8D%95%E8%AF%8D/id1626487291) (by @Chang12)
 * [chromium系浏览器扩展，无页面跳转，实时检索英语发音](https://github.com/jingjingxyk/chinese-programmer-wrong-pronunciation-chromium-extension.git) (by @jingjingxyk)
 
 ### 说明
-1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
+1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式DJ音标，不代表其唯一性
 1. 专业在线英语词典请参考: [在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
 
 ### 参考资料
