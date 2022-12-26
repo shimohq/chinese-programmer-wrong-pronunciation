@@ -38,6 +38,7 @@
 | canal | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=1) /kəˈnæl/ | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=2) /kəˈnæl/ | ❌ /ˈkænl/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
 | clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
+| context | [🔊](https://dict.youdao.com/dictvoice?audio=context&type=1)  /ˈkɒntekst/ | [🔊](https://dict.youdao.com/dictvoice?audio=context&type=2)  / ˈkɑːntekst/ |  ❌ /kənˈtekst/ |
 | Coq | [🔊](https://upload.wikimedia.org/wikipedia/commons/4/47/Fr-coq.ogg) IPA French ['kɔkʲ] 读若拼音“goq” | | ❌ IPA English ['kʰɒk] |
 | daemon | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=1)  /'diːmən/ | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=2)  /ˈdiːmən/ |  ❌ /dæmən/ |
 | debt | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=1)  /det/ | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=2)  /det/ |  ❌ /de'bit/ |
@@ -78,6 +79,7 @@
 | Kubernetes* | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubз'netɪs/ | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kuːbə˞'netiz/ |   |
 | lambda | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
 | Ldap | [🔊](https://dict.youdao.com/dictvoice?audio=ldap&type=1)  /el'dæp/ | [🔊](https://dict.youdao.com/dictvoice?audio=ldap&type=2)  /el'dæp/ |  ❌ /el'daːp/ |
+| legacy | [🔊](https://dict.youdao.com/dictvoice?audio=legacy&type=1)  /'leɡəsi/ | [🔊](https://dict.youdao.com/dictvoice?audio=legacy&type=2)  /'leɡəsi/ |  ❌ /'li:gasi/ |
 | linear | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=1)  /'lɪnɪə/ | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=2)  /ˈlɪniər/ |  ❌ /'laɪə/ |
 | LINQ | [🔊](https://dict.youdao.com/dictvoice?audio=link&type=1) /lɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=link&type=2) /lɪŋk/ |  ❌ /lɪŋkju:/ |
 | Linux | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
