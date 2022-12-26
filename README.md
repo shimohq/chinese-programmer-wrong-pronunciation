@@ -127,7 +127,7 @@
 | thymeleaf | [🔊](https://dict.youdao.com/dictvoice?audio=thymeleaf&type=1)  /ˈtaɪmˌlɪːf/ | [🔊](https://dict.youdao.com/dictvoice?audio=thymeleaf&type=2)  /ˈtaɪmˌlɪːf/ |  ❌ /θiːmɪlɪːf/ |
 | tuple | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=1) /tjʊpəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=2) /tuːpəl/ |  |
 | typical | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=1)  /'tɪpɪkl/ | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=2)  /ˈtɪpɪkl/ |  ❌ /'taɪpɪkəl/ |
-| Ubuntu | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ | [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ |  ❌ /juː'bʊntʊ/ |
+| Ubuntu | [🔊](https://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ |  ❌ /juː'bʊntʊ/ |
 | UEFI | U-E-F-I | U-E-F-I  | ❌ /jufi/ /ɔːfi/ |
 | Vagrant | [🔊](https://dict.youdao.com/dictvoice?audio=Vagrant&type=1) /ˈveɪɡrənt/ | [🔊](https://dict.youdao.com/dictvoice?audio=Vagrant&type=2) /ˈveɪɡrənt/ | /ˈvagɹent/ |
 | variable | [🔊](https://dict.youdao.com/dictvoice?audio=variable&type=1)  /'veəriəbl/ | [🔊](https://dict.youdao.com/dictvoice?audio=variable&type=2)  /ˈveriəbl,ˈværiəbl/ | ❌ /və'raiəbl/ |
