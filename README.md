@@ -36,6 +36,7 @@
 | BIOS | [🔊](https://dict.youdao.com/dictvoice?audio=bios&type=1)  /ˈbaɪɒs/ | /'baɪɑs/ |  ❌ /ˈbɪɒs/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
 | canal | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=1) /kəˈnæl/ | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=2) /kəˈnæl/ | ❌ /ˈkænl/ |
+| chaos | [🔊](https://dict.youdao.com/dictvoice?audio=chaos&type=1) /ˈkeɪɒs/ | [🔊](https://dict.youdao.com/dictvoice?audio=chaos&type=2) /ˈkeɪɑːs/ |  ❌ /ˈtʃoʊs/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
 | clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
 | context | [🔊](https://dict.youdao.com/dictvoice?audio=context&type=1)  /ˈkɒntekst/ | [🔊](https://dict.youdao.com/dictvoice?audio=context&type=2)  / ˈkɑːntekst/ |  ❌ /kənˈtekst/ |
