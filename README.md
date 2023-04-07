@@ -52,7 +52,7 @@
 | doc | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=1)  /dɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=2)  /dɒk/ |  ❌ /daʊk/ |
 | dotnet | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=1)  /dɒtnet/ | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=2)  /dɑːtnet/ |  ❌ /daʊtnet/ |
 | edition | [🔊](https://dict.youdao.com/dictvoice?audio=edition&type=1)  /ɪˈdɪʃ(ə)n/ | [🔊](https://dict.youdao.com/dictvoice?audio=edition&type=2)  /ɪˈdɪʃn/ |  ❌ /eˈdɪʃn/ |
-| ephemeral | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=1)  /ɪˈfemərəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=2)  /ɪˈfemərəl/ |  ❌ /daʊtnet/ |
+| ephemeral | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=1)  /ɪˈfemərəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=2)  /ɪˈfemərəl/ |  ❌ /efe'merəl/ |
 | epoch  | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=1)  /ˈiːpɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=2)  /ˈepək/ |  ❌ /'ɛpətʃ/ |
 | execute | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=1) /ˈeksɪkjuːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=2) /ˈeksɪkjuːt/ |  |
 | executor | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=1) /ɪɡˈzekjətə(r)/ | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=2) /ɪɡˈzekjətər/ |  |
