@@ -121,7 +121,7 @@
 | scheme | [🔊](https://dict.youdao.com/dictvoice?audio=scheme&type=1)  /skiːm/ | [🔊](https://dict.youdao.com/dictvoice?audio=scheme&type=2)  /skiːm/ |  ❌ /s'kæmə/ |
 | scala | [🔊](https://dict.youdao.com/dictvoice?audio=scala&type=1)  /ˈskɑːlɑ/ | [🔊](https://dict.youdao.com/dictvoice?audio=scala&type=2)  /ˈskɑːlɑ/ |  ❌ /ˈskæːlɑ/ |
 | segue | [🔊](https://dict.youdao.com/dictvoice?audio=segue&type=1)  /'sɛɡwe/ | [🔊](https://dict.youdao.com/dictvoice?audio=segue&type=2)  /ˈseɡweɪ/ |  ❌ /se'dʒ/ |
-| SQL | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ |  |
+| SQL | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ | ❌ /sərk(ə)l/ |
 | sudo | /'suːduː/ | /'suːduː/ |  |
 | suite | [🔊](https://dict.youdao.com/dictvoice?audio=suite&type=1)  /swiːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=suite&type=2)  /swiːt/ |  ❌ /sjuːt/ |
 | telemetry | [🔊](https://dict.youdao.com/dictvoice?audio=telemetry&type=1) /təˈlemətri/ | [🔊](https://dict.youdao.com/dictvoice?audio=telemetry&type=2) /təˈlemətri/ | ❌ /ˈtelɪmətri/ |
