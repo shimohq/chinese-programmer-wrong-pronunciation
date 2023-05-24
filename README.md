@@ -66,7 +66,7 @@
 | GNU | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnu:/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnuː,gnjuː/ |  |
 | Grafana | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3)   /grəˈfɑːnˌɑː/ | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3 )   /grəˈfɑːnˌɑː/ |  |
 | GraphQL | [🔊](https://dict.youdao.com/dictvoice?audio=GraphQL&type=1)  /græf kju ɛl/ | [🔊](https://dict.youdao.com/dictvoice?audio=GraphQL&type=2)  /græf kju ɛl/ |  ❌ /dʒɪgræf kju ɛl/ |
-| GUI | [🔊](https://dict.youdao.com/dictvoice?audio={GUI}&type=1)  /ˈɡu:i/ | [🔊](https://dict.youdao.com/dictvoice?audio={GUI}&type=2)  /ˈɡu:i/ |  |
+| GUI | [🔊](https://dict.youdao.com/dictvoice?audio=GUI&type=1)  /ˈɡu:i/ | [🔊](https://dict.youdao.com/dictvoice?audio=GUI&type=2)  /ˈɡu:i/ |  |
 | Haskell | [🔊](https://dict.youdao.com/dictvoice?audio=haskell&type=1)  /ˈhæskəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=haskell&type=2)  /ˈhæskəl/ |  ❌ /hæˈskəl/ |
 | height | [🔊](https://dict.youdao.com/dictvoice?audio=height&type=1)  /haɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=height&type=2)  /haɪt/ |  ❌ /heɪt/ |
 | hidden | [🔊](https://dict.youdao.com/dictvoice?audio=hidden&type=1)  /'hɪdn/ | [🔊](https://dict.youdao.com/dictvoice?audio=hidden&type=2)  /ˈhɪdn/ |  ❌ /'haɪdn/ |
