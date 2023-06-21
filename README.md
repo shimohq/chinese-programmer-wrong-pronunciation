@@ -93,6 +93,7 @@
 | maven | [🔊](https://dict.youdao.com/dictvoice?audio=maven&type=1)  /'meɪvn/ | [🔊](https://dict.youdao.com/dictvoice?audio=maven&type=2)  /ˈmeɪvn/ |  ❌ /'maːvn/ |
 | max | [🔊](https://dict.youdao.com/dictvoice?audio=max&type=1) /mæks/ | [🔊](https://dict.youdao.com/dictvoice?audio=max&type=2) /mæks/ |  ❌ /mɑ:ks/ |
 | Microsoft | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft&type=1)  /'maikrəusɔft/ | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft&type=2)  /ˈmaɪkrəsɔːft/ |  ❌ /'mikrəusɔft/ |
+| migrate | [🔊](https://dict.youdao.com/dictvoice?audio=migrate&type=1) /maɪˈɡreɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=migrate&type=2) /ˈmaɪɡreɪt/ |  ❌ /ˈmɪɡreɪt/ |
 | miscellaneous | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=1) /ˌmɪsəˈleɪniəs/ | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=2) /ˌmɪsəˈleɪniəs/ |  |
 | module | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=1)  /'mɒdjuːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=2)  /ˈmɑːdʒuːl/ |  ❌ /'məʊdl/ |
 | native | [🔊](https://dict.youdao.com/dictvoice?audio=native&type=1) /ˈneɪtɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=native&type=2) /ˈneɪtɪv/ | ❌ /ˈnætɪv/ |
