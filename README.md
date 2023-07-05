@@ -61,6 +61,7 @@
 | facade | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=1)  /fə'sɑːd/ | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=2)  /fəˈsɑːd/ |  ❌ /'feikeid/ |
 | fedora | [🔊](https://dict.youdao.com/dictvoice?audio=fedora&type=1)  /fɪ'dɔːrə/ | [🔊](https://dict.youdao.com/dictvoice?audio=fedora&type=2)  /fɪˈdɔːrə/ |  ❌ /'fedərə/ |
 | format | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=1)  /'fɔːmæt/ | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=2)  /ˈfɔːrmæt/ |  ❌ /fɔ'mæt/ |
+| frame | [🔊](https://dict.youdao.com/dictvoice?audio=frame&type=1)  /freɪm/ | [🔊](https://dict.youdao.com/dictvoice?audio=frame&type=2)  /ˈfreɪm/ |  ❌ /fræm/ |
 | gauge | [🔊](https://dict.youdao.com/dictvoice?audio=gauge&type=1) /ɡeɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=gauge&type=2) /ɡeɪdʒ/ |  ❌ /ɡɑudʒ/ |
 | Git | [🔊](https://dict.youdao.com/dictvoice?audio=git&type=1)  /ɡɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=git&type=2)  /ɡɪt/ |  ❌ /dʒɪt/ |
 | GNU | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnu:/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnuː,gnjuː/ |  |
@@ -72,6 +73,7 @@
 | hidden | [🔊](https://dict.youdao.com/dictvoice?audio=hidden&type=1)  /'hɪdn/ | [🔊](https://dict.youdao.com/dictvoice?audio=hidden&type=2)  /ˈhɪdn/ |  ❌ /'haɪdn/ |
 | image | [🔊](https://dict.youdao.com/dictvoice?audio=image&type=1)  /'ɪmɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=image&type=2)  /ˈɪmɪdʒ/ |  ❌ /ɪ'meɪdʒ/ |
 | implement | [🔊](https://dict.youdao.com/dictvoice?audio=implement&type=1)  /'ɪmplɪm(ə)nt/ | [🔊](https://dict.youdao.com/dictvoice?audio=implement&type=2)  /ˈɪmplɪmənt/ /ˈɪmpləˌment/ |  ❌ /ɪm'plem(ə)nt/ |
+| init | [🔊](https://dict.youdao.com/dictvoice?audio=init&type=1)  /ɪˈnɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=init&type=2)  /ˈɪmplɪmənt/ /ɪˈnɪt/ |  ❌ /ˈɪnɪt/ |
 | integer | [🔊](https://dict.youdao.com/dictvoice?audio=integer&type=1)  /'ɪntɪdʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=integer&type=2)  /ˈɪntɪdʒər/ |  ❌ /ˈɪntaɪgə/ |
 | issue | [🔊](https://dict.youdao.com/dictvoice?audio=issue&type=1)  /'ɪʃuː/ | [🔊](https://dict.youdao.com/dictvoice?audio=issue&type=2)  /ˈɪʃuː/ |  ❌ /ˈaɪʃuː/ |
 | Java | [🔊](https://dict.youdao.com/dictvoice?audio=java&type=1)  /'dʒɑːvə/ | [🔊](https://dict.youdao.com/dictvoice?audio=java&type=2)  /ˈdʒɑːvə/ |  |
@@ -103,6 +105,7 @@
 | OS X |    OS ten |    OS ten |  ❌ /ɔs eks/ |
 | phantom | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=1)  /'fæntəm/ | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=2)  /ˈfæntəm/ |  ❌ /'pæntəm/ |
 | parameter | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=1)  /pə'ræmɪtə/ | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=2)  /pəˈræmɪtər/ |  ❌ /'pærəmɪtə/ |
+| pixel | [🔊](https://dict.youdao.com/dictvoice?audio=pixel&type=1)  /ˈpɪksl/ | [🔊](https://dict.youdao.com/dictvoice?audio=pixel&type=2)  /ˈpɪksl/ |  ❌ /paɪk'sl/ |
 | privilege | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=1)  /'prɪvəlɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=2)  /ˈprɪvəlɪdʒ/ |  ❌ /'prɪvɪlɪdʒ/ |
 | probe | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=1) /prəʊb/ | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=2) /proʊb/ | ❌ /proʊbi/ |
 | Prometheus | [🔊](https://dict.youdao.com/dictvoice?audio=prometheus&type=1)  /prə-ˈmē-thē-əs/ | [🔊](https://dict.youdao.com/dictvoice?audio=prometheus&type=2)  /pro'miθɪəs/ |   |
@@ -125,8 +128,10 @@
 | SQL | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ | /ˈsiːkwəl/ /ˈesˈkjuːˈel/ | ❌ /sərk(ə)l/ |
 | sudo | /'suːduː/ | /'suːduː/ |  |
 | suite | [🔊](https://dict.youdao.com/dictvoice?audio=suite&type=1)  /swiːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=suite&type=2)  /swiːt/ |  ❌ /sjuːt/ |
+| swap | [🔊](https://dict.youdao.com/dictvoice?audio=swap&type=1)  /swɒp/ | [🔊](https://dict.youdao.com/dictvoice?audio=swap&type=2)  /swɑːp/ |  ❌ /swæp/ |
 | telemetry | [🔊](https://dict.youdao.com/dictvoice?audio=telemetry&type=1) /təˈlemətri/ | [🔊](https://dict.youdao.com/dictvoice?audio=telemetry&type=2) /təˈlemətri/ | ❌ /ˈtelɪmətri/ |
 | thymeleaf | [🔊](https://dict.youdao.com/dictvoice?audio=thymeleaf&type=1)  /ˈtaɪmˌlɪːf/ | [🔊](https://dict.youdao.com/dictvoice?audio=thymeleaf&type=2)  /ˈtaɪmˌlɪːf/ |  ❌ /θiːmɪlɪːf/ |
+| tool | [🔊](https://dict.youdao.com/dictvoice?audio=tool&type=1)  /tuːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=tool&type=2)  /tuːl/ |  ❌ /tjuːl/ |
 | tuple | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=1) /tjʊpəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=tuple&type=2) /tuːpəl/ |  |
 | typical | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=1)  /'tɪpɪkl/ | [🔊](https://dict.youdao.com/dictvoice?audio=typical&type=2)  /ˈtɪpɪkl/ |  ❌ /'taɪpɪkəl/ |
 | Ubuntu | [🔊](https://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga)  /ʊ'bʊntʊ/ |  ❌ /juː'bʊntʊ/ |
