@@ -100,6 +100,7 @@
 | nginx |      Engine X |    Engine X  |  |
 | null | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=1)  /nʌl/ | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=2)  /nʌl/ |  ❌ /naʊ/ |
 | obsolete | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=1) /ˈɒbsəliːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=2) /ˌɑːbsəˈliːt/ |  |
+| origin | [🔊](https://dict.youdao.com/dictvoice?audio=origin&type=1) / ˈɒrɪdʒɪn / | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=2) / ˈɔːrɪdʒɪn / | / əˈrɪdʒɪn / |
 | OS X |    OS ten |    OS ten |  ❌ /ɔs eks/ |
 | phantom | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=1)  /'fæntəm/ | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=2)  /ˈfæntəm/ |  ❌ /'pæntəm/ |
 | parameter | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=1)  /pə'ræmɪtə/ | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=2)  /pəˈræmɪtər/ |  ❌ /'pærəmɪtə/ |
