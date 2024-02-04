@@ -70,6 +70,7 @@
 | Haskell | [🔊](https://dict.youdao.com/dictvoice?audio=haskell&type=1)  /ˈhæskəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=haskell&type=2)  /ˈhæskəl/ |  ❌ /hæˈskəl/ |
 | height | [🔊](https://dict.youdao.com/dictvoice?audio=height&type=1)  /haɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=height&type=2)  /haɪt/ |  ❌ /heɪt/ |
 | hidden | [🔊](https://dict.youdao.com/dictvoice?audio=hidden&type=1)  /'hɪdn/ | [🔊](https://dict.youdao.com/dictvoice?audio=hidden&type=2)  /ˈhɪdn/ |  ❌ /'haɪdn/ |
+| IEEE | [🔊](https://dict.youdao.com/dictvoice?audio=I_triple_e&type=1)  /aɪ ˈtrɪpəl i/ | [🔊](https://dict.youdao.com/dictvoice?audio=I_triple_e&type=2)  /aɪ ˈtrɪpəl i/ |  ❌ /'aɪ'iː'iː'iː/ |
 | image | [🔊](https://dict.youdao.com/dictvoice?audio=image&type=1)  /'ɪmɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=image&type=2)  /ˈɪmɪdʒ/ |  ❌ /ɪ'meɪdʒ/ |
 | implement | [🔊](https://dict.youdao.com/dictvoice?audio=implement&type=1)  /'ɪmplɪm(ə)nt/ | [🔊](https://dict.youdao.com/dictvoice?audio=implement&type=2)  /ˈɪmplɪmənt/ /ˈɪmpləˌment/ |  ❌ /ɪm'plem(ə)nt/ |
 | integer | [🔊](https://dict.youdao.com/dictvoice?audio=integer&type=1)  /'ɪntɪdʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=integer&type=2)  /ˈɪntɪdʒər/ |  ❌ /ˈɪntaɪgə/ |
