@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.8
+#!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
 """
 Create the description for a word to be added to the word list
