@@ -32,6 +32,7 @@
 | async | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=1) /əˈsɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=2) /æˈsɪŋk/ | ❌ /'æsɪŋk/ |
 | avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)  /'ævətɑː/ | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)  /ˈævətɑːr/ |  ❌ /ə'vʌtɑ/ |
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
+| Bazel | [🔊](https://dict.youdao.com/dictvoice?audio=bazel&type=1)  /ˈbeɪzəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=bazel&type=1) /ˈbeɪzəl/ |  ❌ /bæ zəl/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
 | BIOS | [🔊](https://dict.youdao.com/dictvoice?audio=bios&type=1)  /ˈbaɪɒs/ | /'baɪɑs/ |  ❌ /ˈbɪɒs/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
