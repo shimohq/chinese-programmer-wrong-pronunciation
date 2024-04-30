@@ -115,6 +115,7 @@
 | reconcile | [🔊](https://dict.youdao.com/dictvoice?audio=reconcile&type=1) /ˈrekənsaɪl/ | [🔊](https://dict.youdao.com/dictvoice?audio=reconcile&type=2) /ˈrekənsaɪl/ |  |
 | Redux | [🔊](https://dict.youdao.com/dictvoice?audio=redux&type=1)  /ri'dʌks/ | [🔊](https://dict.youdao.com/dictvoice?audio=redux&type=2)  /ri'dʌks/ |  ❌ /'ridju:ks/ |
 | resume | [🔊](https://dict.youdao.com/dictvoice?audio=resume&type=1)   /rɪ'zju:m/ | [🔊](https://dict.youdao.com/dictvoice?audio=resume&type=2)  /rɪˈzuːm/ |  ❌  /rɪ'sju:m/ |
+| résumé | [🔊](https://dict.youdao.com/dictvoice?audio=résumé&type=1)  /rezjumeɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=résumé&type=2)  /ˈrezəmeɪ/ |  ❌  /rɪ'sju:m/ |
 | resolved | [🔊](https://dict.youdao.com/dictvoice?audio=resolved&type=1)  /rɪ'zɒlvd/ | [🔊](https://dict.youdao.com/dictvoice?audio=resolved&type=2)  /rɪˈzɑːlvd/ |  ❌ /rɪ'səʊvd/ |
 | resort | [🔊](https://dict.youdao.com/dictvoice?audio=resort&type=1)  /rɪˈzɔ:t/ | [🔊](https://dict.youdao.com/dictvoice?audio=resort&type=2)  /rɪˈzɔːrt/ |  ❌ /rɪˈsɔ:t/ |
 | retina | [🔊](https://dict.youdao.com/dictvoice?audio=retina&type=1)  /'retɪnə/ | [🔊](https://dict.youdao.com/dictvoice?audio=retina&type=2)  /ˈretɪnə/ |  ❌ /ri'tina/ |
