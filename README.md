@@ -120,6 +120,7 @@
 | resolved | [🔊](https://dict.youdao.com/dictvoice?audio=resolved&type=1)  /rɪ'zɒlvd/ | [🔊](https://dict.youdao.com/dictvoice?audio=resolved&type=2)  /rɪˈzɑːlvd/ |  ❌ /rɪ'səʊvd/ |
 | resort | [🔊](https://dict.youdao.com/dictvoice?audio=resort&type=1)  /rɪˈzɔ:t/ | [🔊](https://dict.youdao.com/dictvoice?audio=resort&type=2)  /rɪˈzɔːrt/ |  ❌ /rɪˈsɔ:t/ |
 | retina | [🔊](https://dict.youdao.com/dictvoice?audio=retina&type=1)  /'retɪnə/ | [🔊](https://dict.youdao.com/dictvoice?audio=retina&type=2)  /ˈretɪnə/ |  ❌ /ri'tina/ |
+| RISC-V | [🔊](https://dict.youdao.com/dictvoice?audio=risk-five&type=1)  /'rɪsk faɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=risk-five&type=2)  /'rɪsk faɪv/ |  ❌ /'rɪsk v/ |
 | route | [🔊](https://dict.youdao.com/dictvoice?audio=route&type=1)  /ruːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=route&type=2)  /ruːt,raʊt/ |  ❌ /rəʊt/ |
 | San Jose | [🔊](https://dict.youdao.com/dictvoice?audio=san%20jose&type=1)  /sænhəu'zei/ | [🔊](https://dict.youdao.com/dictvoice?audio=san%20jose&type=2)  /sænhəu'zei/ |  ❌ /sæn'ju:s/ |
 | safari | [🔊](https://dict.youdao.com/dictvoice?audio=safari&type=1)  /sə'fɑːrɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=safari&type=2)  /səˈfɑːri/ |  ❌ /sæfərɪ/ |
