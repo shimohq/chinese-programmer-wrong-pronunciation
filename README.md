@@ -51,6 +51,7 @@
 | Dijkstra | [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg)  Dutch:/ˈdɛikstra/ English:/ˈdaɪkstrə/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg)    |   |
 | Django | [🔊](https://dict.youdao.com/dictvoice?audio=Django&type=1)  /ˈdʒæŋɡoʊ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Django&type=2)  /ˈdʒæŋɡoʊ/ |  ❌ /diˈdʒæŋɡoʊ/ |
 | doc | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=1)  /dɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=2)  /dɒk/ |  ❌ /daʊk/ |
+| docker | [🔊](https://dict.youdao.com/dictvoice?audio=docker&type=1)  /ˈdɒkə(r)/ | [🔊](https://dict.youdao.com/dictvoice?audio=docker&type=2)  /ˈdɑːkər/ |  ❌ /dɔːkər/ |
 | dotnet | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=1)  /dɒtnet/ | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=2)  /dɑːtnet/ |  ❌ /daʊtnet/ |
 | edition | [🔊](https://dict.youdao.com/dictvoice?audio=edition&type=1)  /ɪˈdɪʃ(ə)n/ | [🔊](https://dict.youdao.com/dictvoice?audio=edition&type=2)  /ɪˈdɪʃn/ |  ❌ /eˈdɪʃn/ |
 | ephemeral | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=1)  /ɪˈfemərəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=2)  /ɪˈfemərəl/ |  ❌ /efe'merəl/ |
