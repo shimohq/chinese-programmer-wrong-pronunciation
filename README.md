@@ -2,6 +2,7 @@
 ## 中国程序员容易发音错误的单词(点击🔊收听正确读音)
 
 ### 重要更新
+- 我们团队最新推出了一款新产品 **[@OfficeSDK](https://officesdk.com)**，拥有强大的文档预览与编辑功能，欢迎了解！
 
 - chromium扩展：无页面跳转，实时检索英语发音
   -  安装 [chromium 扩展](tools/chromium_extension/README.md) 或者
