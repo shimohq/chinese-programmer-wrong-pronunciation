@@ -30,7 +30,7 @@
 | array | [🔊](https://dict.youdao.com/dictvoice?audio=array&type=1)  /ə'rei/ | [🔊](https://dict.youdao.com/dictvoice?audio=array&type=2)  /əˈreɪ/ |  ❌ /æ'rei/ |
 | ASCII | [🔊](https://dict.youdao.com/dictvoice?audio=ascii&type=1)  /'æski/ | [🔊](https://dict.youdao.com/dictvoice?audio=ascii&type=2)  /ˈæski/ |  ❌ /ɑːsk/ |
 | aspect | [🔊](https://dict.youdao.com/dictvoice?audio=aspect&type=1)  /'æspekt/ | [🔊](https://dict.youdao.com/dictvoice?audio=aspect&type=2)  /ˈæspekt/ |  ❌ /ə'spekt/ |
-| async | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=1) /əˈsɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=2) /æˈsɪŋk/ | ❌ /'æsɪŋk/ |
+| async | [🔊](https://dict.youdao.com/dictvoice?audio=asynchronous&type=1) /eɪˈsɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=asynchronous&type=2) /eɪˈsɪŋk/ | ❌ /'æsɪŋk/ |
 | avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)  /'ævətɑː/ | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)  /ˈævətɑːr/ |  ❌ /ə'vʌtɑ/ |
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | Bazel | [🔊](https://dict.youdao.com/dictvoice?audio=bazel&type=1)  /ˈbeɪzəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=bazel&type=1) /ˈbeɪzəl/ |  ❌ /bæ zəl/ |
