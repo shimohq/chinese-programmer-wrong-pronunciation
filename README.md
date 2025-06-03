@@ -26,7 +26,7 @@
 | align | [🔊](https://dict.youdao.com/dictvoice?audio=align&type=1)  /əˈlaɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=align&type=2)  /əˈlaɪn/ |  ❌ /ə'lidʒen/ |
 | Apache | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=1)  /ə'pætʃɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=2)  /əˈpætʃi/ |  ❌ /ʌpʌtʃ/ |
 | app | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=1)  /æp/ | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=2)  /æp/ |  ❌ /eipi'pi/ |
-| archive | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=1)  /'ɑːkaɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=2)  /'ɑːkaɪv/ |  ❌ /'ətʃɪv/ |
+| archive | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=1)  /'ɑːkaɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=2)  /ˈɑːrkaɪv/ |  ❌ /'ətʃɪv/ |
 | array | [🔊](https://dict.youdao.com/dictvoice?audio=array&type=1)  /ə'rei/ | [🔊](https://dict.youdao.com/dictvoice?audio=array&type=2)  /əˈreɪ/ |  ❌ /æ'rei/ |
 | ASCII | [🔊](https://dict.youdao.com/dictvoice?audio=ascii&type=1)  /'æski/ | [🔊](https://dict.youdao.com/dictvoice?audio=ascii&type=2)  /ˈæski/ |  ❌ /ɑːsk/ |
 | aspect | [🔊](https://dict.youdao.com/dictvoice?audio=aspect&type=1)  /'æspekt/ | [🔊](https://dict.youdao.com/dictvoice?audio=aspect&type=2)  /ˈæspekt/ |  ❌ /ə'spekt/ |
