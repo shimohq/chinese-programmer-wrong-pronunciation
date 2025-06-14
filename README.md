@@ -106,6 +106,7 @@
 | OS X |    OS ten |    OS ten |  ❌ /ɔs eks/ |
 | phantom | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=1)  /'fæntəm/ | [🔊](https://dict.youdao.com/dictvoice?audio=phantom&type=2)  /ˈfæntəm/ |  ❌ /'pæntəm/ |
 | parameter | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=1)  /pə'ræmɪtə/ | [🔊](https://dict.youdao.com/dictvoice?audio=parameter&type=2)  /pəˈræmɪtər/ |  ❌ /'pærəmɪtə/ |
+| pip | [🔊](https://dict.youdao.com/dictvoice?audio=pip&type=1)  /'pɪp/ | [🔊](https://dict.youdao.com/dictvoice?audio=pip&type=2)  /'pɪp/ |  ❌ /'paɪp/ |
 | premise | [🔊](https://dict.youdao.com/dictvoice?audio=premise&type=1) /ˈpremɪs/ | [🔊](https://dict.youdao.com/dictvoice?audio=premise&type=2) /ˈpremɪs/ | ❌ /prɪ'mɪs/|
 | privilege | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=1)  /'prɪvəlɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=privilege&type=2)  /ˈprɪvəlɪdʒ/ |  ❌ /'prɪvɪlɪdʒ/ |
 | probe | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=1) /prəʊb/ | [🔊](https://dict.youdao.com/dictvoice?audio=probe&type=2) /proʊb/ | ❌ /proʊbi/ |
